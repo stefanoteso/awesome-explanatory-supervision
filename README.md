@@ -34,6 +34,9 @@ Approaches that somehow regularize or supervise the model's explanations.
 - **Right for the right reasons: training differentiable models by constraining their explanations**
   Andrew Slavin Ross, Michael C. Hughes, and Finale Doshi-Velez; IJCAI 2017 [paper](https://www.ijcai.org/Proceedings/2017/0371.pdf)
 
+- **Interpretable Machine Teaching via Feature Feedback**
+  Shihan Su, Yuxin Chen, Oisin Mac Aodha, Pietro Perona, Yisong Yue; Workshop on Teaching Machines, Robots, and Humans 2017 [paper](https://authors.library.caltech.edu/87329/1/nips17-teaching_paper-5.pdf)
+
 - **Deriving Machine Attention from Human Rationales**
   Yujia Bao, Shiyu Chang, Mo Yu, and Regina Barzilay; ACL 2019 [pdf](https://www.aclweb.org/anthology/D18-1216.pdf)
 
@@ -83,6 +86,9 @@ Approaches that combine explanatory supervision with interactive machine learnin
 - **Making deep neural networks right for the right scientific reasons by interacting with their explanations**
   Patrick Schramowski, Wolfgang Stammer, Stefano Teso, Anna Brugger, Franziska Herbert, Xiaoting Shao, Hans-Georg Luigs, Anne-Katrin Mahlein, Kristian Kersting; Nature Machine Intelligence 2020 [paper](https://www.nature.com/articles/s42256-020-0212-3)
   Note: introduces end-to-end explanatory interactive learning, fixes clever Hans deep neural nets.
+
+- **Human-in-the-loop Debugging Deep Text Classifiers**
+  Piyawat Lertvittayakumjorn, Lucia Specia, Francesca Toni; EMNLP 2020 [paper](https://www.aclweb.org/anthology/2020.emnlp-main.24.pdf)
 
 - **Human-driven FOL explanations of deep learning**
   Gabriele Ciravegna, Francesco Giannini, Marco Gori, Marco Maggini, Stefano Melacci; IJCAI 2020 [paper](https://www.ijcai.org/Proceedings/2020/0309.pdf)
@@ -141,6 +147,17 @@ A selection of general resources on Explainable AI focusing on overviews, survey
 - **Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead**
   Cynthia Rudin; Nature Machine Intelligence 2019 [page](https://www.nature.com/articles/s42256-019-0048-x)
 
+
+
+### TODO
+
+- precursors, like SVMs with feedback on features;  cited in Teso & Kersting 2019.
+
+- learning from rationales;  same.
+
+- work on machine teaching.
+
+- work on concept drift
 
 
 ### Comments
