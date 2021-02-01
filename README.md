@@ -17,13 +17,13 @@ Did we miss a relevant paper?  Please submit a new entry in the following format
 
 
 ### Table of Contents
-- [Explanatory Passive Learning](#explanatory-passive-learning)
-- [Explanatory Interactive Learning](#explanatory-interactive-learning)
-- [Background](#background)
+- [Passive Learning](#explanatory-passive-learning)
+- [Interactive Learning](#explanatory-interactive-learning)
+- [Resources](#background)
 
 
 
-### [Explanatory Passive Learning](#content)
+### [Passive Learning](#content)
 
 Approaches that somehow regularize or supervise the model's explanations.
 
@@ -44,7 +44,7 @@ Approaches that somehow regularize or supervise the model's explanations.
   Mohammad Taha Bahadori, and David E. Heckerman; arXiv 2020 [paper](https://arxiv.org/pdf/2007.11500.pdf)
 
 - **Evaluating Explanations: How much do explanations from the teacher aid students?**
-  Danish Pruthi, Bhuwan Dhingra, Livio Baldini Soares, Michael Collins, Zachary C. Lipton, Graham Neubig, and William W. Cohen; 2020 arXiv [paper](https://arxiv.org/pdf/2012.00893)
+  Danish Pruthi, Bhuwan Dhingra, Livio Baldini Soares, Michael Collins, Zachary C. Lipton, Graham Neubig, and William W. Cohen; arXiv 2020 [paper](https://arxiv.org/pdf/2012.00893)
   Notes: defines importance of different kinds of explanations by measuring their impact when used as supervision.
 
 - **Reflective-Net: Learning from Explanations**
@@ -62,7 +62,7 @@ Approaches that somehow regularize or supervise the model's explanations.
 
 
 
-### [Explanatory Interactive Learning](#content)
+### [Interactive Learning](#content)
 
 Approaches that combine explanatory supervision with interactive machine learning:
 
@@ -74,7 +74,7 @@ Approaches that combine explanatory supervision with interactive machine learnin
   Note: introduces explanatory interactive learning, focuses on active learning setup.
 
 - **Taking a hint: Leveraging explanations to make vision and language models more grounded**
-  Ramprasaath R. Selvaraju, Stefan Lee, Yilin Shen, Hongxia Jin, Shalini Ghosh, Larry Heck, Dhruv Batra, and Devi Parikh; ICCV, 2019 [pdf](https://openaccess.thecvf.com/content_ICCV_2019/papers/Selvaraju_Taking_a_HINT_Leveraging_Explanations_to_Make_Vision_and_Language_ICCV_2019_paper.pdf)
+  Ramprasaath R. Selvaraju, Stefan Lee, Yilin Shen, Hongxia Jin, Shalini Ghosh, Larry Heck, Dhruv Batra, and Devi Parikh; ICCV 2019 [pdf](https://openaccess.thecvf.com/content_ICCV_2019/papers/Selvaraju_Taking_a_HINT_Leveraging_Explanations_to_Make_Vision_and_Language_ICCV_2019_paper.pdf)
 
 - **Toward Faithful Explanatory Active Learning with Self-explainable Neural Nets**
   Stefano Teso; IAL Workshop 2019. [paper](https://lirias.kuleuven.be/retrieve/578884)
@@ -98,15 +98,18 @@ Approaches that combine explanatory supervision with interactive machine learnin
 
 
 
-### [Background](#content)
+### [Resources](#content)
 
 A selection of general resources on Explainable AI focusing on overviews, surveys, societal implications, and critiques:
 
+- **Survey and critique of techniques for extracting rules from trained artificial neural networks**
+  Robert Andrews, Joachim Diederich, Alan B. Tickle;  Knowledge-based systems 1995 [page](https://www.sciencedirect.com/science/article/abs/pii/0950705196819204)
+
 - **The Mythos of Model Interpretability**
-  Zachary Lipton, CACM, 2016 [paper](https://dl.acm.org/doi/pdf/10.1145/3236386.3241340)
+  Zachary Lipton; CACM 2016 [paper](https://dl.acm.org/doi/pdf/10.1145/3236386.3241340)
 
 - **A survey of methods for explaining black box models**
-  Riccardo Guidotti, Anna Monreale, Salvatore Ruggieri, Franco Turini, Fosca Giannotti, and Dino Pedreschi; ACM Computing Surveys, 2018 [paper](https://dl.acm.org/doi/pdf/10.1145/3236009)
+  Riccardo Guidotti, Anna Monreale, Salvatore Ruggieri, Franco Turini, Fosca Giannotti, and Dino Pedreschi; ACM Computing Surveys 2018 [paper](https://dl.acm.org/doi/pdf/10.1145/3236009)
 
 - **Explanation in Artificial Intelligence: Insights from the Social Sciences**
   Tim Miller; Artificial Intelligence, 2019 [paper](https://www.sciencedirect.com/science/article/abs/pii/S0004370218305988)
@@ -115,25 +118,28 @@ A selection of general resources on Explainable AI focusing on overviews, survey
   Sebastian Lapuschkin, Stephan Wäldchen, Alexander Binder, Grégoire Montavon, Wojciech Samek, Klaus-Robert Müller; Nature Communications 2019 [paper](https://www.nature.com/articles/s41467-019-08987-4)
 
 - **Interpretation of neural networks is fragile**
-  Amirata Ghorbani, Abubakar Abid, James Zou; 2019 AAAI [paper](https://ojs.aaai.org/index.php/AAAI/article/view/4252/4130)
+  Amirata Ghorbani, Abubakar Abid, James Zou; AAAI 2019 [paper](https://ojs.aaai.org/index.php/AAAI/article/view/4252/4130)
 
 - **Is Attention Interpretable?**
-  Sofia Serrano, Noah A. Smith; 2019 ACL [paper](https://www.aclweb.org/anthology/P19-1282.pdf)
+  Sofia Serrano, Noah A. Smith; ACL 2019 [paper](https://www.aclweb.org/anthology/P19-1282.pdf)
 
 - **Attention is not Explanation**
   Sarthak Jain, and Byron C. Wallace; ACL 2019 [paper](https://www.aclweb.org/anthology/N19-1357.pdf)
 
 - **Attention is not not Explanation**
-  Sarah Wiegreffe, and Yuval Pinter; 2019, EMNLP-IJCNLP [paper](https://www.aclweb.org/anthology/D19-1002.pdf)
+  Sarah Wiegreffe, and Yuval Pinter; EMNLP-IJCNLP 2019 [paper](https://www.aclweb.org/anthology/D19-1002.pdf)
 
 - **The (un)reliability of saliency methods**
-  Pieter-Jan Kindermans, Sara Hooker, Julius Adebayo, Maximilian Alber, Kristof T. Schütt, Sven Dähne, Dumitru Erhan, and Been Kim; 2019 Explainable AI: Interpreting, Explaining and Visualizing Deep Learning [paper](http://interpretable-ml.org/nips2017workshop/papers/10.pdf)
+  Pieter-Jan Kindermans, Sara Hooker, Julius Adebayo, Maximilian Alber, Kristof T. Schütt, Sven Dähne, Dumitru Erhan, and Been Kim; Explainable AI: Interpreting, Explaining and Visualizing Deep Learning 2019 [paper](http://interpretable-ml.org/nips2017workshop/papers/10.pdf)
 
 - **Explanations can be manipulated and geometry is to blame**
-  Ann-Kathrin Dombrowski, Maximillian Alber, Christopher Anders, Marcel Ackermann, Klaus-Robert Müller, and Pan Kessel; 2019 NeurIPS [paper](https://papers.nips.cc/paper/2019/file/bb836c01cdc9120a9c984c525e4b1a4a-Paper.pdf)
+  Ann-Kathrin Dombrowski, Maximillian Alber, Christopher Anders, Marcel Ackermann, Klaus-Robert Müller, and Pan Kessel; NeurIPS 2019 [paper](https://papers.nips.cc/paper/2019/file/bb836c01cdc9120a9c984c525e4b1a4a-Paper.pdf)
 
 - **Fooling Neural Network Interpretations via Adversarial Model Manipulation**
-  Juyeon Heo, Sunghwan Joo, and Taesup Moon; 2019 NeurIPS [paper](https://proceedings.neurips.cc/paper/2019/file/7fea637fd6d02b8f0adf6f7dc36aed93-Paper.pdf)
+  Juyeon Heo, Sunghwan Joo, and Taesup Moon; NeurIPS 2019 [paper](https://proceedings.neurips.cc/paper/2019/file/7fea637fd6d02b8f0adf6f7dc36aed93-Paper.pdf)
+
+- **Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead**
+  Cynthia Rudin; Nature Machine Intelligence 2019 [page](https://www.nature.com/articles/s42256-019-0048-x)
 
 
 
