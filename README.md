@@ -17,15 +17,16 @@ Did we miss a relevant paper?  Please submit a new entry in the following format
 
 
 ### Table of Contents
-- [Passive Learning](#explanatory-passive-learning)
-- [Interactive Learning](#explanatory-interactive-learning)
+- [Passive Learning](#passive-learning)
+- [Interactive Learning](#interactive-learning)
+- [Regularization](#regularization)
 - [Resources](#background)
 
 
 
 ### [Passive Learning](#content)
 
-Approaches that somehow regularize or supervise the model's explanations.
+Approaches that supervise the model's explanations.
 
 - **Tangent Prop - A formalism for specifying selected invariances in an adaptive network**
   Patrice Simard, Bernard Victorri, Yann Le Cun, John Denker; NeurIPS 1992 [paper](https://papers.nips.cc/paper/536-tangent-prop-a-formalism-for-specifying-selected-invariances-in-an-adaptive-network.pdf)
@@ -67,7 +68,7 @@ Approaches that somehow regularize or supervise the model's explanations.
 
 ### [Interactive Learning](#content)
 
-Approaches that combine explanatory supervision with interactive machine learning:
+Approaches that combine supervision on the explanations with interactive machine learning:
 
 - **Principles of Explanatory Debugging to Personalize Interactive Machine Learning**
   Todd Kulesza, Margaret Burnett, Weng-Keen Wong, Simone Stumpf; IUI 2015 [paper](https://openaccess.city.ac.uk/id/eprint/13819/1/paper326.pdf)
@@ -101,6 +102,21 @@ Approaches that combine explanatory supervision with interactive machine learnin
 - **Right for the Right Concept: Revising Neuro-Symbolic Concepts by Interacting with their Explanations**
   Wolfgang Stammer, Patrick Schramowski, and Kristian Kersting; arXiv 2020 [paper](https://arxiv.org/pdf/2011.12854)
   Notes: first-order logic, attention.
+
+
+
+### [Regularization without Supervision](#content)
+
+Approaches that regularize the model's explanations in an unsupervised manner, often for improved interpretability.
+
+- **Beyond sparsity: Tree regularization of deep models for interpretability**
+  Mike Wu, Michael Hughes, Sonali Parbhoo, Maurizio Zazzi, Volker Roth, Finale Doshi-Velez; AAAI 2018 [paper](https://ojs.aaai.org/index.php/AAAI/article/view/11501/11360)
+
+- **Regional tree regularization for interpretability in deep neural networks**
+  Mike Wu, Sonali Parbhoo, Michael Hughes, Ryan Kindle, Leo Celi, Maurizio Zazzi, Volker Roth, Finale Doshi-Velez; AAAI 2020 [paper](https://ojs.aaai.org/index.php/AAAI/article/view/6112/5968)
+
+- **Regularizing black-box models for improved interpretability**
+  Gregory Plumb, Maruan Al-Shedivat, Ángel Alexander Cabrera, Adam Perer, Eric Xing, Ameet Talwalkar; NeurIPS 2020 [paper](https://papers.nips.cc/paper/2020/file/770f8e448d07586afbf77bb59f698587-Paper.pdf)
 
 
 
