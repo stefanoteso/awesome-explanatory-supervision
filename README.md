@@ -65,7 +65,9 @@ Approaches that supervise the model's explanations.
 
 - **Interpretations are useful: penalizing explanations to align neural networks with prior knowledge**
   Laura Rieger, Chandan Singh, William Murdoch, Bin Yu; ICML 2020 [paper](http://proceedings.mlr.press/v119/rieger20a/rieger20a.pdf)
-
+  
+- **When Can Models Learn From Explanations? A Formal Framework for Understanding the Roles of Explanation Data**
+  Peter Hase, Mohit Bansal; arXiv 2020 [paper](https://arxiv.org/pdf/2102.02201.pdf)
 
 
 
