@@ -18,9 +18,9 @@ Did we miss a relevant paper?  Please submit a new entry in the following format
 ### Table of Contents
 - [Passive Learning](#passive-learning)
 - [Interactive Learning](#interactive-learning)
-- [Regularization](#regularization)
+- [Regularization without Supervision](#regularization-without-supervision)
 - [Related Works](#related-works)
-- [Resources](#background)
+- [Resources](#resources)
 
 
 
@@ -126,51 +126,6 @@ Approaches that regularize the model's explanations in an unsupervised manner, o
 
 
 
-### [Resources](#content)
-
-A selection of general resources on Explainable AI focusing on overviews, surveys, societal implications, and critiques:
-
-- **Survey and critique of techniques for extracting rules from trained artificial neural networks**
-  Robert Andrews, Joachim Diederich, Alan B. Tickle;  Knowledge-based systems 1995 [page](https://www.sciencedirect.com/science/article/abs/pii/0950705196819204)
-
-- **The Mythos of Model Interpretability**
-  Zachary Lipton; CACM 2016 [paper](https://dl.acm.org/doi/pdf/10.1145/3236386.3241340)
-
-- **A survey of methods for explaining black box models**
-  Riccardo Guidotti, Anna Monreale, Salvatore Ruggieri, Franco Turini, Fosca Giannotti, and Dino Pedreschi; ACM Computing Surveys 2018 [paper](https://dl.acm.org/doi/pdf/10.1145/3236009)
-
-- **Explanation in Artificial Intelligence: Insights from the Social Sciences**
-  Tim Miller; Artificial Intelligence, 2019 [paper](https://www.sciencedirect.com/science/article/abs/pii/S0004370218305988)
-
-- **Unmasking clever hans predictors and assessing what machines really learn**
-  Sebastian Lapuschkin, Stephan Wäldchen, Alexander Binder, Grégoire Montavon, Wojciech Samek, Klaus-Robert Müller; Nature Communications 2019 [paper](https://www.nature.com/articles/s41467-019-08987-4)
-
-- **Interpretation of neural networks is fragile**
-  Amirata Ghorbani, Abubakar Abid, James Zou; AAAI 2019 [paper](https://ojs.aaai.org/index.php/AAAI/article/view/4252/4130)
-
-- **Is Attention Interpretable?**
-  Sofia Serrano, Noah A. Smith; ACL 2019 [paper](https://www.aclweb.org/anthology/P19-1282.pdf)
-
-- **Attention is not Explanation**
-  Sarthak Jain, and Byron C. Wallace; ACL 2019 [paper](https://www.aclweb.org/anthology/N19-1357.pdf)
-
-- **Attention is not not Explanation**
-  Sarah Wiegreffe, and Yuval Pinter; EMNLP-IJCNLP 2019 [paper](https://www.aclweb.org/anthology/D19-1002.pdf)
-
-- **The (un)reliability of saliency methods**
-  Pieter-Jan Kindermans, Sara Hooker, Julius Adebayo, Maximilian Alber, Kristof T. Schütt, Sven Dähne, Dumitru Erhan, and Been Kim; Explainable AI: Interpreting, Explaining and Visualizing Deep Learning 2019 [paper](http://interpretable-ml.org/nips2017workshop/papers/10.pdf)
-
-- **Explanations can be manipulated and geometry is to blame**
-  Ann-Kathrin Dombrowski, Maximillian Alber, Christopher Anders, Marcel Ackermann, Klaus-Robert Müller, and Pan Kessel; NeurIPS 2019 [paper](https://papers.nips.cc/paper/2019/file/bb836c01cdc9120a9c984c525e4b1a4a-Paper.pdf)
-
-- **Fooling Neural Network Interpretations via Adversarial Model Manipulation**
-  Juyeon Heo, Sunghwan Joo, and Taesup Moon; NeurIPS 2019 [paper](https://proceedings.neurips.cc/paper/2019/file/7fea637fd6d02b8f0adf6f7dc36aed93-Paper.pdf)
-
-- **Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead**
-  Cynthia Rudin; Nature Machine Intelligence 2019 [page](https://www.nature.com/articles/s42256-019-0048-x)
-
-
-
 ### [Related Works](#content)
 
 Explanation-based learning, focuses on logic-based formalisms and learning strategies:
@@ -234,6 +189,51 @@ Critiquing in recommenders:
 
 - **Coactive critiquing: Elicitation of preferences and features**
   Stefano Teso, Paolo Dragone, Andrea Passerini; AAAI 2017 [paper](https://ojs.aaai.org/index.php/AAAI/article/view/10929/10788)
+  
+  
+
+### [Resources](#content)
+
+A selection of general resources on Explainable AI focusing on overviews, surveys, societal implications, and critiques:
+
+- **Survey and critique of techniques for extracting rules from trained artificial neural networks**
+  Robert Andrews, Joachim Diederich, Alan B. Tickle;  Knowledge-based systems 1995 [page](https://www.sciencedirect.com/science/article/abs/pii/0950705196819204)
+
+- **The Mythos of Model Interpretability**
+  Zachary Lipton; CACM 2016 [paper](https://dl.acm.org/doi/pdf/10.1145/3236386.3241340)
+
+- **A survey of methods for explaining black box models**
+  Riccardo Guidotti, Anna Monreale, Salvatore Ruggieri, Franco Turini, Fosca Giannotti, and Dino Pedreschi; ACM Computing Surveys 2018 [paper](https://dl.acm.org/doi/pdf/10.1145/3236009)
+
+- **Explanation in Artificial Intelligence: Insights from the Social Sciences**
+  Tim Miller; Artificial Intelligence, 2019 [paper](https://www.sciencedirect.com/science/article/abs/pii/S0004370218305988)
+
+- **Unmasking clever hans predictors and assessing what machines really learn**
+  Sebastian Lapuschkin, Stephan Wäldchen, Alexander Binder, Grégoire Montavon, Wojciech Samek, Klaus-Robert Müller; Nature Communications 2019 [paper](https://www.nature.com/articles/s41467-019-08987-4)
+
+- **Interpretation of neural networks is fragile**
+  Amirata Ghorbani, Abubakar Abid, James Zou; AAAI 2019 [paper](https://ojs.aaai.org/index.php/AAAI/article/view/4252/4130)
+
+- **Is Attention Interpretable?**
+  Sofia Serrano, Noah A. Smith; ACL 2019 [paper](https://www.aclweb.org/anthology/P19-1282.pdf)
+
+- **Attention is not Explanation**
+  Sarthak Jain, and Byron C. Wallace; ACL 2019 [paper](https://www.aclweb.org/anthology/N19-1357.pdf)
+
+- **Attention is not not Explanation**
+  Sarah Wiegreffe, and Yuval Pinter; EMNLP-IJCNLP 2019 [paper](https://www.aclweb.org/anthology/D19-1002.pdf)
+
+- **The (un)reliability of saliency methods**
+  Pieter-Jan Kindermans, Sara Hooker, Julius Adebayo, Maximilian Alber, Kristof T. Schütt, Sven Dähne, Dumitru Erhan, and Been Kim; Explainable AI: Interpreting, Explaining and Visualizing Deep Learning 2019 [paper](http://interpretable-ml.org/nips2017workshop/papers/10.pdf)
+
+- **Explanations can be manipulated and geometry is to blame**
+  Ann-Kathrin Dombrowski, Maximillian Alber, Christopher Anders, Marcel Ackermann, Klaus-Robert Müller, and Pan Kessel; NeurIPS 2019 [paper](https://papers.nips.cc/paper/2019/file/bb836c01cdc9120a9c984c525e4b1a4a-Paper.pdf)
+
+- **Fooling Neural Network Interpretations via Adversarial Model Manipulation**
+  Juyeon Heo, Sunghwan Joo, and Taesup Moon; NeurIPS 2019 [paper](https://proceedings.neurips.cc/paper/2019/file/7fea637fd6d02b8f0adf6f7dc36aed93-Paper.pdf)
+
+- **Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead**
+  Cynthia Rudin; Nature Machine Intelligence 2019 [page](https://www.nature.com/articles/s42256-019-0048-x)
 
 
 
