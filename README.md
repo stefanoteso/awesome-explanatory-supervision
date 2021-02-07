@@ -8,7 +8,6 @@ Overview of literature on learning from supervision on the model's explanations.
 
 Did we miss a relevant paper?  Please submit a new entry in the following format:
 
-
 ```markdown
 - **An Artificially-intelligent Means to Escape Discreetly from the Departmental Holiday Party; guide for the socially awkward**
   Eve Armstrong; arXiv 2020 [paper](https://arxiv.org/abs/2003.14169)
@@ -20,6 +19,7 @@ Did we miss a relevant paper?  Please submit a new entry in the following format
 - [Passive Learning](#passive-learning)
 - [Interactive Learning](#interactive-learning)
 - [Regularization](#regularization)
+- [Related Works](#related-works)
 - [Resources](#background)
 
 
@@ -47,6 +47,9 @@ Approaches that supervise the model's explanations.
 - **Debiasing Concept Bottleneck Models with Instrumental Variables**
   Mohammad Taha Bahadori, and David E. Heckerman; arXiv 2020 [paper](https://arxiv.org/pdf/2007.11500.pdf)
 
+- **Learning Global Transparent Models Consistent with Local Contrastive Explanations**
+  Tejaswini Pedapati, Avinash Balakrishnan, Karthikeyan Shanmugam, Amit Dhurandhar; NeurIPS 2020 [paper](https://proceedings.neurips.cc/paper/2020/file/24aef8cb3281a2422a59b51659f1ad2e-Paper.pdf)
+
 - **Evaluating Explanations: How much do explanations from the teacher aid students?**
   Danish Pruthi, Bhuwan Dhingra, Livio Baldini Soares, Michael Collins, Zachary C. Lipton, Graham Neubig, and William W. Cohen; arXiv 2020 [paper](https://arxiv.org/pdf/2012.00893)
   Notes: defines importance of different kinds of explanations by measuring their impact when used as supervision.
@@ -57,7 +60,7 @@ Approaches that supervise the model's explanations.
 - **Teaching with Commentaries**
   Aniruddh Raghu, Maithra Raghu, Simon Kornblith, David Duvenaud, and Geoffrey Hinton; arXiv 2020 [paper](https://arxiv.org/pdf/2011.03037)
 
-- **Improving performance of deep learning models with axiomatic attribution priors and expected gradients** 
+- **Improving performance of deep learning models with axiomatic attribution priors and expected gradients**
   Gabriel Erion, Joseph D. Janizek, Pascal Sturmfels, Scott Lundberg, Su-In Lee; arXiv 2020 [paper](https://arxiv.org/pdf/1906.10670)
 
 - **Interpretations are useful: penalizing explanations to align neural networks with prior knowledge**
@@ -87,6 +90,9 @@ Approaches that combine supervision on the explanations with interactive machine
 - **Making deep neural networks right for the right scientific reasons by interacting with their explanations**
   Patrick Schramowski, Wolfgang Stammer, Stefano Teso, Anna Brugger, Franziska Herbert, Xiaoting Shao, Hans-Georg Luigs, Anne-Katrin Mahlein, Kristian Kersting; Nature Machine Intelligence 2020 [paper](https://www.nature.com/articles/s42256-020-0212-3)
   Note: introduces end-to-end explanatory interactive learning, fixes clever Hans deep neural nets.
+
+- **One explanation does not fit all**
+  Kacper Sokol, Peter Flach; 2020 Künstliche Intelligenz [paper](https://link.springer.com/content/pdf/10.1007/s13218-020-00637-y.pdf)
 
 - **Human-in-the-loop Debugging Deep Text Classifiers**
   Piyawat Lertvittayakumjorn, Lucia Specia, Francesca Toni; EMNLP 2020 [paper](https://www.aclweb.org/anthology/2020.emnlp-main.24.pdf)
@@ -165,15 +171,76 @@ A selection of general resources on Explainable AI focusing on overviews, survey
 
 
 
+### [Related Works](#content)
+
+Explanation-based learning, focuses on logic-based formalisms and learning strategies:
+
+- **Explanation-based generalization: A unifying view**
+  Tom Mitchell, Richard Keller, Smadar Kedar-Cabelli; MLJ 1986 [paper](https://link.springer.com/content/pdf/10.1023/A:1022691120807.pdf)
+
+- **Explanation-based learning: A survey of programs and perspectives**
+  Thomas Ellman; ACM Computing Surveys 1989 [paper](https://academiccommons.columbia.edu/doi/10.7916/D8SF343S/download)
+
+- **Probabilistic explanation based learning**
+  Angelika Kimmig, Luc De Raedt, Hannu Toivonen; ECML 2007 [paper](https://link.springer.com/content/pdf/10.1007/978-3-540-74958-5_19.pdf)
+
+
+Injecting invariances / feature constraints into models:
+
+- **Training invariant support vector machines**
+  Dennis DeCoste, Bernhard Schölkopf; MLJ 2002 [paper](https://link.springer.com/content/pdf/10.1023/A:1012454411458.pdf)
+
+- **The constrained weight space svm: learning with ranked features**
+  Kevin Small, Byron Wallace, Carla Brodley, Thomas Trikalinos; ICML 2011 [paper](http://www.icml-2011.org/papers/465_icmlpaper.pdf)
+
+
+Dual label-feature feedback:
+
+- **Active learning with feedback on features and instances**
+  Hema Raghavan, Omid Madani, Rosie Jones; JMLR 2006 [paper](https://www.jmlr.org/papers/volume7/raghavan06a/raghavan06a.pdf)
+
+- **An interactive algorithm for asking and incorporating feature feedback into support vector machines**
+  Hema Raghavan, James Allan; ACM SIGIR 2007 [paper](https://www.academia.edu/download/49512889/IR-560.pdf)
+
+- **Learning from labeled features using generalized expectation criteria**
+Gregory Druck, Gideon Mann, Andrew McCallum;  ACM SIGIR 2008 [paper](http://www.cs.umass.edu/~mccallum/papers/druck08sigir.pdf)
+
+- **Active learning by labeling features**
+  Gregory Druck, Burr Settles, Andrew McCallum; EMNLP 2009 [paper](https://www.aclweb.org/anthology/D09-1009.pdf)
+
+- **A unified approach to active dual supervision for labeling features and examples**
+  Josh Attenberg, Prem Melville, Foster Provost; ECML-PKDD 2010 [paper](https://link.springer.com/content/pdf/10.1007/978-3-642-15880-3_9.pdf)
+
+- **Closing the loop: Fast, interactive semi-supervised annotation with queries on features and instances**
+  Burr Settles; EMNLP 2011 [paper](https://www.aclweb.org/anthology/D11-1136.pdf)
+
+
+Learning from rationales:
+
+- **Using “annotator rationales” to improve machine learning for text categorization**
+  Omar Zaidan, Jason Eisner, Christine Piatko; NAACL 2007 [paper](https://www.aclweb.org/anthology/N07-1033.pdf)
+
+- **Modeling annotators: A generative approach to learning from annotator rationales**
+  Omar Zaidan, Jason Eisner; EMNLP 2008 [paper](https://www.aclweb.org/anthology/D08-1004.pdf)
+
+- **Active learning with rationales for text classification**
+  Manali Sharma, Di Zhuang, Mustafa Bilgic; NAACL 2015 [paper](https://www.aclweb.org/anthology/N15-1047.pdf)
+
+
+Critiquing in recommenders:
+
+- **Critiquing-based recommenders: survey and emerging trends**
+  Li Chen, Pearl Pu; User Modeling and User-Adapted Interaction 2012 [paper](https://link.springer.com/content/pdf/10.1007/s11257-011-9108-6.pdf)
+
+- **Coactive critiquing: Elicitation of preferences and features**
+  Stefano Teso, Paolo Dragone, Andrea Passerini; AAAI 2017 [paper](https://ojs.aaai.org/index.php/AAAI/article/view/10929/10788)
+
+
+
 ### TODO
 
-- precursors, like SVMs with feedback on features;  cited in Teso & Kersting 2019.
+- Reference work on explanations in machine teaching.
 
-- learning from rationales;  same.
-
-- work on machine teaching.
-
-- work on concept drift
 
 
 ### Comments
