@@ -39,7 +39,10 @@ Approaches that supervise the model's explanations.
   Shihan Su, Yuxin Chen, Oisin Mac Aodha, Pietro Perona, Yisong Yue; Workshop on Teaching Machines, Robots, and Humans 2017 [paper](https://authors.library.caltech.edu/87329/1/nips17-teaching_paper-5.pdf)
 
 - **Deriving Machine Attention from Human Rationales**
-  Yujia Bao, Shiyu Chang, Mo Yu, and Regina Barzilay; ACL 2019 [pdf](https://www.aclweb.org/anthology/D18-1216.pdf)
+  Yujia Bao, Shiyu Chang, Mo Yu, and Regina Barzilay; ACL 2019 [paper](https://www.aclweb.org/anthology/D18-1216.pdf)
+  
+- **Do Human Rationales Improve Machine Explanations?**
+  Strout, Julia, Ye Zhang, Raymond Mooney; ACL Workshop BlackboxNLP 2019 [paper](https://www.aclweb.org/anthology/W19-4807.pdf)
 
 - **Concept bottleneck models**
   Pang Wei Koh, Thao Nguyen, Yew Siang Tang, Stephen Mussmann, Emma Pierson, Been Kim, and Percy Liang; ICML 2020 [paper](http://proceedings.mlr.press/v119/koh20a/koh20a.pdf)
@@ -110,6 +113,9 @@ Approaches that combine supervision on the explanations with interactive machine
 - **Right for the Right Concept: Revising Neuro-Symbolic Concepts by Interacting with their Explanations**
   Wolfgang Stammer, Patrick Schramowski, and Kristian Kersting; arXiv 2020 [paper](https://arxiv.org/pdf/2011.12854)
   Notes: first-order logic, attention.
+  
+- **Right for Better Reasons: Training Differentiable Models by Constraining their Influence Function**
+  Xiaoting Shao, Arseny Skryagin, Patrick Schramowski, Wolfgang Stammer, Kristian Kersting; AAAI 2021 [preliminary paper](https://www.aaai.org/AAAI21Papers/AAAI-5436.ShaoX.pdf)
 
 
 
@@ -240,6 +246,8 @@ A selection of general resources on Explainable AI focusing on overviews, survey
 
 
 ### TODO
+
+- Make sure that all papers are categorized correctly ;-)
 
 - Reference work on explanations in machine teaching.
 
