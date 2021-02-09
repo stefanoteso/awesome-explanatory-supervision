@@ -115,7 +115,7 @@ Approaches that combine supervision on the explanations with interactive machine
   Xiaoting Shao, Arseny Skryagin, Patrick Schramowski, Wolfgang Stammer, Kristian Kersting; AAAI 2021 [preliminary paper](https://www.aaai.org/AAAI21Papers/AAAI-5436.ShaoX.pdf)
   
   
-### [Model Translation](#content)
+### [Distillation](#content)
 
 - **Model reconstruction from model explanations**
   Smitha Milli, Ludwig Schmidt, Anca D. Dragan, Moritz Hardt; FAcct 2019 [paper](https://arxiv.org/pdf/1807.05185)
