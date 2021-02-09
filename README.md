@@ -18,6 +18,7 @@ Did we miss a relevant paper?  Please submit a new entry in the following format
 ### Table of Contents
 - [Passive Learning](#passive-learning)
 - [Interactive Learning](#interactive-learning)
+- [Distillation](#distillation)
 - [Regularization without Supervision](#regularization-without-supervision)
 - [Related Works](#related-works)
 - [Resources](#resources)
@@ -52,10 +53,6 @@ Approaches that supervise the model's explanations.
 
 - **Learning Global Transparent Models Consistent with Local Contrastive Explanations**
   Tejaswini Pedapati, Avinash Balakrishnan, Karthikeyan Shanmugam, Amit Dhurandhar; NeurIPS 2020 [paper](https://proceedings.neurips.cc/paper/2020/file/24aef8cb3281a2422a59b51659f1ad2e-Paper.pdf)
-
-- **Evaluating Explanations: How much do explanations from the teacher aid students?**
-  Danish Pruthi, Bhuwan Dhingra, Livio Baldini Soares, Michael Collins, Zachary C. Lipton, Graham Neubig, and William W. Cohen; arXiv 2020 [paper](https://arxiv.org/pdf/2012.00893)
-  Notes: defines importance of different kinds of explanations by measuring their impact when used as supervision.
 
 - **Reflective-Net: Learning from Explanations**
   Johannes Schneider, Michalis Vlachos; arXiv 2020 [paper](https://arxiv.org/pdf/2011.13986.pdf)
@@ -116,7 +113,16 @@ Approaches that combine supervision on the explanations with interactive machine
   
 - **Right for Better Reasons: Training Differentiable Models by Constraining their Influence Function**
   Xiaoting Shao, Arseny Skryagin, Patrick Schramowski, Wolfgang Stammer, Kristian Kersting; AAAI 2021 [preliminary paper](https://www.aaai.org/AAAI21Papers/AAAI-5436.ShaoX.pdf)
+  
+  
+### [Model Translation](#content)
 
+- **Model reconstruction from model explanations**
+  Smitha Milli, Ludwig Schmidt, Anca D. Dragan, Moritz Hardt; FAcct 2019 [paper](https://arxiv.org/pdf/1807.05185)
+
+- **Evaluating Explanations: How much do explanations from the teacher aid students?**
+  Danish Pruthi, Bhuwan Dhingra, Livio Baldini Soares, Michael Collins, Zachary C. Lipton, Graham Neubig, and William W. Cohen; arXiv 2020 [paper](https://arxiv.org/pdf/2012.00893)
+  Notes: defines importance of different kinds of explanations by measuring their impact when used as supervision.
 
 
 ### [Regularization without Supervision](#content)
