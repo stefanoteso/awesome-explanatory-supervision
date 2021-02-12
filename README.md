@@ -114,6 +114,10 @@ Approaches that combine supervision on the explanations with interactive machine
 - **Right for Better Reasons: Training Differentiable Models by Constraining their Influence Function**
   Xiaoting Shao, Arseny Skryagin, Patrick Schramowski, Wolfgang Stammer, Kristian Kersting; AAAI 2021 [preliminary paper](https://www.aaai.org/AAAI21Papers/AAAI-5436.ShaoX.pdf)
   
+- **Bandits for Learning to Explain from Explanations**
+  Freya Behrens, Stefano Teso, Davide Mottin; XAI Workshop 2021 [paper](https://arxiv.org/pdf/2102.03815)
+  Notes: preliminary.
+  
   
 ### [Distillation](#content)
 
