@@ -1,4 +1,4 @@
-# Awesome Explanatory Supervision [![Awesome](fig/awesome.svg)](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
+# Awesome Explanatory Supervision [![Awesome](figures/awesome.svg)](https://github.com/stefanoteso/awesome-explanatory-supervision)
 
 Overview of literature on learning from supervision on the model's *explanations*.
 
