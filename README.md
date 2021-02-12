@@ -254,6 +254,11 @@ A selection of general resources on Explainable AI focusing on overviews, survey
   Cynthia Rudin; Nature Machine Intelligence 2019 [page](https://www.nature.com/articles/s42256-019-0048-x)
 
 
+### Not Yet Sorted
+
+- **Explain and Predict, and then Predict Again**
+  Zijian Zhang, Koustav Rudra, Avishek Anand; arXiv 2021 [paper](https://arxiv.org/pdf/2101.04109)
+
 
 ### TODO
 
