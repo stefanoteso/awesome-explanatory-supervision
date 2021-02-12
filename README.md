@@ -1,6 +1,6 @@
-# Awesome Explanatory Supervision
+# Awesome Explanatory Supervision [![Awesome](fig/awesome.svg)](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
 
-Overview of literature on learning from supervision on the model's explanations.
+Overview of literature on learning from supervision on the model's *explanations*.
 
 
 **Warning**: early draft, permanent WIP.
@@ -252,6 +252,13 @@ A selection of general resources on Explainable AI focusing on overviews, survey
 
 - **Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead**
   Cynthia Rudin; Nature Machine Intelligence 2019 [page](https://www.nature.com/articles/s42256-019-0048-x)
+  
+  
+### Related Resources
+
+- [Awesome explainable AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
+
+- [Awesome machine learning interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)
 
 
 ### Not Yet Sorted
