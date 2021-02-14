@@ -18,6 +18,7 @@ Did we miss a relevant paper?  Please submit a new entry in the following format
 ### Table of Contents
 - [Passive Learning](#passive-learning)
 - [Interactive Learning](#interactive-learning)
+- [Reinforcement Learning](#reinforcement-learning)
 - [Distillation](#distillation)
 - [Regularization without Supervision](#regularization-without-supervision)
 - [Related Works](#related-works)
@@ -117,8 +118,14 @@ Approaches that combine supervision on the explanations with interactive machine
 - **Bandits for Learning to Explain from Explanations**
   Freya Behrens, Stefano Teso, Davide Mottin; XAI Workshop 2021 [paper](https://arxiv.org/pdf/2102.03815)
   Notes: preliminary.
-  
-  
+
+
+### [Reinforcement Learning](#content)
+
+- **Explanation Augmented Feedback in Human-in-the-Loop Reinforcement Learning**
+  Lin Guan, Mudit Verma, Sihang Guo, Ruohan Zhang, Subbarao Kambhampati; arXiv 2020 [paper](https://arxiv.org/pdf/2006.14804)
+
+
 ### [Distillation](#content)
 
 - **Model reconstruction from model explanations**
@@ -150,6 +157,9 @@ Explanation-based learning, focuses on logic-based formalisms and learning strat
 
 - **Explanation-based generalization: A unifying view**
   Tom Mitchell, Richard Keller, Smadar Kedar-Cabelli; MLJ 1986 [paper](https://link.springer.com/content/pdf/10.1023/A:1022691120807.pdf)
+
+- **Explanation-based learning: An alternative view**
+  Gerald DeJong, Raymond Mooney; MLJ 1986 [paper](https://link.springer.com/content/pdf/10.1007/BF00114116.pdf)
 
 - **Explanation-based learning: A survey of programs and perspectives**
   Thomas Ellman; ACM Computing Surveys 1989 [paper](https://academiccommons.columbia.edu/doi/10.7916/D8SF343S/download)
