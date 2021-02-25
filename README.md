@@ -140,6 +140,9 @@ Approaches that combine supervision on the explanations with interactive machine
 
 Approaches that regularize the model's explanations in an unsupervised manner, often for improved interpretability.
 
+- **Towards robust interpretability with self-explaining neural networks**
+  David Alvarez-Melis, Tommi Jaakkola; NeurIPS 2018 [paper](https://proceedings.neurips.cc/paper/2018/file/3e9f0fc9b2f89e043bc6233994dfcf76-Paper.pdf)
+
 - **Beyond sparsity: Tree regularization of deep models for interpretability**
   Mike Wu, Michael Hughes, Sonali Parbhoo, Maurizio Zazzi, Volker Roth, Finale Doshi-Velez; AAAI 2018 [paper](https://ojs.aaai.org/index.php/AAAI/article/view/11501/11360)
 
@@ -148,7 +151,12 @@ Approaches that regularize the model's explanations in an unsupervised manner, o
 
 - **Regularizing black-box models for improved interpretability**
   Gregory Plumb, Maruan Al-Shedivat, Ángel Alexander Cabrera, Adam Perer, Eric Xing, Ameet Talwalkar; NeurIPS 2020 [paper](https://papers.nips.cc/paper/2020/file/770f8e448d07586afbf77bb59f698587-Paper.pdf)
-
+  
+- **Regularizing Black-box Models for Improved Interpretability**
+  Gregory Plumb, Maruan Al-Shedivat, Angel Alexander Cabrera, Adam Perer, Eric Xing, Ameet Talwalkar; NeurIPS 2020 [paper](https://proceedings.neurips.cc/paper/2020/file/770f8e448d07586afbf77bb59f698587-Paper.pdf)
+  
+- **Explainable Models with Consistent Interpretations**
+  Vipin Pillai, Hamed Pirsiavash;  AAAI 2021 [paper](https://www.csee.umbc.edu/~hpirsiav/papers/gc_aaai21.pdf) [code](https://github.com/UMBCvision/Explainable-Models-with-Consistent-Interpretations)
 
 
 ### [Related Works](#content)
