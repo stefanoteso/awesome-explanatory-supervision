@@ -84,6 +84,9 @@ Approaches that supervise the model's explanations.
 - **Learning to Faithfully Rationalize by Construction**
   Sarthak Jain, Sarah Wiegreffe, Yuval Pinter, Byron Wallace. ACL 2020 [paper](https://www.aclweb.org/anthology/2020.acl-main.409.pdf) [code](https://github.com/successar/FRESH)
 
+- **Explain and Predict, and then Predict Again**
+  Zijian Zhang, Koustav Rudra, Avishek Anand; arXiv 2021 [paper](https://arxiv.org/pdf/2101.04109)
+
 
 
 ----
@@ -316,11 +319,8 @@ and
 - **Multimodal explanations: Justifying decisions and pointing to the evidence**
   Dong Huk Park, Lisa Anne Hendricks, Zeynep Akata, Anna Rohrbach, Bernt Schiele, Trevor Darrell, Marcus Rohrbach; CVPR 2018 [paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Park_Multimodal_Explanations_Justifying_CVPR_2018_paper.pdf)
 
-- **"Learning Deep Attribution Priors Based On Prior Knowledge**
+- **Learning Deep Attribution Priors Based On Prior Knowledge**
   Ethan Weinberger, Joseph Janizek, Su-In Lee; NeurIPS 2020 [paper](https://papers.nips.cc/paper/2020/file/a19883fca95d0e5ec7ee6c94c6c32028-Paper.pdf)
-
-- **Explain and Predict, and then Predict Again**
-  Zijian Zhang, Koustav Rudra, Avishek Anand; arXiv 2021 [paper](https://arxiv.org/pdf/2101.04109)
 
 ----
 
