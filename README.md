@@ -35,6 +35,10 @@ Approaches that supervise the model's explanations.
   Patrice Simard, Bernard Victorri, Yann Le Cun, John Denker; NeurIPS 1992 [paper](https://papers.nips.cc/paper/536-tangent-prop-a-formalism-for-specifying-selected-invariances-in-an-adaptive-network.pdf)
   Notes: injects invariances into a neural net by regularizing its gradient; precursor to learning from gradient-based explanations.
 
+- **Rationalizing Neural Predictions**
+  Tao Lei, Regina Barzilay, Tommi Jaakkola; EMNLP 2016 [paper](https://www.aclweb.org/anthology/D16-1011.pdf)
+  Note: they learn an `explanation module' for text classificaiton from explanatory supervision, namely rationales.
+
 - **Right for the right reasons: training differentiable models by constraining their explanations**
   Andrew Slavin Ross, Michael C. Hughes, and Finale Doshi-Velez; IJCAI 2017 [paper](https://www.ijcai.org/Proceedings/2017/0371.pdf)
 
@@ -43,6 +47,9 @@ Approaches that supervise the model's explanations.
 
 - **Teaching meaningful explanations**
   Noel Codella, Michael Hind, Karthikeyan Ramamurthy, Murray Campbell, Amit Dhurandhar, Kush Varshney, Dennis Wei, Aleksandra Mojsilovic; arXiv 2018 [paper](https://arxiv.org/pdf/1805.11648)
+
+- **TED: Teaching AI to explain its decisions**
+  Michael Hind, Dennis Wei, Murray Campbell, Noel Codella, Amit Dhurandhar, Aleksandra Mojsilović, Karthikeyan Ramamurthy, Kush Varshney; AIES 2019 [paper](https://arxiv.org/pdf/1811.04896.pdf)
 
 - **Deriving Machine Attention from Human Rationales**
   Yujia Bao, Shiyu Chang, Mo Yu, and Regina Barzilay; ACL 2019 [paper](https://www.aclweb.org/anthology/D18-1216.pdf)
@@ -73,6 +80,10 @@ Approaches that supervise the model's explanations.
 
 - **When Can Models Learn From Explanations? A Formal Framework for Understanding the Roles of Explanation Data**
   Peter Hase, Mohit Bansal; arXiv 2020 [paper](https://arxiv.org/pdf/2102.02201.pdf)
+
+- **Learning to Faithfully Rationalize by Construction**
+  Sarthak Jain, Sarah Wiegreffe, Yuval Pinter, Byron Wallace. ACL 2020 [paper](https://www.aclweb.org/anthology/2020.acl-main.409.pdf) [code](https://github.com/successar/FRESH)
+
 
 
 ----
@@ -314,6 +325,8 @@ A selection of general resources on Explainable AI focusing on overviews, survey
 ### TODO
 
 - Make sure that all papers are categorized correctly ;-)
+
+- Add link to code wherever available.
 
 - Crawl & reference work on NLP.
 
