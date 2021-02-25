@@ -41,6 +41,9 @@ Approaches that supervise the model's explanations.
 - **Interpretable Machine Teaching via Feature Feedback**
   Shihan Su, Yuxin Chen, Oisin Mac Aodha, Pietro Perona, Yisong Yue; Workshop on Teaching Machines, Robots, and Humans 2017 [paper](https://authors.library.caltech.edu/87329/1/nips17-teaching_paper-5.pdf)
 
+- **Teaching meaningful explanations**
+  Noel Codella, Michael Hind, Karthikeyan Ramamurthy, Murray Campbell, Amit Dhurandhar, Kush Varshney, Dennis Wei, Aleksandra Mojsilovic; arXiv 2018 [paper](https://arxiv.org/pdf/1805.11648)
+
 - **Deriving Machine Attention from Human Rationales**
   Yujia Bao, Shiyu Chang, Mo Yu, and Regina Barzilay; ACL 2019 [paper](https://www.aclweb.org/anthology/D18-1216.pdf)
 
