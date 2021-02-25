@@ -24,6 +24,7 @@ Did we miss a relevant paper?  Please submit a new entry in the following format
 - [Related Works](#related-works)
 - [Resources](#resources)
 
+----
 
 
 ### [Passive Learning](#content)
@@ -32,7 +33,11 @@ Approaches that supervise the model's explanations.
 
 - **Tangent Prop - A formalism for specifying selected invariances in an adaptive network**
   Patrice Simard, Bernard Victorri, Yann Le Cun, John Denker; NeurIPS 1992 [paper](https://papers.nips.cc/paper/536-tangent-prop-a-formalism-for-specifying-selected-invariances-in-an-adaptive-network.pdf)
-  Notes: injects invariances into a neural net by regularizing its gradient;  precursor to learning from gradient-based explanations.
+  Notes: injects invariances into a neural net by regularizing its gradient; precursor to learning from gradient-based explanations.
+
+- **Rationalizing Neural Predictions**
+  Tao Lei, Regina Barzilay, Tommi Jaakkola; EMNLP 2016 [paper](https://www.aclweb.org/anthology/D16-1011.pdf)
+  Note: they learn an `explanation module' for text classificaiton from explanatory supervision, namely rationales.
 
 - **Right for the right reasons: training differentiable models by constraining their explanations**
   Andrew Slavin Ross, Michael C. Hughes, and Finale Doshi-Velez; IJCAI 2017 [paper](https://www.ijcai.org/Proceedings/2017/0371.pdf)
@@ -40,9 +45,15 @@ Approaches that supervise the model's explanations.
 - **Interpretable Machine Teaching via Feature Feedback**
   Shihan Su, Yuxin Chen, Oisin Mac Aodha, Pietro Perona, Yisong Yue; Workshop on Teaching Machines, Robots, and Humans 2017 [paper](https://authors.library.caltech.edu/87329/1/nips17-teaching_paper-5.pdf)
 
+- **Teaching meaningful explanations**
+  Noel Codella, Michael Hind, Karthikeyan Ramamurthy, Murray Campbell, Amit Dhurandhar, Kush Varshney, Dennis Wei, Aleksandra Mojsilovic; arXiv 2018 [paper](https://arxiv.org/pdf/1805.11648)
+
+- **TED: Teaching AI to explain its decisions**
+  Michael Hind, Dennis Wei, Murray Campbell, Noel Codella, Amit Dhurandhar, Aleksandra Mojsilović, Karthikeyan Ramamurthy, Kush Varshney; AIES 2019 [paper](https://arxiv.org/pdf/1811.04896.pdf)
+
 - **Deriving Machine Attention from Human Rationales**
   Yujia Bao, Shiyu Chang, Mo Yu, and Regina Barzilay; ACL 2019 [paper](https://www.aclweb.org/anthology/D18-1216.pdf)
-  
+
 - **Do Human Rationales Improve Machine Explanations?**
   Strout, Julia, Ye Zhang, Raymond Mooney; ACL Workshop BlackboxNLP 2019 [paper](https://www.aclweb.org/anthology/W19-4807.pdf)
 
@@ -66,11 +77,16 @@ Approaches that supervise the model's explanations.
 
 - **Interpretations are useful: penalizing explanations to align neural networks with prior knowledge**
   Laura Rieger, Chandan Singh, William Murdoch, Bin Yu; ICML 2020 [paper](http://proceedings.mlr.press/v119/rieger20a/rieger20a.pdf)
-  
+
 - **When Can Models Learn From Explanations? A Formal Framework for Understanding the Roles of Explanation Data**
   Peter Hase, Mohit Bansal; arXiv 2020 [paper](https://arxiv.org/pdf/2102.02201.pdf)
 
+- **Learning to Faithfully Rationalize by Construction**
+  Sarthak Jain, Sarah Wiegreffe, Yuval Pinter, Byron Wallace. ACL 2020 [paper](https://www.aclweb.org/anthology/2020.acl-main.409.pdf) [code](https://github.com/successar/FRESH)
 
+
+
+----
 
 ### [Interactive Learning](#content)
 
@@ -97,7 +113,7 @@ Approaches that combine supervision on the explanations with interactive machine
 - **One explanation does not fit all**
   Kacper Sokol, Peter Flach; 2020 Künstliche Intelligenz [paper](https://link.springer.com/content/pdf/10.1007/s13218-020-00637-y.pdf)
 
-- **Human-in-the-loop Debugging Deep Text Classifiers**
+- **FIND: Human-in-the-loop Debugging Deep Text Classifiers**
   Piyawat Lertvittayakumjorn, Lucia Specia, Francesca Toni; EMNLP 2020 [paper](https://www.aclweb.org/anthology/2020.emnlp-main.24.pdf)
 
 - **Human-driven FOL explanations of deep learning**
@@ -111,19 +127,23 @@ Approaches that combine supervision on the explanations with interactive machine
 - **Right for the Right Concept: Revising Neuro-Symbolic Concepts by Interacting with their Explanations**
   Wolfgang Stammer, Patrick Schramowski, and Kristian Kersting; arXiv 2020 [paper](https://arxiv.org/pdf/2011.12854)
   Notes: first-order logic, attention.
-  
+
 - **Right for Better Reasons: Training Differentiable Models by Constraining their Influence Function**
   Xiaoting Shao, Arseny Skryagin, Patrick Schramowski, Wolfgang Stammer, Kristian Kersting; AAAI 2021 [preliminary paper](https://www.aaai.org/AAAI21Papers/AAAI-5436.ShaoX.pdf)
-  
+
 - **Bandits for Learning to Explain from Explanations**
   Freya Behrens, Stefano Teso, Davide Mottin; XAI Workshop 2021 [paper](https://arxiv.org/pdf/2102.03815)
   Notes: preliminary.
+
+----
 
 
 ### [Reinforcement Learning](#content)
 
 - **Explanation Augmented Feedback in Human-in-the-Loop Reinforcement Learning**
   Lin Guan, Mudit Verma, Sihang Guo, Ruohan Zhang, Subbarao Kambhampati; arXiv 2020 [paper](https://arxiv.org/pdf/2006.14804)
+
+----
 
 
 ### [Distillation](#content)
@@ -135,10 +155,15 @@ Approaches that combine supervision on the explanations with interactive machine
   Danish Pruthi, Bhuwan Dhingra, Livio Baldini Soares, Michael Collins, Zachary C. Lipton, Graham Neubig, and William W. Cohen; arXiv 2020 [paper](https://arxiv.org/pdf/2012.00893)
   Notes: defines importance of different kinds of explanations by measuring their impact when used as supervision.
 
+----
+
 
 ### [Regularization without Supervision](#content)
 
 Approaches that regularize the model's explanations in an unsupervised manner, often for improved interpretability.
+
+- **Towards robust interpretability with self-explaining neural networks**
+  David Alvarez-Melis, Tommi Jaakkola; NeurIPS 2018 [paper](https://proceedings.neurips.cc/paper/2018/file/3e9f0fc9b2f89e043bc6233994dfcf76-Paper.pdf)
 
 - **Beyond sparsity: Tree regularization of deep models for interpretability**
   Mike Wu, Michael Hughes, Sonali Parbhoo, Maurizio Zazzi, Volker Roth, Finale Doshi-Velez; AAAI 2018 [paper](https://ojs.aaai.org/index.php/AAAI/article/view/11501/11360)
@@ -149,6 +174,10 @@ Approaches that regularize the model's explanations in an unsupervised manner, o
 - **Regularizing black-box models for improved interpretability**
   Gregory Plumb, Maruan Al-Shedivat, Ángel Alexander Cabrera, Adam Perer, Eric Xing, Ameet Talwalkar; NeurIPS 2020 [paper](https://papers.nips.cc/paper/2020/file/770f8e448d07586afbf77bb59f698587-Paper.pdf)
 
+- **Explainable Models with Consistent Interpretations**
+  Vipin Pillai, Hamed Pirsiavash; AAAI 2021 [paper](https://www.csee.umbc.edu/~hpirsiav/papers/gc_aaai21.pdf) [code](https://github.com/UMBCvision/Explainable-Models-with-Consistent-Interpretations)
+
+----
 
 
 ### [Related Works](#content)
@@ -217,15 +246,16 @@ Critiquing in recommenders:
 
 - **Coactive critiquing: Elicitation of preferences and features**
   Stefano Teso, Paolo Dragone, Andrea Passerini; AAAI 2017 [paper](https://ojs.aaai.org/index.php/AAAI/article/view/10929/10788)
-  
-  
+
+----
+
 
 ### [Resources](#content)
 
 A selection of general resources on Explainable AI focusing on overviews, surveys, societal implications, and critiques:
 
 - **Survey and critique of techniques for extracting rules from trained artificial neural networks**
-  Robert Andrews, Joachim Diederich, Alan B. Tickle;  Knowledge-based systems 1995 [page](https://www.sciencedirect.com/science/article/abs/pii/0950705196819204)
+  Robert Andrews, Joachim Diederich, Alan B. Tickle; Knowledge-based systems 1995 [page](https://www.sciencedirect.com/science/article/abs/pii/0950705196819204)
 
 - **The Mythos of Model Interpretability**
   Zachary Lipton; CACM 2016 [paper](https://dl.acm.org/doi/pdf/10.1145/3236386.3241340)
@@ -238,7 +268,7 @@ A selection of general resources on Explainable AI focusing on overviews, survey
 
 - **Unmasking clever hans predictors and assessing what machines really learn**
   Sebastian Lapuschkin, Stephan Wäldchen, Alexander Binder, Grégoire Montavon, Wojciech Samek, Klaus-Robert Müller; Nature Communications 2019 [paper](https://www.nature.com/articles/s41467-019-08987-4)
-
+and 
 - **Interpretation of neural networks is fragile**
   Amirata Ghorbani, Abubakar Abid, James Zou; AAAI 2019 [paper](https://ojs.aaai.org/index.php/AAAI/article/view/4252/4130)
 
@@ -264,36 +294,42 @@ A selection of general resources on Explainable AI focusing on overviews, survey
   Cynthia Rudin; Nature Machine Intelligence 2019 [page](https://www.nature.com/articles/s42256-019-0048-x)
 
 - **Shortcut learning in deep neural networks.** 
-  Robert Geirhos, Jorn-Henrik Jacobsen, Claudio Michaelis, Richard Zemel, Wieland Brendel, Matthias Bethge, and Felix A. Wichmann; Nature Machine Intelligence 2020 [page](https://www.nature.com/articles/s42256-020-00257-z)
-  
-  
-### Related Resources
+  Robert Geirhos, Jorn-Henrik Jacobsen, Claudio Michaelis, Richard Zemel, Wieland Brendel, Matthias Bethge, Felix Wichmann; Nature Machine Intelligence 2020 [page](https://www.nature.com/articles/s42256-020-00257-z)
+
+----
+
+
+### Related Lists
 
 - [Awesome explainable AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
 
 - [Awesome machine learning interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)
 
+----
+
 
 ### Not Yet Sorted
-  
+
 - **e-SNLI: natural language inference with natural language explanations**
   Oana-Maria Camburu, Tim Rocktäschel, Thomas Lukasiewicz, and Phil Blunsom; NeurIPS 2018 [paper](https://papers.nips.cc/paper/2018/file/4c7a167bb329bd92580a99ce422d6fa6-Paper.pdf)
-  
+
 - **Multimodal explanations: Justifying decisions and pointing to the evidence**
   Dong Huk Park, Lisa Anne Hendricks, Zeynep Akata, Anna Rohrbach, Bernt Schiele, Trevor Darrell, Marcus Rohrbach; CVPR 2018 [paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Park_Multimodal_Explanations_Justifying_CVPR_2018_paper.pdf)
-  
+
 - **"Learning Deep Attribution Priors Based On Prior Knowledge**
   Ethan Weinberger, Joseph Janizek, Su-In Lee; NeurIPS 2020 [paper](https://papers.nips.cc/paper/2020/file/a19883fca95d0e5ec7ee6c94c6c32028-Paper.pdf)
-  
+
 - **Explain and Predict, and then Predict Again**
   Zijian Zhang, Koustav Rudra, Avishek Anand; arXiv 2021 [paper](https://arxiv.org/pdf/2101.04109)
+
+----
 
 
 ### TODO
 
 - Make sure that all papers are categorized correctly ;-)
 
-- Reference work on explanations in machine teaching.
+- Add link to code wherever available.
 
 - Crawl & reference work on NLP.
 
