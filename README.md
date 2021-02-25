@@ -43,7 +43,7 @@ Approaches that supervise the model's explanations.
 
 - **Deriving Machine Attention from Human Rationales**
   Yujia Bao, Shiyu Chang, Mo Yu, and Regina Barzilay; ACL 2019 [paper](https://www.aclweb.org/anthology/D18-1216.pdf)
-  
+
 - **Do Human Rationales Improve Machine Explanations?**
   Strout, Julia, Ye Zhang, Raymond Mooney; ACL Workshop BlackboxNLP 2019 [paper](https://www.aclweb.org/anthology/W19-4807.pdf)
 
@@ -67,7 +67,7 @@ Approaches that supervise the model's explanations.
 
 - **Interpretations are useful: penalizing explanations to align neural networks with prior knowledge**
   Laura Rieger, Chandan Singh, William Murdoch, Bin Yu; ICML 2020 [paper](http://proceedings.mlr.press/v119/rieger20a/rieger20a.pdf)
-  
+
 - **When Can Models Learn From Explanations? A Formal Framework for Understanding the Roles of Explanation Data**
   Peter Hase, Mohit Bansal; arXiv 2020 [paper](https://arxiv.org/pdf/2102.02201.pdf)
 
@@ -113,10 +113,10 @@ Approaches that combine supervision on the explanations with interactive machine
 - **Right for the Right Concept: Revising Neuro-Symbolic Concepts by Interacting with their Explanations**
   Wolfgang Stammer, Patrick Schramowski, and Kristian Kersting; arXiv 2020 [paper](https://arxiv.org/pdf/2011.12854)
   Notes: first-order logic, attention.
-  
+
 - **Right for Better Reasons: Training Differentiable Models by Constraining their Influence Function**
   Xiaoting Shao, Arseny Skryagin, Patrick Schramowski, Wolfgang Stammer, Kristian Kersting; AAAI 2021 [preliminary paper](https://www.aaai.org/AAAI21Papers/AAAI-5436.ShaoX.pdf)
-  
+
 - **Bandits for Learning to Explain from Explanations**
   Freya Behrens, Stefano Teso, Davide Mottin; XAI Workshop 2021 [paper](https://arxiv.org/pdf/2102.03815)
   Notes: preliminary.
@@ -159,7 +159,7 @@ Approaches that regularize the model's explanations in an unsupervised manner, o
 
 - **Regularizing black-box models for improved interpretability**
   Gregory Plumb, Maruan Al-Shedivat, Ángel Alexander Cabrera, Adam Perer, Eric Xing, Ameet Talwalkar; NeurIPS 2020 [paper](https://papers.nips.cc/paper/2020/file/770f8e448d07586afbf77bb59f698587-Paper.pdf)
-  
+
 - **Explainable Models with Consistent Interpretations**
   Vipin Pillai, Hamed Pirsiavash;  AAAI 2021 [paper](https://www.csee.umbc.edu/~hpirsiav/papers/gc_aaai21.pdf) [code](https://github.com/UMBCvision/Explainable-Models-with-Consistent-Interpretations)
 
@@ -281,7 +281,7 @@ A selection of general resources on Explainable AI focusing on overviews, survey
 
 ----
 
-  
+
 ### Related Lists
 
 - [Awesome explainable AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
@@ -292,16 +292,16 @@ A selection of general resources on Explainable AI focusing on overviews, survey
 
 
 ### Not Yet Sorted
-  
+
 - **e-SNLI: natural language inference with natural language explanations**
   Oana-Maria Camburu, Tim Rocktäschel, Thomas Lukasiewicz, and Phil Blunsom; NeurIPS 2018 [paper](https://papers.nips.cc/paper/2018/file/4c7a167bb329bd92580a99ce422d6fa6-Paper.pdf)
-  
+
 - **Multimodal explanations: Justifying decisions and pointing to the evidence**
   Dong Huk Park, Lisa Anne Hendricks, Zeynep Akata, Anna Rohrbach, Bernt Schiele, Trevor Darrell, Marcus Rohrbach; CVPR 2018 [paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Park_Multimodal_Explanations_Justifying_CVPR_2018_paper.pdf)
-  
+
 - **"Learning Deep Attribution Priors Based On Prior Knowledge**
   Ethan Weinberger, Joseph Janizek, Su-In Lee; NeurIPS 2020 [paper](https://papers.nips.cc/paper/2020/file/a19883fca95d0e5ec7ee6c94c6c32028-Paper.pdf)
-  
+
 - **Explain and Predict, and then Predict Again**
   Zijian Zhang, Koustav Rudra, Avishek Anand; arXiv 2021 [paper](https://arxiv.org/pdf/2101.04109)
 
