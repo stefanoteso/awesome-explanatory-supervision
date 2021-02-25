@@ -33,7 +33,7 @@ Approaches that supervise the model's explanations.
 
 - **Tangent Prop - A formalism for specifying selected invariances in an adaptive network**
   Patrice Simard, Bernard Victorri, Yann Le Cun, John Denker; NeurIPS 1992 [paper](https://papers.nips.cc/paper/536-tangent-prop-a-formalism-for-specifying-selected-invariances-in-an-adaptive-network.pdf)
-  Notes: injects invariances into a neural net by regularizing its gradient;  precursor to learning from gradient-based explanations.
+  Notes: injects invariances into a neural net by regularizing its gradient; precursor to learning from gradient-based explanations.
 
 - **Right for the right reasons: training differentiable models by constraining their explanations**
   Andrew Slavin Ross, Michael C. Hughes, and Finale Doshi-Velez; IJCAI 2017 [paper](https://www.ijcai.org/Proceedings/2017/0371.pdf)
@@ -164,7 +164,7 @@ Approaches that regularize the model's explanations in an unsupervised manner, o
   Gregory Plumb, Maruan Al-Shedivat, Ángel Alexander Cabrera, Adam Perer, Eric Xing, Ameet Talwalkar; NeurIPS 2020 [paper](https://papers.nips.cc/paper/2020/file/770f8e448d07586afbf77bb59f698587-Paper.pdf)
 
 - **Explainable Models with Consistent Interpretations**
-  Vipin Pillai, Hamed Pirsiavash;  AAAI 2021 [paper](https://www.csee.umbc.edu/~hpirsiav/papers/gc_aaai21.pdf) [code](https://github.com/UMBCvision/Explainable-Models-with-Consistent-Interpretations)
+  Vipin Pillai, Hamed Pirsiavash; AAAI 2021 [paper](https://www.csee.umbc.edu/~hpirsiav/papers/gc_aaai21.pdf) [code](https://github.com/UMBCvision/Explainable-Models-with-Consistent-Interpretations)
 
 ----
 
@@ -244,7 +244,7 @@ Critiquing in recommenders:
 A selection of general resources on Explainable AI focusing on overviews, surveys, societal implications, and critiques:
 
 - **Survey and critique of techniques for extracting rules from trained artificial neural networks**
-  Robert Andrews, Joachim Diederich, Alan B. Tickle;  Knowledge-based systems 1995 [page](https://www.sciencedirect.com/science/article/abs/pii/0950705196819204)
+  Robert Andrews, Joachim Diederich, Alan B. Tickle; Knowledge-based systems 1995 [page](https://www.sciencedirect.com/science/article/abs/pii/0950705196819204)
 
 - **The Mythos of Model Interpretability**
   Zachary Lipton; CACM 2016 [paper](https://dl.acm.org/doi/pdf/10.1145/3236386.3241340)
