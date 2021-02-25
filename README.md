@@ -24,6 +24,7 @@ Did we miss a relevant paper?  Please submit a new entry in the following format
 - [Related Works](#related-works)
 - [Resources](#resources)
 
+----
 
 
 ### [Passive Learning](#content)
@@ -71,6 +72,7 @@ Approaches that supervise the model's explanations.
   Peter Hase, Mohit Bansal; arXiv 2020 [paper](https://arxiv.org/pdf/2102.02201.pdf)
 
 
+----
 
 ### [Interactive Learning](#content)
 
@@ -119,11 +121,15 @@ Approaches that combine supervision on the explanations with interactive machine
   Freya Behrens, Stefano Teso, Davide Mottin; XAI Workshop 2021 [paper](https://arxiv.org/pdf/2102.03815)
   Notes: preliminary.
 
+----
+
 
 ### [Reinforcement Learning](#content)
 
 - **Explanation Augmented Feedback in Human-in-the-Loop Reinforcement Learning**
   Lin Guan, Mudit Verma, Sihang Guo, Ruohan Zhang, Subbarao Kambhampati; arXiv 2020 [paper](https://arxiv.org/pdf/2006.14804)
+
+----
 
 
 ### [Distillation](#content)
@@ -134,6 +140,8 @@ Approaches that combine supervision on the explanations with interactive machine
 - **Evaluating Explanations: How much do explanations from the teacher aid students?**
   Danish Pruthi, Bhuwan Dhingra, Livio Baldini Soares, Michael Collins, Zachary C. Lipton, Graham Neubig, and William W. Cohen; arXiv 2020 [paper](https://arxiv.org/pdf/2012.00893)
   Notes: defines importance of different kinds of explanations by measuring their impact when used as supervision.
+
+----
 
 
 ### [Regularization without Supervision](#content)
@@ -154,6 +162,8 @@ Approaches that regularize the model's explanations in an unsupervised manner, o
   
 - **Explainable Models with Consistent Interpretations**
   Vipin Pillai, Hamed Pirsiavash;  AAAI 2021 [paper](https://www.csee.umbc.edu/~hpirsiav/papers/gc_aaai21.pdf) [code](https://github.com/UMBCvision/Explainable-Models-with-Consistent-Interpretations)
+
+----
 
 
 ### [Related Works](#content)
@@ -222,8 +232,9 @@ Critiquing in recommenders:
 
 - **Coactive critiquing: Elicitation of preferences and features**
   Stefano Teso, Paolo Dragone, Andrea Passerini; AAAI 2017 [paper](https://ojs.aaai.org/index.php/AAAI/article/view/10929/10788)
-  
-  
+
+----
+
 
 ### [Resources](#content)
 
@@ -267,13 +278,17 @@ A selection of general resources on Explainable AI focusing on overviews, survey
 
 - **Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead**
   Cynthia Rudin; Nature Machine Intelligence 2019 [page](https://www.nature.com/articles/s42256-019-0048-x)
+
+----
+
   
-  
-### Related Resources
+### Related Lists
 
 - [Awesome explainable AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
 
 - [Awesome machine learning interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)
+
+----
 
 
 ### Not Yet Sorted
@@ -290,12 +305,12 @@ A selection of general resources on Explainable AI focusing on overviews, survey
 - **Explain and Predict, and then Predict Again**
   Zijian Zhang, Koustav Rudra, Avishek Anand; arXiv 2021 [paper](https://arxiv.org/pdf/2101.04109)
 
+----
+
 
 ### TODO
 
 - Make sure that all papers are categorized correctly ;-)
-
-- Reference work on explanations in machine teaching.
 
 - Crawl & reference work on NLP.
 
