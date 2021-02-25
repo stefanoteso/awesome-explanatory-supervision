@@ -97,7 +97,7 @@ Approaches that combine supervision on the explanations with interactive machine
 - **One explanation does not fit all**
   Kacper Sokol, Peter Flach; 2020 Künstliche Intelligenz [paper](https://link.springer.com/content/pdf/10.1007/s13218-020-00637-y.pdf)
 
-- **Human-in-the-loop Debugging Deep Text Classifiers**
+- **FIND: Human-in-the-loop Debugging Deep Text Classifiers**
   Piyawat Lertvittayakumjorn, Lucia Specia, Francesca Toni; EMNLP 2020 [paper](https://www.aclweb.org/anthology/2020.emnlp-main.24.pdf)
 
 - **Human-driven FOL explanations of deep learning**
