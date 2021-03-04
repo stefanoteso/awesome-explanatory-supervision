@@ -139,7 +139,7 @@ Approaches that combine supervision on the explanations with interactive machine
   Notes: preliminary.
 
 - **Cost-effective Interactive Attention Learning with Neural Attention Process**
-  Jay Heo, Junhyeon Park, Hyewon Jeong, Kwang joon Kim, Juho Lee, Eunho Yang, Sung Ju Hwang; ICLR 2020 [paper](https://arxiv.org/pdf/2006.05419.pdf)
+  Jay Heo, Junhyeon Park, Hyewon Jeong, Kwang joon Kim, Juho Lee, Eunho Yang, Sung Ju Hwang; ICML 2020 [paper](https://arxiv.org/pdf/2006.05419.pdf)
   Notes: attention, interaction
 
 ----
