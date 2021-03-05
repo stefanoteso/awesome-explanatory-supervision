@@ -138,6 +138,10 @@ Approaches that combine supervision on the explanations with interactive machine
   Freya Behrens, Stefano Teso, Davide Mottin; XAI Workshop 2021 [paper](https://arxiv.org/pdf/2102.03815)
   Notes: preliminary.
 
+- **Cost-effective Interactive Attention Learning with Neural Attention Process**
+  Jay Heo, Junhyeon Park, Hyewon Jeong, Kwang joon Kim, Juho Lee, Eunho Yang, Sung Ju Hwang; ICML 2020 [paper](https://arxiv.org/pdf/2006.05419.pdf)
+  Notes: attention, interaction
+
 ----
 
 
