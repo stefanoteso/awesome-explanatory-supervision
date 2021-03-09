@@ -169,6 +169,9 @@ Approaches that combine supervision on the explanations with interactive machine
 
 Approaches that regularize the model's explanations in an unsupervised manner, often for improved interpretability.
 
+- **Improving the adversarial robustness and interpretability of deep neural networks by regularizing their input gradients**
+  Andrew Ross and Finale Doshi-Velez.  AAAI 2018 [paper](https://ojs.aaai.org/index.php/AAAI/article/view/11504/11363)
+
 - **Towards robust interpretability with self-explaining neural networks**
   David Alvarez-Melis, Tommi Jaakkola; NeurIPS 2018 [paper](https://proceedings.neurips.cc/paper/2018/file/3e9f0fc9b2f89e043bc6233994dfcf76-Paper.pdf)
 
