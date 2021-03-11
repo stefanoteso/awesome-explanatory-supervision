@@ -1,9 +1,9 @@
 # Awesome Explanatory Supervision [![Awesome](figures/awesome.svg)](https://github.com/stefanoteso/awesome-explanatory-supervision)
 
-Overview of literature on learning from supervision on the model's *explanations*.
+Overview of literature on learning from supervision on the model's *explanations*.  A `.bib` file of the papers below can be downloaded [here](https://raw.githubusercontent.com/stefanoteso/awesome-explanatory-supervision/main/explanatory-supervision.bib).
 
 
-**Warning**: early draft, permanent WIP.
+**Warning**: permanent WIP.
 
 
 Did we miss a relevant paper?  Please submit a new entry in the following format:
