@@ -306,6 +306,9 @@ A selection of general resources on Explainable AI focusing on overviews, survey
 - **Shortcut learning in deep neural networks.**
   Robert Geirhos, Jorn-Henrik Jacobsen, Claudio Michaelis, Richard Zemel, Wieland Brendel, Matthias Bethge, Felix Wichmann; Nature Machine Intelligence 2020 [page](https://www.nature.com/articles/s42256-020-00257-z)
 
+- **When Explanations Lie: Why Many Modified BP Attributions Fail**
+  Leon Sixt, Maximilian Granz, Tim Landgraf.  ICML 2020 [paper](http://proceedings.mlr.press/v119/sixt20a/sixt20a.pdf)
+
 ----
 
 
