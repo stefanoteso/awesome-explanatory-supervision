@@ -122,6 +122,10 @@ Approaches that combine supervision on the explanations with interactive machine
 - **Human-driven FOL explanations of deep learning**
   Gabriele Ciravegna, Francesco Giannini, Marco Gori, Marco Maggini, Stefano Melacci; IJCAI 2020 [paper](https://www.ijcai.org/Proceedings/2020/0309.pdf)
   Notes: first-order logic.
+  
+- **Cost-effective Interactive Attention Learning with Neural Attention Process**
+  Jay Heo, Junhyeon Park, Hyewon Jeong, Kwang joon Kim, Juho Lee, Eunho Yang, Sung Ju Hwang; ICML 2020 [paper](https://arxiv.org/pdf/2006.05419.pdf)
+  Notes: attention, interaction
 
 - **Machine Guides, Human Supervises: Interactive Learning with Global Explanations**
   Teodora Popordanoska, Mohit Kumar, Stefano Teso; arXiv 2020 [paper](https://arxiv.org/pdf/2009.09723.pdf)
@@ -137,10 +141,6 @@ Approaches that combine supervision on the explanations with interactive machine
 - **Bandits for Learning to Explain from Explanations**
   Freya Behrens, Stefano Teso, Davide Mottin; XAI Workshop 2021 [paper](https://arxiv.org/pdf/2102.03815)
   Notes: preliminary.
-
-- **Cost-effective Interactive Attention Learning with Neural Attention Process**
-  Jay Heo, Junhyeon Park, Hyewon Jeong, Kwang joon Kim, Juho Lee, Eunho Yang, Sung Ju Hwang; ICML 2020 [paper](https://arxiv.org/pdf/2006.05419.pdf)
-  Notes: attention, interaction
 
 ----
 
