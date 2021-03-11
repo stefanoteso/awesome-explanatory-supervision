@@ -122,7 +122,7 @@ Approaches that combine supervision on the explanations with interactive machine
 - **Human-driven FOL explanations of deep learning**
   Gabriele Ciravegna, Francesco Giannini, Marco Gori, Marco Maggini, Stefano Melacci; IJCAI 2020 [paper](https://www.ijcai.org/Proceedings/2020/0309.pdf)
   Notes: first-order logic.
-  
+
 - **Cost-effective Interactive Attention Learning with Neural Attention Process**
   Jay Heo, Junhyeon Park, Hyewon Jeong, Kwang joon Kim, Juho Lee, Eunho Yang, Sung Ju Hwang; ICML 2020 [paper](https://arxiv.org/pdf/2006.05419.pdf)
   Notes: attention, interaction
@@ -278,7 +278,7 @@ A selection of general resources on Explainable AI focusing on overviews, survey
 
 - **Unmasking clever hans predictors and assessing what machines really learn**
   Sebastian Lapuschkin, Stephan Wäldchen, Alexander Binder, Grégoire Montavon, Wojciech Samek, Klaus-Robert Müller; Nature Communications 2019 [paper](https://www.nature.com/articles/s41467-019-08987-4)
-and 
+
 - **Interpretation of neural networks is fragile**
   Amirata Ghorbani, Abubakar Abid, James Zou; AAAI 2019 [paper](https://ojs.aaai.org/index.php/AAAI/article/view/4252/4130)
 
@@ -303,7 +303,7 @@ and
 - **Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead**
   Cynthia Rudin; Nature Machine Intelligence 2019 [page](https://www.nature.com/articles/s42256-019-0048-x)
 
-- **Shortcut learning in deep neural networks.** 
+- **Shortcut learning in deep neural networks.**
   Robert Geirhos, Jorn-Henrik Jacobsen, Claudio Michaelis, Richard Zemel, Wieland Brendel, Matthias Bethge, Felix Wichmann; Nature Machine Intelligence 2020 [page](https://www.nature.com/articles/s42256-020-00257-z)
 
 ----
