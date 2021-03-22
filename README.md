@@ -87,6 +87,10 @@ Approaches that supervise the model's explanations.
 - **Explain and Predict, and then Predict Again**
   Zijian Zhang, Koustav Rudra, Avishek Anand; arXiv 2021 [paper](https://arxiv.org/pdf/2101.04109)
 
+- **GLocalX-From Local to Global Explanations of Black Box AI Models**
+  Mattia Setzu, Riccardo Guidotti, Anna Monreale, Franco Turini, Dino Pedreschi, and Fosca Giannotti; Artificial Intelligence 2021 [page](https://www.sciencedirect.com/science/article/pii/S0004370221000084) [code](https://github.com/msetzu/glocalx)
+  Note: converts a set of local explanations to a global explanation / white-box model. 
+
 
 
 ----
