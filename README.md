@@ -146,6 +146,9 @@ Approaches that combine supervision on the explanations with interactive machine
   Freya Behrens, Stefano Teso, Davide Mottin; XAI Workshop 2021 [paper](https://arxiv.org/pdf/2102.03815)
   Notes: preliminary.
 
+- **Refining Neural Networks with Compositional Explanations**
+  Huihan Yao, Ying Chen, Qinyuan Ye, Xisen Jin, Xiang Ren; arXiv 2021 [paper](https://arxiv.org/pdf/2103.10415)
+
 ----
 
 
