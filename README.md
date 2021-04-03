@@ -21,6 +21,7 @@ Did we miss a relevant paper?  Please submit a new entry in the following format
 - [Reinforcement Learning](#reinforcement-learning)
 - [Distillation](#distillation)
 - [Regularization without Supervision](#regularization-without-supervision)
+- [Machine Teaching](#machine-teaching)
 - [Related Works](#related-works)
 - [Resources](#resources)
 
@@ -31,19 +32,12 @@ Did we miss a relevant paper?  Please submit a new entry in the following format
 
 Approaches that supervise the model's explanations.
 
-- **Tangent Prop - A formalism for specifying selected invariances in an adaptive network**
-  Patrice Simard, Bernard Victorri, Yann Le Cun, John Denker; NeurIPS 1992 [paper](https://papers.nips.cc/paper/536-tangent-prop-a-formalism-for-specifying-selected-invariances-in-an-adaptive-network.pdf)
-  Notes: injects invariances into a neural net by regularizing its gradient; precursor to learning from gradient-based explanations.
-
 - **Rationalizing Neural Predictions**
-  Tao Lei, Regina Barzilay, Tommi Jaakkola; EMNLP 2016 [paper](https://www.aclweb.org/anthology/D16-1011.pdf)
+  Tao Lei, Regina Barzilay, Tommi Jaakkola; EMNLP 2016 [paper](https://www.aclweb.org/anthology/D16-1011.pdf) [code](github.com/taolei87/rcnn)
   Note: they learn an `explanation module' for text classificaiton from explanatory supervision, namely rationales.
 
 - **Right for the right reasons: training differentiable models by constraining their explanations**
-  Andrew Slavin Ross, Michael C. Hughes, and Finale Doshi-Velez; IJCAI 2017 [paper](https://www.ijcai.org/Proceedings/2017/0371.pdf)
-
-- **Interpretable Machine Teaching via Feature Feedback**
-  Shihan Su, Yuxin Chen, Oisin Mac Aodha, Pietro Perona, Yisong Yue; Workshop on Teaching Machines, Robots, and Humans 2017 [paper](https://authors.library.caltech.edu/87329/1/nips17-teaching_paper-5.pdf)
+  Andrew Slavin Ross, Michael C. Hughes, and Finale Doshi-Velez; IJCAI 2017 [paper](https://www.ijcai.org/Proceedings/2017/0371.pdf) [code](https://github.com/dtak/rrr)
 
 - **Teaching meaningful explanations**
   Noel Codella, Michael Hind, Karthikeyan Ramamurthy, Murray Campbell, Amit Dhurandhar, Kush Varshney, Dennis Wei, Aleksandra Mojsilovic; arXiv 2018 [paper](https://arxiv.org/pdf/1805.11648)
@@ -57,9 +51,6 @@ Approaches that supervise the model's explanations.
 - **Do Human Rationales Improve Machine Explanations?**
   Strout, Julia, Ye Zhang, Raymond Mooney; ACL Workshop BlackboxNLP 2019 [paper](https://www.aclweb.org/anthology/W19-4807.pdf)
 
-- **Concept bottleneck models**
-  Pang Wei Koh, Thao Nguyen, Yew Siang Tang, Stephen Mussmann, Emma Pierson, Been Kim, and Percy Liang; ICML 2020 [paper](http://proceedings.mlr.press/v119/koh20a/koh20a.pdf)
-
 - **Debiasing Concept Bottleneck Models with Instrumental Variables**
   Mohammad Taha Bahadori, and David E. Heckerman; arXiv 2020 [paper](https://arxiv.org/pdf/2007.11500.pdf)
 
@@ -69,11 +60,8 @@ Approaches that supervise the model's explanations.
 - **Reflective-Net: Learning from Explanations**
   Johannes Schneider, Michalis Vlachos; arXiv 2020 [paper](https://arxiv.org/pdf/2011.13986.pdf)
 
-- **Teaching with Commentaries**
-  Aniruddh Raghu, Maithra Raghu, Simon Kornblith, David Duvenaud, and Geoffrey Hinton; arXiv 2020 [paper](https://arxiv.org/pdf/2011.03037)
-
 - **Improving performance of deep learning models with axiomatic attribution priors and expected gradients**
-  Gabriel Erion, Joseph D. Janizek, Pascal Sturmfels, Scott Lundberg, Su-In Lee; arXiv 2020 [paper](https://arxiv.org/pdf/1906.10670)
+  Gabriel Erion, Joseph D. Janizek, Pascal Sturmfels, Scott Lundberg, Su-In Lee; ICLR 2020 [paper](https://arxiv.org/pdf/1906.10670) [code](github.com/suinleelab/attributionpriors)
 
 - **Interpretations are useful: penalizing explanations to align neural networks with prior knowledge**
   Laura Rieger, Chandan Singh, William Murdoch, Bin Yu; ICML 2020 [paper](http://proceedings.mlr.press/v119/rieger20a/rieger20a.pdf)
@@ -84,12 +72,15 @@ Approaches that supervise the model's explanations.
 - **Learning to Faithfully Rationalize by Construction**
   Sarthak Jain, Sarah Wiegreffe, Yuval Pinter, Byron Wallace. ACL 2020 [paper](https://www.aclweb.org/anthology/2020.acl-main.409.pdf) [code](https://github.com/successar/FRESH)
 
-- **Explain and Predict, and then Predict Again**
-  Zijian Zhang, Koustav Rudra, Avishek Anand; arXiv 2021 [paper](https://arxiv.org/pdf/2101.04109)
-
 - **GLocalX-From Local to Global Explanations of Black Box AI Models**
   Mattia Setzu, Riccardo Guidotti, Anna Monreale, Franco Turini, Dino Pedreschi, and Fosca Giannotti; Artificial Intelligence 2021 [page](https://www.sciencedirect.com/science/article/pii/S0004370221000084) [code](https://github.com/msetzu/glocalx)
-  Note: converts a set of local explanations to a global explanation / white-box model. 
+  Note: converts a set of local explanations to a global explanation / white-box model.
+
+- **Teaching with Commentaries**
+  Aniruddh Raghu, Maithra Raghu, Simon Kornblith, David Duvenaud, and Geoffrey Hinton; ICLR 2021 [paper](https://arxiv.org/pdf/2011.03037) [code](github.com/googleinterns/commentaries)
+
+- **Explain and Predict, and then Predict Again**
+  Zijian Zhang, Koustav Rudra, Avishek Anand; arXiv 2021 [paper](https://arxiv.org/pdf/2101.04109)
 
 
 
@@ -197,6 +188,14 @@ Approaches that regularize the model's explanations in an unsupervised manner, o
 ----
 
 
+### [Machine Teaching](#content)
+
+- **Interpretable Machine Teaching via Feature Feedback**
+  Shihan Su, Yuxin Chen, Oisin Mac Aodha, Pietro Perona, Yisong Yue; Workshop on Teaching Machines, Robots, and Humans 2017 [paper](https://authors.library.caltech.edu/87329/1/nips17-teaching_paper-5.pdf)
+
+----
+
+
 ### [Related Works](#content)
 
 Explanation-based learning, focuses on logic-based formalisms and learning strategies:
@@ -215,6 +214,10 @@ Explanation-based learning, focuses on logic-based formalisms and learning strat
 
 
 Injecting invariances / feature constraints into models:
+
+- **Tangent Prop - A formalism for specifying selected invariances in an adaptive network**
+  Patrice Simard, Bernard Victorri, Yann Le Cun, John Denker; NeurIPS 1992 [paper](https://papers.nips.cc/paper/536-tangent-prop-a-formalism-for-specifying-selected-invariances-in-an-adaptive-network.pdf)
+  Notes: injects invariances into a neural net by regularizing its gradient; precursor to learning from gradient-based explanations.
 
 - **Training invariant support vector machines**
   Dennis DeCoste, Bernhard Schölkopf; MLJ 2002 [paper](https://link.springer.com/content/pdf/10.1023/A:1012454411458.pdf)
@@ -263,6 +266,12 @@ Critiquing in recommenders:
 
 - **Coactive critiquing: Elicitation of preferences and features**
   Stefano Teso, Paolo Dragone, Andrea Passerini; AAAI 2017 [paper](https://ojs.aaai.org/index.php/AAAI/article/view/10929/10788)
+
+
+Gray-box models:
+
+- **Concept bottleneck models**
+  Pang Wei Koh, Thao Nguyen, Yew Siang Tang, Stephen Mussmann, Emma Pierson, Been Kim, and Percy Liang; ICML 2020 [paper](http://proceedings.mlr.press/v119/koh20a/koh20a.pdf)
 
 ----
 
