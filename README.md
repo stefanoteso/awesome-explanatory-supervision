@@ -46,7 +46,7 @@ Approaches that supervise the model's explanations.
   Michael Hind, Dennis Wei, Murray Campbell, Noel Codella, Amit Dhurandhar, Aleksandra Mojsilović, Karthikeyan Ramamurthy, Kush Varshney; AIES 2019 [paper](https://arxiv.org/pdf/1811.04896.pdf)
 
 - **Deriving Machine Attention from Human Rationales**
-  Yujia Bao, Shiyu Chang, Mo Yu, and Regina Barzilay; ACL 2019 [paper](https://www.aclweb.org/anthology/D18-1216.pdf)
+  Yujia Bao, Shiyu Chang, Mo Yu, and Regina Barzilay; ACL 2019 [paper](https://www.aclweb.org/anthology/D18-1216.pdf) [code](https://github.com/YujiaBao/R2A)
 
 - **Do Human Rationales Improve Machine Explanations?**
   Strout, Julia, Ye Zhang, Raymond Mooney; ACL Workshop BlackboxNLP 2019 [paper](https://www.aclweb.org/anthology/W19-4807.pdf)
@@ -64,10 +64,10 @@ Approaches that supervise the model's explanations.
   Gabriel Erion, Joseph D. Janizek, Pascal Sturmfels, Scott Lundberg, Su-In Lee; ICLR 2020 [paper](https://arxiv.org/pdf/1906.10670) [code](github.com/suinleelab/attributionpriors)
 
 - **Interpretations are useful: penalizing explanations to align neural networks with prior knowledge**
-  Laura Rieger, Chandan Singh, William Murdoch, Bin Yu; ICML 2020 [paper](http://proceedings.mlr.press/v119/rieger20a/rieger20a.pdf)
+  Laura Rieger, Chandan Singh, William Murdoch, Bin Yu; ICML 2020 [paper](http://proceedings.mlr.press/v119/rieger20a/rieger20a.pdf) [code](https://github.com/laura-rieger/deep-explanation-penalization)
 
 - **When Can Models Learn From Explanations? A Formal Framework for Understanding the Roles of Explanation Data**
-  Peter Hase, Mohit Bansal; arXiv 2020 [paper](https://arxiv.org/pdf/2102.02201.pdf)
+  Peter Hase, Mohit Bansal; arXiv 2020 [paper](https://arxiv.org/pdf/2102.02201.pdf) [code](https://github.com/peterbhase/ExplanationRoles)
 
 - **Learning to Faithfully Rationalize by Construction**
   Sarthak Jain, Sarah Wiegreffe, Yuval Pinter, Byron Wallace. ACL 2020 [paper](https://www.aclweb.org/anthology/2020.acl-main.409.pdf) [code](https://github.com/successar/FRESH)
@@ -80,7 +80,7 @@ Approaches that supervise the model's explanations.
   Aniruddh Raghu, Maithra Raghu, Simon Kornblith, David Duvenaud, and Geoffrey Hinton; ICLR 2021 [paper](https://arxiv.org/pdf/2011.03037) [code](github.com/googleinterns/commentaries)
 
 - **Explain and Predict, and then Predict Again**
-  Zijian Zhang, Koustav Rudra, Avishek Anand; arXiv 2021 [paper](https://arxiv.org/pdf/2101.04109)
+  Zijian Zhang, Koustav Rudra, Avishek Anand; arXiv 2021 [paper](https://arxiv.org/pdf/2101.04109) [code](https://github.com/JoshuaGhost/expred)
 
 
 
