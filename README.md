@@ -39,20 +39,20 @@ Approaches that supervise the model's explanations.
 - **Right for the right reasons: training differentiable models by constraining their explanations**
   Andrew Slavin Ross, Michael C. Hughes, and Finale Doshi-Velez; IJCAI 2017 [paper](https://www.ijcai.org/Proceedings/2017/0371.pdf) [code](https://github.com/dtak/rrr)
 
-- **TED: Teaching AI to explain its decisions**
-  Michael Hind, Dennis Wei, Murray Campbell, Noel Codella, Amit Dhurandhar, Aleksandra Mojsilović, Karthikeyan Ramamurthy, Kush Varshney; AIES 2019 [paper](https://arxiv.org/pdf/1811.04896.pdf)
-
 - **Deriving Machine Attention from Human Rationales**
   Yujia Bao, Shiyu Chang, Mo Yu, and Regina Barzilay; ACL 2019 [paper](https://www.aclweb.org/anthology/D18-1216.pdf) [code](https://github.com/YujiaBao/R2A)
+
+- **TED: Teaching AI to explain its decisions**
+  Michael Hind, Dennis Wei, Murray Campbell, Noel Codella, Amit Dhurandhar, Aleksandra Mojsilović, Karthikeyan Ramamurthy, Kush Varshney; AIES 2019 [paper](https://arxiv.org/pdf/1811.04896.pdf)
 
 - **Do Human Rationales Improve Machine Explanations?**
   Strout, Julia, Ye Zhang, Raymond Mooney; ACL Workshop BlackboxNLP 2019 [paper](https://www.aclweb.org/anthology/W19-4807.pdf)
 
+- **Improving performance of deep learning models with axiomatic attribution priors and expected gradients**
+  Gabriel Erion, Joseph D. Janizek, Pascal Sturmfels, Scott Lundberg, Su-In Lee; arXiv 2019 [paper](https://arxiv.org/pdf/1906.10670) [code](github.com/suinleelab/attributionpriors)
+
 - **Learning Global Transparent Models Consistent with Local Contrastive Explanations**
   Tejaswini Pedapati, Avinash Balakrishnan, Karthikeyan Shanmugam, Amit Dhurandhar; NeurIPS 2020 [paper](https://proceedings.neurips.cc/paper/2020/file/24aef8cb3281a2422a59b51659f1ad2e-Paper.pdf)
-
-- **Improving performance of deep learning models with axiomatic attribution priors and expected gradients**
-  Gabriel Erion, Joseph D. Janizek, Pascal Sturmfels, Scott Lundberg, Su-In Lee; ICLR 2020 [paper](https://arxiv.org/pdf/1906.10670) [code](github.com/suinleelab/attributionpriors)
 
 - **Interpretations are useful: penalizing explanations to align neural networks with prior knowledge**
   Laura Rieger, Chandan Singh, William Murdoch, Bin Yu; ICML 2020 [paper](http://proceedings.mlr.press/v119/rieger20a/rieger20a.pdf) [code](https://github.com/laura-rieger/deep-explanation-penalization)
@@ -181,6 +181,9 @@ Approaches that regularize the model's explanations in an unsupervised manner, o
 
 - **Explainable Models with Consistent Interpretations**
   Vipin Pillai, Hamed Pirsiavash; AAAI 2021 [paper](https://www.csee.umbc.edu/~hpirsiav/papers/gc_aaai21.pdf) [code](https://github.com/UMBCvision/Explainable-Models-with-Consistent-Interpretations)
+
+- **Explanation Consistency Training: Facilitating Consistency-based Semi-supervised Learning with Interpretability**
+  Tao Han, Wei-Wei Tu, Yu-Feng Li; AAAI 2021 [paper](https://www.aaai.org/AAAI21Papers/AAAI-7186.HanT.pdf)
 
 ----
 
