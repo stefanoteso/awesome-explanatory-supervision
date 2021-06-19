@@ -38,7 +38,7 @@ Approaches that supervise the model's explanations.
 
 - **Right for the right reasons: training differentiable models by constraining their explanations**
   Andrew Slavin Ross, Michael C. Hughes, and Finale Doshi-Velez; IJCAI 2017 [paper](https://www.ijcai.org/Proceedings/2017/0371.pdf) [code](https://github.com/dtak/rrr)
-  
+
 - **Learning credible models**
   Jiaxuan Wang, Jeeheh Oh, Haozhu Wang, and Jenna Wiens; KDD 2018 [paper](https://dl.acm.org/doi/pdf/10.1145/3219819.3220070) [code](https://github.com/nathanwang000/credible_learning)
 
@@ -82,6 +82,8 @@ Approaches that supervise the model's explanations.
 - **Explain and Predict, and then Predict Again**
   Zijian Zhang, Koustav Rudra, Avishek Anand; arXiv 2021 [paper](https://arxiv.org/pdf/2101.04109) [code](https://github.com/JoshuaGhost/expred)
 
+- **IAIA-BL: A Case-based Interpretable Deep Learning Model for Classification of Mass Lesions in Digital Mammography.**
+  Alina Barnett, Fides Schwartz, Chaofan Tao, Chaofan Chen, Yinhao Ren, Joseph Lo, Cynthia Rudin; arXiv 2021 [paper](https://arxiv.org/pdf/2103.12308)
 
 
 ----
