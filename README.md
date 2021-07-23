@@ -22,6 +22,7 @@ Did we miss a relevant paper?  Please submit a new entry in the following format
 - [Distillation](#distillation)
 - [Regularization without Supervision](#regularization-without-supervision)
 - [Machine Teaching](#machine-teaching)
+- [Applications](#applications)
 - [Related Works](#related-works)
 - [Resources](#resources)
 
@@ -206,6 +207,14 @@ Approaches that regularize the model's explanations in an unsupervised manner, o
   Shihan Su, Yuxin Chen, Oisin Mac Aodha, Pietro Perona, Yisong Yue; Workshop on Teaching Machines, Robots, and Humans 2017 [paper](https://authors.library.caltech.edu/87329/1/nips17-teaching_paper-5.pdf)
 
 ----
+
+### [Applications](#applications)
+
+- **Improving a neural network model by explanation-guided training for glioma classification based on MRI data**
+  Frantisek Sefcik, Wanda Benesova; arXiv 2021 [paper](https://arxiv.org/pdf/2107.02008)
+  Notes: based on layer-wise relevance propagation.
+
+---
 
 
 ### [Related Works](#content)
