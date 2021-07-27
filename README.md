@@ -134,11 +134,14 @@ Approaches that combine supervision on the explanations with interactive machine
   Note: introduces narrative bias and explanatory guided learning, focuses on human-initiated interaction and global explanations.
 
 - **Right for the Right Concept: Revising Neuro-Symbolic Concepts by Interacting with their Explanations**
-  Wolfgang Stammer, Patrick Schramowski, and Kristian Kersting; arXiv 2020 [paper](https://arxiv.org/pdf/2011.12854) [code](https://github.com/ml-research/NeSyXIL)
+  Wolfgang Stammer, Patrick Schramowski, and Kristian Kersting; CVPR 2021 [paper](https://arxiv.org/pdf/2011.12854) [code](https://github.com/ml-research/NeSyXIL)
   Notes: first-order logic, attention.
 
 - **Right for Better Reasons: Training Differentiable Models by Constraining their Influence Function**
   Xiaoting Shao, Arseny Skryagin, Patrick Schramowski, Wolfgang Stammer, Kristian Kersting; AAAI 2021 [paper](https://www.aaai.org/AAAI21Papers/AAAI-5436.ShaoX.pdf)
+
+- **User Driven Model Adjustment via Boolean Rule Explanations**
+  Elizabeth Daly, Massimiliano Mattetti, Öznur Alkan, Rahul Nair; AAAI 2021 [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16737/16544)
 
 - **Explainable Active Learning (XAL): Toward AI Explanations as Interfaces for Machine Teachers**
   Bhavya Ghai, Vera Liao, Yunfeng Zhang, Rachel Bellamy, Klaus Mueller.  Proc. ACM Hum.-Comput. Interact. 2021 [paper](https://www3.cs.stonybrook.edu/~mueller/papers/CSCW%20XAL%202020.pdf)
