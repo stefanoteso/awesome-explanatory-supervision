@@ -140,6 +140,9 @@ Approaches that combine supervision on the explanations with interactive machine
 - **Right for Better Reasons: Training Differentiable Models by Constraining their Influence Function**
   Xiaoting Shao, Arseny Skryagin, Patrick Schramowski, Wolfgang Stammer, Kristian Kersting; AAAI 2021 [paper](https://www.aaai.org/AAAI21Papers/AAAI-5436.ShaoX.pdf)
 
+- **Explainable Active Learning (XAL): Toward AI Explanations as Interfaces for Machine Teachers**
+  Bhavya Ghai, Vera Liao, Yunfeng Zhang, Rachel Bellamy, Klaus Mueller.  Proc. ACM Hum.-Comput. Interact. 2021 [paper](https://www3.cs.stonybrook.edu/~mueller/papers/CSCW%20XAL%202020.pdf)
+
 - **Bandits for Learning to Explain from Explanations**
   Freya Behrens, Stefano Teso, Davide Mottin; XAI Workshop 2021 [paper](https://arxiv.org/pdf/2102.03815) [code](https://github.com/stefanoteso/explearner-simpler)
   Notes: preliminary.
