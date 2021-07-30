@@ -153,6 +153,9 @@ Approaches that combine supervision on the explanations with interactive machine
 - **Refining Neural Networks with Compositional Explanations**
   Huihan Yao, Ying Chen, Qinyuan Ye, Xisen Jin, Xiang Ren; arXiv 2021 [paper](https://arxiv.org/pdf/2103.10415) [code](https://github.com/INK-USC/expl-refinement)
 
+- **Interactive Label Cleaning with Example-based Explanations**
+  Stefano Teso, Andrea Bontempelli, Fausto Giunchiglia, Andrea Passerini; arXiv 2021 [paper](https://arxiv.org/pdf/2106.03922) [code](https://github.com/abonte/cincer)
+
 ----
 
 
