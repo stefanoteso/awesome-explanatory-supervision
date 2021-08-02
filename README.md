@@ -328,6 +328,9 @@ A selection of general resources on Explainable AI focusing on overviews, survey
 - **Interpretation of neural networks is fragile**
   Amirata Ghorbani, Abubakar Abid, James Zou; AAAI 2019 [paper](https://ojs.aaai.org/index.php/AAAI/article/view/4252/4130)
 
+- **A Benchmark for Interpretability Methods in Deep Neural Networks**
+  Sara Hooke, Dumitru Erhan, Pieter-Jan Kindermans, Been Kim; NeurIPS 2019 [paper](http://papers.neurips.cc/paper/9167-a-benchmark-for-interpretability-methods-in-deep-neural-networks.pdf) [code](https://github.com/google-research/google-research/tree/master/interpretability_benchmark)
+
 - **Is Attention Interpretable?**
   Sofia Serrano, Noah A. Smith; ACL 2019 [paper](https://www.aclweb.org/anthology/P19-1282.pdf)
 
