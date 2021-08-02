@@ -207,6 +207,10 @@ Approaches that regularize the model's explanations in an unsupervised manner, o
 - **Explanation Consistency Training: Facilitating Consistency-based Semi-supervised Learning with Interpretability**
   Tao Han, Wei-Wei Tu, Yu-Feng Li; AAAI 2021 [paper](https://www.aaai.org/AAAI21Papers/AAAI-7186.HanT.pdf)
 
+- **Trustworthy convolutional neural networks: A gradient penalized-based approach**
+  Nicholas Halliwell, Freddy Lecue; arXiv 2020 [paper](https://arxiv.org/pdf/2009.14260)
+
+
 ----
 
 
