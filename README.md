@@ -70,9 +70,6 @@ Approaches that supervise the model's explanations.
 - **When Can Models Learn From Explanations? A Formal Framework for Understanding the Roles of Explanation Data**
   Peter Hase, Mohit Bansal; arXiv 2020 [paper](https://arxiv.org/pdf/2102.02201.pdf) [code](https://github.com/peterbhase/ExplanationRoles)
 
-- **Debiasing Concept Bottleneck Models with Instrumental Variables**
-  Mohammad Taha Bahadori, and David E. Heckerman; arXiv 2020 [paper](https://arxiv.org/pdf/2007.11500.pdf)
-
 - **Learning Interpretable Concept-based Models with Human Feedback**
   Isaac Lage, Finale Doshi-Velez; arXiv 2020 [paper](https://arxiv.org/pdf/2012.02898)
   Note: incrementally acquires side-information about per-concept feature dependencies;  side-information is per-concept, not per-instance.
@@ -81,8 +78,11 @@ Approaches that supervise the model's explanations.
   Mattia Setzu, Riccardo Guidotti, Anna Monreale, Franco Turini, Dino Pedreschi, and Fosca Giannotti; Artificial Intelligence 2021 [page](https://www.sciencedirect.com/science/article/pii/S0004370221000084) [code](https://github.com/msetzu/glocalx)
   Note: converts a set of local explanations to a global explanation / white-box model.
 
+- **Debiasing Concept-based Explanations with Causal Analysis**
+  Mohammad Taha Bahadori, and David E. Heckerman; ICLR 2021 [paper](https://openreview.net/pdf?id=6puUoArESGp)
+
 - **Teaching with Commentaries**
-  Aniruddh Raghu, Maithra Raghu, Simon Kornblith, David Duvenaud, and Geoffrey Hinton; ICLR 2021 [paper](https://arxiv.org/pdf/2011.03037) [code](github.com/googleinterns/commentaries)
+  Aniruddh Raghu, Maithra Raghu, Simon Kornblith, David Duvenaud, and Geoffrey Hinton; ICLR 2021 [paper](https://openreview.net/pdf?id=4RbdgBh9gE) [code](github.com/googleinterns/commentaries)
 
 - **Explain and Predict, and then Predict Again**
   Zijian Zhang, Koustav Rudra, Avishek Anand; arXiv 2021 [paper](https://arxiv.org/pdf/2101.04109) [code](https://github.com/JoshuaGhost/expred)
