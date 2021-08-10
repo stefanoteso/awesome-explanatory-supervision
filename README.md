@@ -150,6 +150,9 @@ Approaches that combine supervision on the explanations with interactive machine
   Freya Behrens, Stefano Teso, Davide Mottin; XAI Workshop 2021 [paper](https://arxiv.org/pdf/2102.03815) [code](https://github.com/stefanoteso/explearner-simpler)
   Notes: preliminary.
 
+- **HILDIF: Interactive Debugging of NLI Models Using Influence Functions**
+  Hugo Zylberajch, Piyawat Lertvittayakumjorn, Francesca Toni; InterNLP Workshop 2021 [paper](https://aclanthology.org/2021.internlp-1.1.pdf) [code](https://github.com/hugozylberajch/HILDIF)
+
 - **Refining Neural Networks with Compositional Explanations**
   Huihan Yao, Ying Chen, Qinyuan Ye, Xisen Jin, Xiang Ren; arXiv 2021 [paper](https://arxiv.org/pdf/2103.10415) [code](https://github.com/INK-USC/expl-refinement)
 
