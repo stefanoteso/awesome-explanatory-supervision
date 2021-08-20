@@ -320,6 +320,9 @@ A selection of general resources on Explainable AI focusing on overviews, survey
 - **Survey and critique of techniques for extracting rules from trained artificial neural networks**
   Robert Andrews, Joachim Diederich, Alan B. Tickle; Knowledge-based systems 1995 [page](https://www.sciencedirect.com/science/article/abs/pii/0950705196819204)
 
+- **Toward harnessing user feedback for machine learning**
+  Simone Stumpf, Vidya Rajaram, Lida Li, Margaret Burnett, Thomas Dietterich, Erin Sullivan, Russell Drummond, Jonathan Herlocker; IUI 2007 [paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.86.140&rep=rep1&type=pdf)
+
 - **The Mythos of Model Interpretability**
   Zachary Lipton; CACM 2016 [paper](https://dl.acm.org/doi/pdf/10.1145/3236386.3241340)
 
