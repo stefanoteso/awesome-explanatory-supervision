@@ -90,6 +90,9 @@ Approaches that supervise the model's explanations.
 - **IAIA-BL: A Case-based Interpretable Deep Learning Model for Classification of Mass Lesions in Digital Mammography.**
   Alina Barnett, Fides Schwartz, Chaofan Tao, Chaofan Chen, Yinhao Ren, Joseph Lo, Cynthia Rudin; arXiv 2021 [paper](https://arxiv.org/pdf/2103.12308)
 
+- **Enjoy the Salience: Towards Better Transformer-based Faithful Explanations with Word Salience**
+  George Chrysostomou, Nikolaos Aletras;  arXiv 2021 [paper](https://arxiv.org/pdf/2108.13759) [code](https://github.com/GChrysostomou/saloss)
+
 
 ----
 
