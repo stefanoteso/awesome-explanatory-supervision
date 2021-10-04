@@ -164,7 +164,10 @@ Approaches that combine supervision on the explanations with interactive machine
   Huihan Yao, Ying Chen, Qinyuan Ye, Xisen Jin, Xiang Ren; arXiv 2021 [paper](https://arxiv.org/pdf/2103.10415) [code](https://github.com/INK-USC/expl-refinement)
 
 - **Interactive Label Cleaning with Example-based Explanations**
-  Stefano Teso, Andrea Bontempelli, Fausto Giunchiglia, Andrea Passerini; arXiv 2021 [paper](https://arxiv.org/pdf/2106.03922) [code](https://github.com/abonte/cincer)
+  Stefano Teso, Andrea Bontempelli, Fausto Giunchiglia, Andrea Passerini; NeurIPS 2021 [paper](https://arxiv.org/pdf/2106.03922) [code](https://github.com/abonte/cincer)
+
+- **Symbols as a Lingua Franca for Bridging Human-AI Chasm for Explainable and Advisable AI Systems**
+  Subbarao Kambhampati, Sarath Sreedharan, Mudit Verma, Yantian Zha, Lin Guan; arXiv 2021 [paper](https://arxiv.org/pdf/2109.09904)
 
 ----
 
@@ -176,6 +179,9 @@ Approaches that combine supervision on the explanations with interactive machine
 
 - **Learning from explanations and demonstrations: A pilot study**
   Silvia Tulli, Sebastian Wallkötter, Ana Paiva, Francisco Melo, Mohamed Chetouani; Workshop on Interactive Natural Language Technology for Explainable Artificial Intelligence 2020 [paper](https://aclanthology.org/2020.nl4xai-1.13.pdf)
+
+- **Widening the Pipeline in Human-Guided Reinforcement Learning with Explanation and Context-Aware Data Augmentation**
+  Lin Guan, Mudit Verma, Sihang Guo, Ruohan Zhang, Subbarao Kambhampati; NeurIPS 2021 [pdf](https://arxiv.org/pdf/2006.14804.pdf)
 
 ----
 
