@@ -89,7 +89,7 @@ Approaches that supervise the model's explanations.
   Aniruddh Raghu, Maithra Raghu, Simon Kornblith, David Duvenaud, and Geoffrey Hinton; ICLR 2021 [paper](https://openreview.net/pdf?id=4RbdgBh9gE) [code](github.com/googleinterns/commentaries)
 
 - **Saliency is a possible red herring when diagnosing poor generalization**
-  Joseph Viviano, Becks Simpson, Francis Dutil, Yoshua Bengio, Joseph Paul Cohen; ICLR 2021 [paper](https://openreview.net/pdf?id=c9-WeM-ceB)
+  Joseph Viviano, Becks Simpson, Francis Dutil, Yoshua Bengio, Joseph Paul Cohen; ICLR 2021 [paper](https://openreview.net/pdf?id=c9-WeM-ceB) [code](https://github.com/josephdviviano/saliency-red-herring)
 
 - **Explain and Predict, and then Predict Again**
   Zijian Zhang, Koustav Rudra, Avishek Anand; arXiv 2021 [paper](https://arxiv.org/pdf/2101.04109) [code](https://github.com/JoshuaGhost/expred)
