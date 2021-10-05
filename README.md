@@ -40,6 +40,9 @@ Approaches that supervise the model's explanations.
 - **Right for the right reasons: training differentiable models by constraining their explanations**
   Andrew Slavin Ross, Michael C. Hughes, and Finale Doshi-Velez; IJCAI 2017 [paper](https://www.ijcai.org/Proceedings/2017/0371.pdf) [code](https://github.com/dtak/rrr)
 
+- **e-SNLI: natural language inference with natural language explanations**
+  Oana-Maria Camburu, Tim Rocktäschel, Thomas Lukasiewicz, and Phil Blunsom; NeurIPS 2018 [paper](https://papers.nips.cc/paper/2018/file/4c7a167bb329bd92580a99ce422d6fa6-Paper.pdf) [code](https://github.com/OanaMariaCamburu/e-SNLI)
+
 - **Learning credible models**
   Jiaxuan Wang, Jeeheh Oh, Haozhu Wang, and Jenna Wiens; KDD 2018 [paper](https://dl.acm.org/doi/pdf/10.1145/3219819.3220070) [code](https://github.com/nathanwang000/credible_learning)
 
@@ -398,9 +401,6 @@ A selection of general resources on Explainable AI focusing on overviews, survey
 
 ### Not Yet Sorted
 
-- **e-SNLI: natural language inference with natural language explanations**
-  Oana-Maria Camburu, Tim Rocktäschel, Thomas Lukasiewicz, and Phil Blunsom; NeurIPS 2018 [paper](https://papers.nips.cc/paper/2018/file/4c7a167bb329bd92580a99ce422d6fa6-Paper.pdf) [code](https://github.com/OanaMariaCamburu/e-SNLI)
-
 - **Multimodal explanations: Justifying decisions and pointing to the evidence**
   Dong Huk Park, Lisa Anne Hendricks, Zeynep Akata, Anna Rohrbach, Bernt Schiele, Trevor Darrell, Marcus Rohrbach; CVPR 2018 [paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Park_Multimodal_Explanations_Justifying_CVPR_2018_paper.pdf)
 
@@ -411,10 +411,6 @@ A selection of general resources on Explainable AI focusing on overviews, survey
 
 
 ### TODO
-
-- Make sure that all papers are categorized correctly ;-)
-
-- Add link to code wherever available.
 
 - Crawl & reference work on NLP.
 
