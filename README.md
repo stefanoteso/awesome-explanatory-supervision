@@ -175,6 +175,9 @@ Approaches that combine supervision on the explanations with interactive machine
 - **Symbols as a Lingua Franca for Bridging Human-AI Chasm for Explainable and Advisable AI Systems**
   Subbarao Kambhampati, Sarath Sreedharan, Mudit Verma, Yantian Zha, Lin Guan; arXiv 2021 [paper](https://arxiv.org/pdf/2109.09904)
 
+- **Toward a Unified Framework for Debugging Gray-box Models**
+  Andrea Bontempelli, Fausto Giunchiglia, Andrea Passerini, Stefano Teso; arXiv 2021 [paper](https://arxiv.org/pdf/2109.11160)
+
 ----
 
 
