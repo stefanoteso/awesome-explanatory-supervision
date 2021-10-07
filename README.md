@@ -259,6 +259,10 @@ Approaches that regularize the model's explanations in an unsupervised manner, o
 - **Interpretable Machine Teaching via Feature Feedback**
   Shihan Su, Yuxin Chen, Oisin Mac Aodha, Pietro Perona, Yisong Yue; Workshop on Teaching Machines, Robots, and Humans 2017 [paper](https://authors.library.caltech.edu/87329/1/nips17-teaching_paper-5.pdf)
 
+- **Teaching Categories to Human Learners with Visual Explanations**
+  Oisin Mac Aodha, Shihan Su, Yuxin Chen, Pietro Perona, Yisong Yue; CVPR 2018 [paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Aodha_Teaching_Categories_to_CVPR_2018_paper.pdf)
+  Note: this is *inverse* teaching, i.e., machine teaches human.
+
 ----
 
 ### [Applications](#applications)
