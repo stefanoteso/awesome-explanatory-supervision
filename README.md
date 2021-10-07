@@ -187,6 +187,9 @@ Approaches that combine supervision on the explanations with interactive machine
 - **Toward a Unified Framework for Debugging Gray-box Models**
   Andrea Bontempelli, Fausto Giunchiglia, Andrea Passerini, Stefano Teso; arXiv 2021 [paper](https://arxiv.org/pdf/2109.11160)
 
+- **Finding and Fixing Spurious Patterns with Explanations**
+  Gregory Plumb, Marco Tulio Ribeiro, Ameet Talwalkar; arXiv 2021 [paper](https://arxiv.org/pdf/2106.02112)
+
 ----
 
 
