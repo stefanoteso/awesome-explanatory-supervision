@@ -100,6 +100,9 @@ Approaches that supervise the model's explanations.
 - **Saliency is a possible red herring when diagnosing poor generalization**
   Joseph Viviano, Becks Simpson, Francis Dutil, Yoshua Bengio, Joseph Paul Cohen; ICLR 2021 [paper](https://openreview.net/pdf?id=c9-WeM-ceB) [code](https://github.com/josephdviviano/saliency-red-herring)
 
+- **Towards Robust Classification Model by Counterfactual and Invariant Data Generation**
+  Chun-Hao Chang, George Alexandru Adam, Anna Goldenberg; CVPR 2021 [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Chang_Towards_Robust_Classification_Model_by_Counterfactual_and_Invariant_Data_Generation_CVPR_2021_paper.pdf) [code](https://github.com/zzzace2000/robust_cls_model)
+
 - **Explain and Predict, and then Predict Again**
   Zijian Zhang, Koustav Rudra, Avishek Anand; arXiv 2021 [paper](https://arxiv.org/pdf/2101.04109) [code](https://github.com/JoshuaGhost/expred)
 
