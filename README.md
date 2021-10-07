@@ -55,6 +55,12 @@ Approaches that supervise the model's explanations.
 - **Do Human Rationales Improve Machine Explanations?**
   Strout, Julia, Ye Zhang, Raymond Mooney; ACL Workshop BlackboxNLP 2019 [paper](https://www.aclweb.org/anthology/W19-4807.pdf)
 
+- **CARE: Class attention to regions of lesion for classification on imbalanced data**
+  Jiaxin Zhuang, Jiabin Cai, Ruixuan Wang, Jianguo Zhang, Weishi Zheng; International Conference on Medical Imaging with Deep Learning, 2019. [paper](http://proceedings.mlr.press/v102/zhuang19a/zhuang19a.pdf)
+
+- **GradMask: Reduce Overfitting by Regularizing Saliency**
+  Becks Simpson, Francis Dutil, Yoshua Bengio, Joseph Paul Cohen; International Conference on Medical Imaging with Deep Learning (Extended Abstract Track). 2019. [paper](https://openreview.net/pdf?id=Syx2z2aMqE)
+
 - **Improving performance of deep learning models with axiomatic attribution priors and expected gradients**
   Gabriel Erion, Joseph D. Janizek, Pascal Sturmfels, Scott Lundberg, Su-In Lee; arXiv 2019 [paper](https://arxiv.org/pdf/1906.10670) [code](github.com/suinleelab/attributionpriors)
 
