@@ -52,6 +52,9 @@ Approaches that supervise the model's explanations.
 - **TED: Teaching AI to explain its decisions**
   Michael Hind, Dennis Wei, Murray Campbell, Noel Codella, Amit Dhurandhar, Aleksandra Mojsilović, Karthikeyan Ramamurthy, Kush Varshney; AIES 2019 [paper](https://arxiv.org/pdf/1811.04896.pdf)
 
+- **Saliency Learning: Teaching the Model Where to Pay Attention**
+  Reza Ghaeini, Xiaoli Fern, Hamed Shahbazi, Prasad Tadepalli; NAACL 2019 [paper](https://aclanthology.org/N19-1404.pdf)
+
 - **Do Human Rationales Improve Machine Explanations?**
   Strout, Julia, Ye Zhang, Raymond Mooney; ACL Workshop BlackboxNLP 2019 [paper](https://www.aclweb.org/anthology/W19-4807.pdf)
 
@@ -80,9 +83,6 @@ Approaches that supervise the model's explanations.
 - **Reflective-Net: Learning from Explanations**
   Johannes Schneider, Michalis Vlachos; arXiv 2020 [paper](https://arxiv.org/pdf/2011.13986.pdf)
 
-- **When Can Models Learn From Explanations? A Formal Framework for Understanding the Roles of Explanation Data**
-  Peter Hase, Mohit Bansal; arXiv 2020 [paper](https://arxiv.org/pdf/2102.02201.pdf) [code](https://github.com/peterbhase/ExplanationRoles)
-
 - **Learning Interpretable Concept-based Models with Human Feedback**
   Isaac Lage, Finale Doshi-Velez; arXiv 2020 [paper](https://arxiv.org/pdf/2012.02898)
   Note: incrementally acquires side-information about per-concept feature dependencies;  side-information is per-concept, not per-instance.
@@ -104,7 +104,10 @@ Approaches that supervise the model's explanations.
   Chun-Hao Chang, George Alexandru Adam, Anna Goldenberg; CVPR 2021 [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Chang_Towards_Robust_Classification_Model_by_Counterfactual_and_Invariant_Data_Generation_CVPR_2021_paper.pdf) [code](https://github.com/zzzace2000/robust_cls_model)
 
 - **Explanation-Based Human Debugging of NLP Models: A Survey**
-  Piyawat Lertvittayakumjorn, Francesca Toni; arXiv 2021.
+  Piyawat Lertvittayakumjorn, Francesca Toni; arXiv 2021 [paper](https://arxiv.org/pdf/2104.15135)
+
+- **When Can Models Learn From Explanations? A Formal Framework for Understanding the Roles of Explanation Data**
+  Peter Hase, Mohit Bansal; arXiv 2021 [paper](https://arxiv.org/pdf/2102.02201.pdf) [code](https://github.com/peterbhase/ExplanationRoles)
 
 - **Explain and Predict, and then Predict Again**
   Zijian Zhang, Koustav Rudra, Avishek Anand; arXiv 2021 [paper](https://arxiv.org/pdf/2101.04109) [code](https://github.com/JoshuaGhost/expred)
