@@ -103,6 +103,9 @@ Approaches that supervise the model's explanations.
 - **Towards Robust Classification Model by Counterfactual and Invariant Data Generation**
   Chun-Hao Chang, George Alexandru Adam, Anna Goldenberg; CVPR 2021 [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Chang_Towards_Robust_Classification_Model_by_Counterfactual_and_Invariant_Data_Generation_CVPR_2021_paper.pdf) [code](https://github.com/zzzace2000/robust_cls_model)
 
+- **Explanation-Based Human Debugging of NLP Models: A Survey**
+  Piyawat Lertvittayakumjorn, Francesca Toni; arXiv 2021.
+
 - **Explain and Predict, and then Predict Again**
   Zijian Zhang, Koustav Rudra, Avishek Anand; arXiv 2021 [paper](https://arxiv.org/pdf/2101.04109) [code](https://github.com/JoshuaGhost/expred)
 
