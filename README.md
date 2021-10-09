@@ -56,7 +56,7 @@ Approaches that supervise the model's explanations.
   Reza Ghaeini, Xiaoli Fern, Hamed Shahbazi, Prasad Tadepalli; NAACL 2019 [paper](https://aclanthology.org/N19-1404.pdf)
 
 - **Do Human Rationales Improve Machine Explanations?**
-  Strout, Julia, Ye Zhang, Raymond Mooney; ACL Workshop BlackboxNLP 2019 [paper](https://www.aclweb.org/anthology/W19-4807.pdf)
+  Julia Strout, Ye Zhang, Raymond Mooney; ACL Workshop BlackboxNLP 2019 [paper](https://www.aclweb.org/anthology/W19-4807.pdf)
 
 - **CARE: Class attention to regions of lesion for classification on imbalanced data**
   Jiaxin Zhuang, Jiabin Cai, Ruixuan Wang, Jianguo Zhang, Weishi Zheng; International Conference on Medical Imaging with Deep Learning, 2019. [paper](http://proceedings.mlr.press/v102/zhuang19a/zhuang19a.pdf)
@@ -319,7 +319,7 @@ Dual label-feature feedback:
   Hema Raghavan, James Allan; ACM SIGIR 2007 [paper](https://www.academia.edu/download/49512889/IR-560.pdf)
 
 - **Learning from labeled features using generalized expectation criteria**
-Gregory Druck, Gideon Mann, Andrew McCallum;  ACM SIGIR 2008 [paper](http://www.cs.umass.edu/~mccallum/papers/druck08sigir.pdf)
+  Gregory Druck, Gideon Mann, Andrew McCallum;  ACM SIGIR 2008 [paper](http://www.cs.umass.edu/~mccallum/papers/druck08sigir.pdf)
 
 - **Active learning by labeling features**
   Gregory Druck, Burr Settles, Andrew McCallum; EMNLP 2009 [paper](https://www.aclweb.org/anthology/D09-1009.pdf)
