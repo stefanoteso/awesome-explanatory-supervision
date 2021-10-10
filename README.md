@@ -46,6 +46,9 @@ Approaches that supervise the model's explanations.
 - **Learning credible models**
   Jiaxuan Wang, Jeeheh Oh, Haozhu Wang, and Jenna Wiens; KDD 2018 [paper](https://dl.acm.org/doi/pdf/10.1145/3219819.3220070) [code](https://github.com/nathanwang000/credible_learning)
 
+- **Learning credible deep neural networks with rationale regularization**
+  Mengnan Du, Ninghao Liu, Fan Yang, Xia Hu; ICDM 2019 [paper](https://arxiv.org/pdf/1908.05601)
+
 - **Deriving Machine Attention from Human Rationales**
   Yujia Bao, Shiyu Chang, Mo Yu, and Regina Barzilay; ACL 2019 [paper](https://www.aclweb.org/anthology/D18-1216.pdf) [code](https://github.com/YujiaBao/R2A)
 
