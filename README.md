@@ -412,6 +412,9 @@ A selection of general resources on Explainable AI focusing on overviews, survey
 - **Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead**
   Cynthia Rudin; Nature Machine Intelligence 2019 [page](https://www.nature.com/articles/s42256-019-0048-x)
 
+- **The Principles and Limits of Algorithm-in-the-loop Decision Making**
+  Ben Green, Yiling Chen; PACM HCI 2019 [paper](https://dl.acm.org/doi/pdf/10.1145/3359152)
+
 - **Shortcut learning in deep neural networks.**
   Robert Geirhos, Jorn-Henrik Jacobsen, Claudio Michaelis, Richard Zemel, Wieland Brendel, Matthias Bethge, Felix Wichmann; Nature Machine Intelligence 2020 [page](https://www.nature.com/articles/s42256-020-00257-z)
 
