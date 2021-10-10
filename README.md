@@ -250,6 +250,9 @@ Approaches that regularize the model's explanations in an unsupervised manner, o
 - **Regularizing black-box models for improved interpretability**
   Gregory Plumb, Maruan Al-Shedivat, Ángel Alexander Cabrera, Adam Perer, Eric Xing, Ameet Talwalkar; NeurIPS 2020 [paper](https://papers.nips.cc/paper/2020/file/770f8e448d07586afbf77bb59f698587-Paper.pdf)
 
+- **Don't Judge an Object by Its Context: Learning to Overcome Contextual Bias**
+  Krishna Kumar Singh, Dhruv Mahajan, Kristen Grauman, Yong Jae Lee, Matt Feiszli, Deepti Ghadiyaram; CVPR 2020 [paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Singh_Dont_Judge_an_Object_by_Its_Context_Learning_to_Overcome_CVPR_2020_paper.pdf) [code](https://github.com/princetonvisualai/ContextualBias)
+
 - **Explainable Models with Consistent Interpretations**
   Vipin Pillai, Hamed Pirsiavash; AAAI 2021 [paper](https://www.csee.umbc.edu/~hpirsiav/papers/gc_aaai21.pdf) [code](https://github.com/UMBCvision/Explainable-Models-with-Consistent-Interpretations)
 
