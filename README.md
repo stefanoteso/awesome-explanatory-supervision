@@ -46,6 +46,10 @@ Approaches that supervise the model's explanations.
 - **Learning credible models**
   Jiaxuan Wang, Jeeheh Oh, Haozhu Wang, and Jenna Wiens; KDD 2018 [paper](https://dl.acm.org/doi/pdf/10.1145/3219819.3220070) [code](https://github.com/nathanwang000/credible_learning)
 
+- **Not Using the Car to See the Sidewalk--Quantifying and Controlling the Effects of Context in Classification and Segmentation**
+  Rakshith Shetty, Bernt Schiele, Mario Fritz; CVPR 2019 [paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Shetty_Not_Using_the_Car_to_See_the_Sidewalk_--_Quantifying_CVPR_2019_paper.pdf)
+  Note: not exactly about explanations, learns from ground-truth object annotations.
+
 - **Learning credible deep neural networks with rationale regularization**
   Mengnan Du, Ninghao Liu, Fan Yang, Xia Hu; ICDM 2019 [paper](https://arxiv.org/pdf/1908.05601)
 
