@@ -424,6 +424,9 @@ A selection of general resources on Explainable AI focusing on overviews, survey
 - **When Explanations Lie: Why Many Modified BP Attributions Fail**
   Leon Sixt, Maximilian Granz, Tim Landgraf.  ICML 2020 [paper](http://proceedings.mlr.press/v119/sixt20a/sixt20a.pdf)
 
+- **How Well do Feature Visualizations Support Causal Understanding of CNN Activations?**
+  Roland Zimmermann,Judy Borowski, Robert Geirhos, Matthias Bethge, Thomas Wallis, Wieland Brendel; arXiv 2021 [paper](https://arxiv.org/pdf/2106.12447)
+
 ----
 
 
