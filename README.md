@@ -11,7 +11,7 @@ Did we miss a relevant paper?  Please submit a new entry in the following format
 ```markdown
 - **An Artificially-intelligent Means to Escape Discreetly from the Departmental Holiday Party; guide for the socially awkward**
   Eve Armstrong; arXiv 2020 [paper](https://arxiv.org/abs/2003.14169)
-  Notes: it is a joke;  a pretty good joke actually.
+  `Notes: it is a joke;  a pretty good joke actually.`
 ```
 
 
@@ -35,7 +35,7 @@ Approaches that supervise the model's explanations.
 
 - **Rationalizing Neural Predictions**
   Tao Lei, Regina Barzilay, Tommi Jaakkola; EMNLP 2016 [paper](https://www.aclweb.org/anthology/D16-1011.pdf) [code](github.com/taolei87/rcnn)
-  Note: they learn an `explanation module' for text classificaiton from explanatory supervision, namely rationales.
+  `Notes: they learn an "explanation module" for text classificaiton from explanatory supervision, namely rationales.`
 
 - **Right for the right reasons: training differentiable models by constraining their explanations**
   Andrew Slavin Ross, Michael C. Hughes, and Finale Doshi-Velez; IJCAI 2017 [paper](https://www.ijcai.org/Proceedings/2017/0371.pdf) [code](https://github.com/dtak/rrr)
@@ -48,7 +48,7 @@ Approaches that supervise the model's explanations.
 
 - **Not Using the Car to See the Sidewalk--Quantifying and Controlling the Effects of Context in Classification and Segmentation**
   Rakshith Shetty, Bernt Schiele, Mario Fritz; CVPR 2019 [paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Shetty_Not_Using_the_Car_to_See_the_Sidewalk_--_Quantifying_CVPR_2019_paper.pdf)
-  Note: not exactly about explanations, learns from ground-truth object annotations.
+  `Notes: not exactly about explanations, learns from ground-truth object annotations.`
 
 - **Learning credible deep neural networks with rationale regularization**
   Mengnan Du, Ninghao Liu, Fan Yang, Xia Hu; ICDM 2019 [paper](https://arxiv.org/pdf/1908.05601)
@@ -69,7 +69,7 @@ Approaches that supervise the model's explanations.
   Jiaxin Zhuang, Jiabin Cai, Ruixuan Wang, Jianguo Zhang, Weishi Zheng; International Conference on Medical Imaging with Deep Learning, 2019. [paper](http://proceedings.mlr.press/v102/zhuang19a/zhuang19a.pdf)
 
 - **GradMask: Reduce Overfitting by Regularizing Saliency**
-  Becks Simpson, Francis Dutil, Yoshua Bengio, Joseph Paul Cohen; International Conference on Medical Imaging with Deep Learning (Extended Abstract Track). 2019. [paper](https://openreview.net/pdf?id=Syx2z2aMqE)
+  Becks Simpson, Francis Dutil, Yoshua Bengio, Joseph Paul Cohen; International Conference on Medical Imaging with Deep Learning, 2019. [paper](https://openreview.net/pdf?id=Syx2z2aMqE)
 
 - **Improving performance of deep learning models with axiomatic attribution priors and expected gradients**
   Gabriel Erion, Joseph D. Janizek, Pascal Sturmfels, Scott Lundberg, Su-In Lee; arXiv 2019 [paper](https://arxiv.org/pdf/1906.10670) [code](github.com/suinleelab/attributionpriors)
@@ -79,7 +79,7 @@ Approaches that supervise the model's explanations.
 
 - **Model Agnostic Multilevel Explanations**
   Karthikeyan Natesan Ramamurthy, Bhanukiran Vinzamuri, Yunfeng Zhang, Amit Dhurandhar; NeurIPS 2020 [paper](https://proceedings.neurips.cc/paper/2020/file/426f990b332ef8193a61cc90516c1245-Paper.pdf)
-  Notes: implicitly learns to generalize across multiple local explanations.
+  `Notes: implicitly learns to generalize across multiple local explanations.`
 
 - **Interpretations are useful: penalizing explanations to align neural networks with prior knowledge**
   Laura Rieger, Chandan Singh, William Murdoch, Bin Yu; ICML 2020 [paper](http://proceedings.mlr.press/v119/rieger20a/rieger20a.pdf) [code](https://github.com/laura-rieger/deep-explanation-penalization)
@@ -92,11 +92,11 @@ Approaches that supervise the model's explanations.
 
 - **Learning Interpretable Concept-based Models with Human Feedback**
   Isaac Lage, Finale Doshi-Velez; arXiv 2020 [paper](https://arxiv.org/pdf/2012.02898)
-  Note: incrementally acquires side-information about per-concept feature dependencies;  side-information is per-concept, not per-instance.
+  `Notes: incrementally acquires side-information about per-concept feature dependencies;  side-information is per-concept, not per-instance.`
 
 - **GLocalX-From Local to Global Explanations of Black Box AI Models**
   Mattia Setzu, Riccardo Guidotti, Anna Monreale, Franco Turini, Dino Pedreschi, and Fosca Giannotti; Artificial Intelligence 2021 [page](https://www.sciencedirect.com/science/article/pii/S0004370221000084) [code](https://github.com/msetzu/glocalx)
-  Note: converts a set of local explanations to a global explanation / white-box model.
+  `Notes: converts a set of local explanations to a global explanation / white-box model.`
 
 - **Debiasing Concept-based Explanations with Causal Analysis**
   Mohammad Taha Bahadori, and David E. Heckerman; ICLR 2021 [paper](https://openreview.net/pdf?id=6puUoArESGp)
@@ -137,18 +137,18 @@ Approaches that combine supervision on the explanations with interactive machine
 
 - **Explanatory Interactive Machine Learning**
   Stefano Teso, Kristian Kersting; AIES 2019 [paper](https://www.aiml.informatik.tu-darmstadt.de/papers/teso2019aies_XIML.pdf) [code](https://github.com/stefanoteso/caipi)
-  Note: introduces explanatory interactive learning, focuses on active learning setup.
+  `Notes: introduces explanatory interactive learning, focuses on active learning setup.`
 
 - **Taking a hint: Leveraging explanations to make vision and language models more grounded**
   Ramprasaath R. Selvaraju, Stefan Lee, Yilin Shen, Hongxia Jin, Shalini Ghosh, Larry Heck, Dhruv Batra, and Devi Parikh; ICCV 2019 [pdf](https://openaccess.thecvf.com/content_ICCV_2019/papers/Selvaraju_Taking_a_HINT_Leveraging_Explanations_to_Make_Vision_and_Language_ICCV_2019_paper.pdf)
 
 - **Toward Faithful Explanatory Active Learning with Self-explainable Neural Nets**
   Stefano Teso; IAL Workshop 2019. [paper](https://lirias.kuleuven.be/retrieve/578884) [code](https://github.com/stefanoteso/calimocho)
-  Note: explanatory active learning with self-explainable neural networks.
+  `Notes: explanatory active learning with self-explainable neural networks.`
 
 - **Making deep neural networks right for the right scientific reasons by interacting with their explanations**
   Patrick Schramowski, Wolfgang Stammer, Stefano Teso, Anna Brugger, Franziska Herbert, Xiaoting Shao, Hans-Georg Luigs, Anne-Katrin Mahlein, Kristian Kersting; Nature Machine Intelligence 2020 [paper](https://www.nature.com/articles/s42256-020-0212-3) [code](https://github.com/ml-research/XIL)
-  Note: introduces end-to-end explanatory interactive learning, fixes clever Hans deep neural nets.
+  `Notes: introduces end-to-end explanatory interactive learning, fixes clever Hans deep neural nets.`
 
 - **One explanation does not fit all**
   Kacper Sokol, Peter Flach; 2020 Künstliche Intelligenz [paper](https://link.springer.com/content/pdf/10.1007/s13218-020-00637-y.pdf)
@@ -158,19 +158,19 @@ Approaches that combine supervision on the explanations with interactive machine
 
 - **Human-driven FOL explanations of deep learning**
   Gabriele Ciravegna, Francesco Giannini, Marco Gori, Marco Maggini, Stefano Melacci; IJCAI 2020 [paper](https://www.ijcai.org/Proceedings/2020/0309.pdf)
-  Notes: first-order logic.
+  `Notes: first-order logic.`
 
 - **Cost-effective Interactive Attention Learning with Neural Attention Process**
   Jay Heo, Junhyeon Park, Hyewon Jeong, Kwang joon Kim, Juho Lee, Eunho Yang, Sung Ju Hwang; ICML 2020 [paper](https://arxiv.org/pdf/2006.05419.pdf) [code](https://github.com/jayheo/IAL)
-  Notes: attention, interaction
+  `Notes: attention, interaction`
 
 - **Machine Guides, Human Supervises: Interactive Learning with Global Explanations**
   Teodora Popordanoska, Mohit Kumar, Stefano Teso; arXiv 2020 [paper](https://arxiv.org/pdf/2009.09723.pdf) [code](https://github.com/tpopordanoska/explanatory-guided-learning)
-  Note: introduces narrative bias and explanatory guided learning, focuses on human-initiated interaction and global explanations.
+  `Notes: introduces narrative bias and explanatory guided learning, focuses on human-initiated interaction and global explanations.`
 
 - **Right for the Right Concept: Revising Neuro-Symbolic Concepts by Interacting with their Explanations**
   Wolfgang Stammer, Patrick Schramowski, and Kristian Kersting; CVPR 2021 [paper](https://arxiv.org/pdf/2011.12854) [code](https://github.com/ml-research/NeSyXIL)
-  Notes: first-order logic, attention.
+  `Notes: first-order logic, attention.`
 
 - **Right for Better Reasons: Training Differentiable Models by Constraining their Influence Function**
   Xiaoting Shao, Arseny Skryagin, Patrick Schramowski, Wolfgang Stammer, Kristian Kersting; AAAI 2021 [paper](https://www.aaai.org/AAAI21Papers/AAAI-5436.ShaoX.pdf)
@@ -183,7 +183,7 @@ Approaches that combine supervision on the explanations with interactive machine
 
 - **Bandits for Learning to Explain from Explanations**
   Freya Behrens, Stefano Teso, Davide Mottin; XAI Workshop 2021 [paper](https://arxiv.org/pdf/2102.03815) [code](https://github.com/stefanoteso/explearner-simpler)
-  Notes: preliminary.
+  `Notes: preliminary.`
 
 - **HILDIF: Interactive Debugging of NLI Models Using Influence Functions**
   Hugo Zylberajch, Piyawat Lertvittayakumjorn, Francesca Toni; InterNLP Workshop 2021 [paper](https://aclanthology.org/2021.internlp-1.1.pdf) [code](https://github.com/hugozylberajch/HILDIF)
@@ -233,7 +233,7 @@ Approaches that combine supervision on the explanations with interactive machine
 
 - **Evaluating Explanations: How much do explanations from the teacher aid students?**
   Danish Pruthi, Bhuwan Dhingra, Livio Baldini Soares, Michael Collins, Zachary C. Lipton, Graham Neubig, and William W. Cohen; arXiv 2020 [paper](https://arxiv.org/pdf/2012.00893)
-  Notes: defines importance of different kinds of explanations by measuring their impact when used as supervision.
+  `Notes: defines importance of different kinds of explanations by measuring their impact when used as supervision.`
 
 ----
 
@@ -280,7 +280,7 @@ Approaches that regularize the model's explanations in an unsupervised manner, o
 
 - **Teaching Categories to Human Learners with Visual Explanations**
   Oisin Mac Aodha, Shihan Su, Yuxin Chen, Pietro Perona, Yisong Yue; CVPR 2018 [paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Aodha_Teaching_Categories_to_CVPR_2018_paper.pdf)
-  Note: this is *inverse* teaching, i.e., machine teaches human.
+  `Notes: this is *inverse* teaching, i.e., machine teaches human.`
 
 ----
 
@@ -288,7 +288,7 @@ Approaches that regularize the model's explanations in an unsupervised manner, o
 
 - **Improving a neural network model by explanation-guided training for glioma classification based on MRI data**
   Frantisek Sefcik, Wanda Benesova; arXiv 2021 [paper](https://arxiv.org/pdf/2107.02008)
-  Notes: based on layer-wise relevance propagation.
+  `Notes: based on layer-wise relevance propagation.`
 
 ---
 
@@ -314,7 +314,7 @@ Injecting invariances / feature constraints into models:
 
 - **Tangent Prop - A formalism for specifying selected invariances in an adaptive network**
   Patrice Simard, Bernard Victorri, Yann Le Cun, John Denker; NeurIPS 1992 [paper](https://papers.nips.cc/paper/536-tangent-prop-a-formalism-for-specifying-selected-invariances-in-an-adaptive-network.pdf)
-  Notes: injects invariances into a neural net by regularizing its gradient; precursor to learning from gradient-based explanations.
+  `Notes: injects invariances into a neural net by regularizing its gradient; precursor to learning from gradient-based explanations.`
 
 - **Training invariant support vector machines**
   Dennis DeCoste, Bernhard Schölkopf; MLJ 2002 [paper](https://link.springer.com/content/pdf/10.1023/A:1012454411458.pdf)
