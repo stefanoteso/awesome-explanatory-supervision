@@ -202,6 +202,9 @@ Approaches that combine supervision on the explanations with interactive machine
 - **Finding and Fixing Spurious Patterns with Explanations**
   Gregory Plumb, Marco Tulio Ribeiro, Ameet Talwalkar; arXiv 2021 [paper](https://arxiv.org/pdf/2106.02112)
 
+- **Interaction with Explanations in the XAINES Project**
+  Mareike Hartmann, Ivana Kruijff-Korbayová, Daniel Sonntag; 2021 [paper](https://dataninja.nrw/wp-content/uploads/2021/09/7_Hartmann_XAINES_Abstract.pdf)
+
 ----
 
 
