@@ -256,14 +256,14 @@ Approaches that regularize the model's explanations in an unsupervised manner, o
 - **Don't Judge an Object by Its Context: Learning to Overcome Contextual Bias**
   Krishna Kumar Singh, Dhruv Mahajan, Kristen Grauman, Yong Jae Lee, Matt Feiszli, Deepti Ghadiyaram; CVPR 2020 [paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Singh_Dont_Judge_an_Object_by_Its_Context_Learning_to_Overcome_CVPR_2020_paper.pdf) [code](https://github.com/princetonvisualai/ContextualBias)
 
+- **Trustworthy convolutional neural networks: A gradient penalized-based approach**
+  Nicholas Halliwell, Freddy Lecue; arXiv 2020 [paper](https://arxiv.org/pdf/2009.14260)
+
 - **Explainable Models with Consistent Interpretations**
   Vipin Pillai, Hamed Pirsiavash; AAAI 2021 [paper](https://www.csee.umbc.edu/~hpirsiav/papers/gc_aaai21.pdf) [code](https://github.com/UMBCvision/Explainable-Models-with-Consistent-Interpretations)
 
 - **Explanation Consistency Training: Facilitating Consistency-based Semi-supervised Learning with Interpretability**
   Tao Han, Wei-Wei Tu, Yu-Feng Li; AAAI 2021 [paper](https://www.aaai.org/AAAI21Papers/AAAI-7186.HanT.pdf)
-
-- **Trustworthy convolutional neural networks: A gradient penalized-based approach**
-  Nicholas Halliwell, Freddy Lecue; arXiv 2020 [paper](https://arxiv.org/pdf/2009.14260)
 
 
 ----
