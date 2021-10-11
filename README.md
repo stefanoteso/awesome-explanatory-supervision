@@ -343,6 +343,12 @@ Dual label-feature feedback:
 - **Closing the loop: Fast, interactive semi-supervised annotation with queries on features and instances**
   Burr Settles; EMNLP 2011 [paper](https://www.aclweb.org/anthology/D11-1136.pdf)
 
+- **Learning from discriminative feature feedback**
+  Sanjoy Dasgupta, Akansha Dey, Nicholas Roberts, Sivan Sabato; NeurIPS 2018 [paper](http://papers.neurips.cc/paper/7651-learning-from-discriminative-feature-feedback.pdf)
+
+- **Robust Learning from Discriminative Feature Feedback**
+  Sanjoy Dasgupta, Sivan Sabato; AISTATS 2020 [paper](http://proceedings.mlr.press/v108/dasgupta20a/dasgupta20a-supp.pdf)
+
 
 Learning from rationales:
 
