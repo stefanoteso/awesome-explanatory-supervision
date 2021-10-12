@@ -395,6 +395,9 @@ A selection of general resources on Explainable AI focusing on overviews, survey
 - **A survey of methods for explaining black box models**
   Riccardo Guidotti, Anna Monreale, Salvatore Ruggieri, Franco Turini, Fosca Giannotti, and Dino Pedreschi; ACM Computing Surveys 2018 [paper](https://dl.acm.org/doi/pdf/10.1145/3236009)
 
+- **Sanity checks for saliency maps**
+  Julius Adebayo, Justin Gilmer, Michael Muelly, Ian Goodfellow, Moritz Hardt, Been Kim; NeurIPS 2018 [paper](http://papers.neurips.cc/paper/8160-sanity-checks-for-saliency-maps.pdf) [code](https://github.com/adebayoj/sanity_checks_saliency)
+
 - **Explanation in Artificial Intelligence: Insights from the Social Sciences**
   Tim Miller; Artificial Intelligence, 2019 [paper](https://www.sciencedirect.com/science/article/abs/pii/S0004370218305988)
 
