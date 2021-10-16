@@ -92,7 +92,7 @@ Approaches that supervise the model's explanations.
 
 - **Learning Interpretable Concept-based Models with Human Feedback**
   Isaac Lage, Finale Doshi-Velez; arXiv 2020 [paper](https://arxiv.org/pdf/2012.02898)
-  `Notes: incrementally acquires side-information about per-concept feature dependencies;  side-information is per-concept, not per-instance.`
+  `Notes: incrementally acquires side-information about per-concept feature dependencies; side-information is per-concept, not per-instance.`
 
 - **GLocalX-From Local to Global Explanations of Black Box AI Models**
   Mattia Setzu, Riccardo Guidotti, Anna Monreale, Franco Turini, Dino Pedreschi, and Fosca Giannotti; Artificial Intelligence 2021 [page](https://www.sciencedirect.com/science/article/pii/S0004370221000084) [code](https://github.com/msetzu/glocalx)
@@ -128,8 +128,8 @@ Approaches that supervise the model's explanations.
 - **Influence Tuning: Demoting Spurious Correlations via Instance Attribution and Instance-Driven Updates**
   Xiaochuang Han, Yulia Tsvetkov; arXiv 2021 [paper](https://arxiv.org/pdf/2110.03212.pdf) [code](https://github.com/xhan77/influence-tuning)
 
-
 ----
+
 
 ### [Interactive Learning](#content)
 
@@ -168,7 +168,7 @@ Approaches that combine supervision on the explanations with interactive machine
   `Notes: attention, interaction`
 
 - **Soliciting human-in-the-loop user feedback for interactive machine learning reduces user trust and impressions of model accuracy**
-  Donald Honeycutt, Mahsan Nourani, Eric Ragan;  AAAI Conference on Human Computation and Crowdsourcing 2020 [paper](https://ojs.aaai.org/index.php/HCOMP/article/download/7464/7291/)
+  Donald Honeycutt, Mahsan Nourani, Eric Ragan; AAAI Conference on Human Computation and Crowdsourcing 2020 [paper](https://ojs.aaai.org/index.php/HCOMP/article/download/7464/7291/)
 
 - **Machine Guides, Human Supervises: Interactive Learning with Global Explanations**
   Teodora Popordanoska, Mohit Kumar, Stefano Teso; arXiv 2020 [paper](https://arxiv.org/pdf/2009.09723.pdf) [code](https://github.com/tpopordanoska/explanatory-guided-learning)
@@ -185,7 +185,7 @@ Approaches that combine supervision on the explanations with interactive machine
   Elizabeth Daly, Massimiliano Mattetti, Öznur Alkan, Rahul Nair; AAAI 2021 [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16737/16544)
 
 - **Explainable Active Learning (XAL): Toward AI Explanations as Interfaces for Machine Teachers**
-  Bhavya Ghai, Vera Liao, Yunfeng Zhang, Rachel Bellamy, Klaus Mueller.  Proc. ACM Hum.-Comput. Interact. 2021 [paper](https://www3.cs.stonybrook.edu/~mueller/papers/CSCW%20XAL%202020.pdf)
+  Bhavya Ghai, Vera Liao, Yunfeng Zhang, Rachel Bellamy, Klaus Mueller. Proc. ACM Hum.-Comput. Interact. 2021 [paper](https://www3.cs.stonybrook.edu/~mueller/papers/CSCW%20XAL%202020.pdf)
 
 - **Bandits for Learning to Explain from Explanations**
   Freya Behrens, Stefano Teso, Davide Mottin; XAI Workshop 2021 [paper](https://arxiv.org/pdf/2102.03815) [code](https://github.com/stefanoteso/explearner-simpler)
@@ -249,7 +249,7 @@ Approaches that combine supervision on the explanations with interactive machine
 Approaches that regularize the model's explanations in an unsupervised manner, often for improved interpretability.
 
 - **Improving the adversarial robustness and interpretability of deep neural networks by regularizing their input gradients**
-  Andrew Ross and Finale Doshi-Velez.  AAAI 2018 [paper](https://ojs.aaai.org/index.php/AAAI/article/view/11504/11363)
+  Andrew Ross and Finale Doshi-Velez. AAAI 2018 [paper](https://ojs.aaai.org/index.php/AAAI/article/view/11504/11363)
 
 - **Towards robust interpretability with self-explaining neural networks**
   David Alvarez-Melis, Tommi Jaakkola; NeurIPS 2018 [paper](https://proceedings.neurips.cc/paper/2018/file/3e9f0fc9b2f89e043bc6233994dfcf76-Paper.pdf)
@@ -440,14 +440,14 @@ A selection of general resources on Explainable AI focusing on overviews, survey
 - **The Principles and Limits of Algorithm-in-the-loop Decision Making**
   Ben Green, Yiling Chen; PACM HCI 2019 [paper](https://dl.acm.org/doi/pdf/10.1145/3359152)
 
-- **Shortcut learning in deep neural networks.**
+- **Shortcut learning in deep neural networks**
   Robert Geirhos, Jorn-Henrik Jacobsen, Claudio Michaelis, Richard Zemel, Wieland Brendel, Matthias Bethge, Felix Wichmann; Nature Machine Intelligence 2020 [page](https://www.nature.com/articles/s42256-020-00257-z)
 
 - **When Explanations Lie: Why Many Modified BP Attributions Fail**
-  Leon Sixt, Maximilian Granz, Tim Landgraf.  ICML 2020 [paper](http://proceedings.mlr.press/v119/sixt20a/sixt20a.pdf)
+  Leon Sixt, Maximilian Granz, Tim Landgraf. ICML 2020 [paper](http://proceedings.mlr.press/v119/sixt20a/sixt20a.pdf)
 
 - **The elephant in the interpretability room: Why use attention as explanation when we have saliency methods?**
-  Jasmijn Bastings, Katja Filippova;  Third BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP 2020 [paper](https://aclanthology.org/2020.blackboxnlp-1.14.pdf)
+  Jasmijn Bastings, Katja Filippova; Third BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP 2020 [paper](https://aclanthology.org/2020.blackboxnlp-1.14.pdf)
 
 - **How Well do Feature Visualizations Support Causal Understanding of CNN Activations?**
   Roland Zimmermann,Judy Borowski, Robert Geirhos, Matthias Bethge, Thomas Wallis, Wieland Brendel; arXiv 2021 [paper](https://arxiv.org/pdf/2106.12447)
