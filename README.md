@@ -123,7 +123,10 @@ Approaches that supervise the model's explanations.
   Alina Barnett, Fides Schwartz, Chaofan Tao, Chaofan Chen, Yinhao Ren, Joseph Lo, Cynthia Rudin; arXiv 2021 [paper](https://arxiv.org/pdf/2103.12308)
 
 - **Enjoy the Salience: Towards Better Transformer-based Faithful Explanations with Word Salience**
-  George Chrysostomou, Nikolaos Aletras;  arXiv 2021 [paper](https://arxiv.org/pdf/2108.13759) [code](https://github.com/GChrysostomou/saloss)
+  George Chrysostomou, Nikolaos Aletras; arXiv 2021 [paper](https://arxiv.org/pdf/2108.13759) [code](https://github.com/GChrysostomou/saloss)
+
+- **Influence Tuning: Demoting Spurious Correlations via Instance Attribution and Instance-Driven Updates**
+  Xiaochuang Han, Yulia Tsvetkov; arXiv 2021 [paper](https://arxiv.org/pdf/2110.03212.pdf) [code](https://github.com/xhan77/influence-tuning)
 
 
 ----
@@ -442,6 +445,9 @@ A selection of general resources on Explainable AI focusing on overviews, survey
 
 - **When Explanations Lie: Why Many Modified BP Attributions Fail**
   Leon Sixt, Maximilian Granz, Tim Landgraf.  ICML 2020 [paper](http://proceedings.mlr.press/v119/sixt20a/sixt20a.pdf)
+
+- **The elephant in the interpretability room: Why use attention as explanation when we have saliency methods?**
+  Jasmijn Bastings, Katja Filippova;  Third BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP 2020 [paper](https://aclanthology.org/2020.blackboxnlp-1.14.pdf)
 
 - **How Well do Feature Visualizations Support Causal Understanding of CNN Activations?**
   Roland Zimmermann,Judy Borowski, Robert Geirhos, Matthias Bethge, Thomas Wallis, Wieland Brendel; arXiv 2021 [paper](https://arxiv.org/pdf/2106.12447)
