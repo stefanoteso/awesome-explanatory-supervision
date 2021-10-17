@@ -153,6 +153,9 @@ Approaches that combine supervision on the explanations with interactive machine
   Patrick Schramowski, Wolfgang Stammer, Stefano Teso, Anna Brugger, Franziska Herbert, Xiaoting Shao, Hans-Georg Luigs, Anne-Katrin Mahlein, Kristian Kersting; Nature Machine Intelligence 2020 [paper](https://www.nature.com/articles/s42256-020-0212-3) [code](https://github.com/ml-research/XIL)
   `Notes: introduces end-to-end explanatory interactive learning, fixes clever Hans deep neural nets.`
 
+- **Embedding Human Knowledge into Deep Neural Network via Attention Map**
+  Masahiro Mitsuhara, Hiroshi Fukui, Yusuke Sakashita, Takanori Ogata, Tsubasa Hirakawa, Takayoshi Yamashita, Hironobu Fujiyoshi; arXiv 2019 [paper](https://arxiv.org/pdf/1905.03540.pdf)
+
 - **One explanation does not fit all**
   Kacper Sokol, Peter Flach; 2020 Künstliche Intelligenz [paper](https://link.springer.com/content/pdf/10.1007/s13218-020-00637-y.pdf)
 
