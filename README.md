@@ -458,6 +458,9 @@ A selection of general resources on Explainable AI focusing on overviews, survey
 - **The elephant in the interpretability room: Why use attention as explanation when we have saliency methods?**
   Jasmijn Bastings, Katja Filippova; Third BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP 2020 [paper](https://aclanthology.org/2020.blackboxnlp-1.14.pdf)
 
+- **Why Attention is Not Explanation: Surgical Intervention and Causal Reasoning about Neural Models**
+  Christopher Grimsley, Elijah Mayfield, Julia Bursten;  Language Resources and Evaluation Conference 2020 [paper](https://aclanthology.org/2020.lrec-1.220.pdf)
+
 - **How Well do Feature Visualizations Support Causal Understanding of CNN Activations?**
   Roland Zimmermann,Judy Borowski, Robert Geirhos, Matthias Bethge, Thomas Wallis, Wieland Brendel; arXiv 2021 [paper](https://arxiv.org/pdf/2106.12447)
 
