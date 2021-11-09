@@ -110,16 +110,16 @@ Approaches that supervise the model's explanations.
 - **Towards Robust Classification Model by Counterfactual and Invariant Data Generation**
   Chun-Hao Chang, George Alexandru Adam, Anna Goldenberg; CVPR 2021 [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Chang_Towards_Robust_Classification_Model_by_Counterfactual_and_Invariant_Data_Generation_CVPR_2021_paper.pdf) [code](https://github.com/zzzace2000/robust_cls_model)
 
+- **Explain and Predict, and then Predict Again**
+  Zijian Zhang, Koustav Rudra, Avishek Anand; WSDM 2021 [paper](https://arxiv.org/pdf/2101.04109) [code](https://github.com/JoshuaGhost/expred)
+
 - **Explanation-Based Human Debugging of NLP Models: A Survey**
   Piyawat Lertvittayakumjorn, Francesca Toni; arXiv 2021 [paper](https://arxiv.org/pdf/2104.15135)
 
 - **When Can Models Learn From Explanations? A Formal Framework for Understanding the Roles of Explanation Data**
   Peter Hase, Mohit Bansal; arXiv 2021 [paper](https://arxiv.org/pdf/2102.02201.pdf) [code](https://github.com/peterbhase/ExplanationRoles)
 
-- **Explain and Predict, and then Predict Again**
-  Zijian Zhang, Koustav Rudra, Avishek Anand; arXiv 2021 [paper](https://arxiv.org/pdf/2101.04109) [code](https://github.com/JoshuaGhost/expred)
-
-- **IAIA-BL: A Case-based Interpretable Deep Learning Model for Classification of Mass Lesions in Digital Mammography.**
+- **IAIA-BL: A Case-based Interpretable Deep Learning Model for Classification of Mass Lesions in Digital Mammography**
   Alina Barnett, Fides Schwartz, Chaofan Tao, Chaofan Chen, Yinhao Ren, Joseph Lo, Cynthia Rudin; arXiv 2021 [paper](https://arxiv.org/pdf/2103.12308)
 
 - **Enjoy the Salience: Towards Better Transformer-based Faithful Explanations with Word Salience**
