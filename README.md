@@ -183,6 +183,9 @@ Approaches that combine supervision on the explanations with interactive machine
 - **Learning The Difference That Makes A Difference With Counterfactually-Augmented Data**
   Divyansh Kaushik, Eduard Hovy, Zachary Lipton; ICLR 2019 [paper](https://openreview.net/pdf?id=Sklgs0NFvr) [code](https://github.com/dkaushik96/counterfactually-augmented-data)
 
+- **ALICE: Active Learning with Contrastive Natural Language Explanations**
+  Weixin Liang, James Zou, Zhou Yu; EMNLP 2020 [paper](https://www.aclweb.org/anthology/2020.emnlp-main.355.pdf)
+
 - **Machine Guides, Human Supervises: Interactive Learning with Global Explanations**
   Teodora Popordanoska, Mohit Kumar, Stefano Teso; arXiv 2020 [paper](https://arxiv.org/pdf/2009.09723.pdf) [code](https://github.com/tpopordanoska/explanatory-guided-learning)
   `Notes: introduces narrative bias and explanatory guided learning, focuses on human-initiated interaction and global explanations.`
