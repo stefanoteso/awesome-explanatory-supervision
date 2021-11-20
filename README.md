@@ -84,6 +84,10 @@ Approaches that supervise the model's explanations.
 - **Interpretations are useful: penalizing explanations to align neural networks with prior knowledge**
   Laura Rieger, Chandan Singh, William Murdoch, Bin Yu; ICML 2020 [paper](http://proceedings.mlr.press/v119/rieger20a/rieger20a.pdf) [code](https://github.com/laura-rieger/deep-explanation-penalization)
 
+- **Remembering for the Right Reasons: Explanations Reduce Catastrophic Forgetting**
+  Sayna Ebrahimi, Suzanne Petryk, Akash Gokul, William Gan, Joseph Gonzalez, Marcus Rohrbach; ICLR 2020 [paper](https://openreview.net/pdf?id=tHgJoMfy6nI) [code](https://github.com/SaynaEbrahimi/Remembering-for-the-Right-Reasons)
+  `Notes: uses saliency guided replay for continual learning.`
+
 - **Learning to Faithfully Rationalize by Construction**
   Sarthak Jain, Sarah Wiegreffe, Yuval Pinter, Byron Wallace. ACL 2020 [paper](https://www.aclweb.org/anthology/2020.acl-main.409.pdf) [code](https://github.com/successar/FRESH)
 
