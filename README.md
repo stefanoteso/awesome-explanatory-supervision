@@ -298,6 +298,10 @@ Approaches that regularize the model's explanations in an unsupervised manner, o
 - **Explanation Consistency Training: Facilitating Consistency-based Semi-supervised Learning with Interpretability**
   Tao Han, Wei-Wei Tu, Yu-Feng Li; AAAI 2021 [paper](https://www.aaai.org/AAAI21Papers/AAAI-7186.HanT.pdf)
 
+- **Improving Deep Learning Interpretability by Saliency Guided Training**
+  Aya Abdelsalam Ismail, Hector Corrada Bravo, Soheil Feizi; NeurIPS 2021 [paper](https://proceedings.neurips.cc//paper/2021/file/e0cd3f16f9e883ca91c2a4c24f47b3d9-Paper.pdf) [code](https://github.com/ayaabdelsalam91/saliency_guided_training)
+
+
 
 ----
 
