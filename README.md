@@ -71,9 +71,6 @@ Approaches that supervise the model's explanations.
 - **GradMask: Reduce Overfitting by Regularizing Saliency**
   Becks Simpson, Francis Dutil, Yoshua Bengio, Joseph Paul Cohen; International Conference on Medical Imaging with Deep Learning, 2019. [paper](https://openreview.net/pdf?id=Syx2z2aMqE)
 
-- **Improving performance of deep learning models with axiomatic attribution priors and expected gradients**
-  Gabriel Erion, Joseph D. Janizek, Pascal Sturmfels, Scott Lundberg, Su-In Lee; arXiv 2019 [paper](https://arxiv.org/pdf/1906.10670) [code](github.com/suinleelab/attributionpriors)
-
 - **Learning Global Transparent Models Consistent with Local Contrastive Explanations**
   Tejaswini Pedapati, Avinash Balakrishnan, Karthikeyan Shanmugam, Amit Dhurandhar; NeurIPS 2020 [paper](https://proceedings.neurips.cc/paper/2020/file/24aef8cb3281a2422a59b51659f1ad2e-Paper.pdf)
 
@@ -97,6 +94,9 @@ Approaches that supervise the model's explanations.
 - **Learning Interpretable Concept-based Models with Human Feedback**
   Isaac Lage, Finale Doshi-Velez; arXiv 2020 [paper](https://arxiv.org/pdf/2012.02898)
   `Notes: incrementally acquires side-information about per-concept feature dependencies; side-information is per-concept, not per-instance.`
+
+- **Improving performance of deep learning models with axiomatic attribution priors and expected gradients**
+  Gabriel Erion, Joseph D. Janizek, Pascal Sturmfels, Scott Lundberg, Su-In Lee; Nature Machine Intelligence 2019 [paper](https://www.nature.com/articles/s42256-021-00343-w) [preprint](https://arxiv.org/pdf/1906.10670) [code](github.com/suinleelab/attributionpriors)
 
 - **GLocalX-From Local to Global Explanations of Black Box AI Models**
   Mattia Setzu, Riccardo Guidotti, Anna Monreale, Franco Turini, Dino Pedreschi, and Fosca Giannotti; Artificial Intelligence 2021 [page](https://www.sciencedirect.com/science/article/pii/S0004370221000084) [code](https://github.com/msetzu/glocalx)
