@@ -139,6 +139,9 @@ Approaches that supervise the model's explanations.
   Gobinda Saha, Kaushik Roy; arXiv 2021 [paper](https://arxiv.org/pdf/2109.04954)
   `Notes: leverages saliency for experience replay in continual learning.`
 
+- **What to Learn, and How: Toward Effective Learning from Rationales**
+  Samuel Carton, Surya Kanoria, Chenhao Tan; arXiv 2021 [paper](https://arxiv.org/pdf/2112.00071)
+
 ----
 
 
