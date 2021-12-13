@@ -304,6 +304,8 @@ Approaches that regularize the model's explanations in an unsupervised manner, o
 - **Improving Deep Learning Interpretability by Saliency Guided Training**
   Aya Abdelsalam Ismail, Hector Corrada Bravo, Soheil Feizi; NeurIPS 2021 [paper](https://proceedings.neurips.cc//paper/2021/file/e0cd3f16f9e883ca91c2a4c24f47b3d9-Paper.pdf) [code](https://github.com/ayaabdelsalam91/saliency_guided_training)
 
+- **Generating Deep Networks Explanations with Robust Attribution Alignment**
+  Guohang Zeng, Yousef Kowsar, Sarah Erfani, James Bailey; ACML 2021 [paper](https://proceedings.mlr.press/v157/zeng21b/zeng21b.pdf)
 
 
 ----
