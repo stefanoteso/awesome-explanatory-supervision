@@ -43,6 +43,9 @@ Approaches that supervise the model's explanations.
 - **e-SNLI: natural language inference with natural language explanations**
   Oana-Maria Camburu, Tim Rocktäschel, Thomas Lukasiewicz, and Phil Blunsom; NeurIPS 2018 [paper](https://papers.nips.cc/paper/2018/file/4c7a167bb329bd92580a99ce422d6fa6-Paper.pdf) [code](https://github.com/OanaMariaCamburu/e-SNLI)
 
+- **Tell me where to look: Guided attention inference network**
+  Kunpeng Li, Ziyan Wu, Kuan-Chuan Peng, Jan Ernst, Yun Fu; CVPR 2018 [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Tell_Me_Where_CVPR_2018_paper.pdf)
+
 - **Learning credible models**
   Jiaxuan Wang, Jeeheh Oh, Haozhu Wang, and Jenna Wiens; KDD 2018 [paper](https://dl.acm.org/doi/pdf/10.1145/3219819.3220070) [code](https://github.com/nathanwang000/credible_learning)
 
