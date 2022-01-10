@@ -53,6 +53,9 @@ Approaches that supervise the model's explanations.
   Rakshith Shetty, Bernt Schiele, Mario Fritz; CVPR 2019 [paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Shetty_Not_Using_the_Car_to_See_the_Sidewalk_--_Quantifying_CVPR_2019_paper.pdf)
   `Notes: not exactly about explanations, learns from ground-truth object annotations.`
 
+- **Taking a HINT: Leveraging Explanations to Make Vision and Language Models More Grounded**
+  Ramprasaath R. Selvaraju, Stefan Lee, Yilin Shen, Hongxia Jin, Shalini Ghosh, Larry Heck, Dhruv Batra, and Devi Parikh; ICCV 2019 [pdf](https://openaccess.thecvf.com/content_ICCV_2019/papers/Selvaraju_Taking_a_HINT_Leveraging_Explanations_to_Make_Vision_and_Language_ICCV_2019_paper.pdf)
+
 - **Learning credible deep neural networks with rationale regularization**
   Mengnan Du, Ninghao Liu, Fan Yang, Xia Hu; ICDM 2019 [paper](https://arxiv.org/pdf/1908.05601)
 
@@ -158,9 +161,6 @@ Approaches that combine supervision on the explanations with interactive machine
 - **Explanatory Interactive Machine Learning**
   Stefano Teso, Kristian Kersting; AIES 2019 [paper](https://www.aiml.informatik.tu-darmstadt.de/papers/teso2019aies_XIML.pdf) [code](https://github.com/stefanoteso/caipi)
   `Notes: introduces explanatory interactive learning, focuses on active learning setup.`
-
-- **Taking a hint: Leveraging explanations to make vision and language models more grounded**
-  Ramprasaath R. Selvaraju, Stefan Lee, Yilin Shen, Hongxia Jin, Shalini Ghosh, Larry Heck, Dhruv Batra, and Devi Parikh; ICCV 2019 [pdf](https://openaccess.thecvf.com/content_ICCV_2019/papers/Selvaraju_Taking_a_HINT_Leveraging_Explanations_to_Make_Vision_and_Language_ICCV_2019_paper.pdf)
 
 - **Toward Faithful Explanatory Active Learning with Self-explainable Neural Nets**
   Stefano Teso; IAL Workshop 2019. [paper](https://lirias.kuleuven.be/retrieve/578884) [code](https://github.com/stefanoteso/calimocho)
