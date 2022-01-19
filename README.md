@@ -230,10 +230,10 @@ Approaches that combine supervision on the explanations with interactive machine
   Stefano Teso, Andrea Bontempelli, Fausto Giunchiglia, Andrea Passerini; NeurIPS 2021 [paper](https://arxiv.org/pdf/2106.03922) [code](https://github.com/abonte/cincer)
 
 - **Symbols as a Lingua Franca for Bridging Human-AI Chasm for Explainable and Advisable AI Systems**
-  Subbarao Kambhampati, Sarath Sreedharan, Mudit Verma, Yantian Zha, Lin Guan; arXiv 2021 [paper](https://arxiv.org/pdf/2109.09904)
+  Subbarao Kambhampati, Sarath Sreedharan, Mudit Verma, Yantian Zha, Lin Guan; AAAI 2022 [paper](https://arxiv.org/pdf/2109.09904)
 
 - **Toward a Unified Framework for Debugging Gray-box Models**
-  Andrea Bontempelli, Fausto Giunchiglia, Andrea Passerini, Stefano Teso; arXiv 2021 [paper](https://arxiv.org/pdf/2109.11160)
+  Andrea Bontempelli, Fausto Giunchiglia, Andrea Passerini, Stefano Teso; AAAI-22 Workshop on Interactive Machine Learning [paper](https://arxiv.org/pdf/2109.11160)
 
 - **Finding and Fixing Spurious Patterns with Explanations**
   Gregory Plumb, Marco Tulio Ribeiro, Ameet Talwalkar; arXiv 2021 [paper](https://arxiv.org/pdf/2106.02112)
