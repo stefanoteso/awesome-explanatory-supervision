@@ -148,6 +148,9 @@ Approaches that supervise the model's explanations.
 - **What to Learn, and How: Toward Effective Learning from Rationales**
   Samuel Carton, Surya Kanoria, Chenhao Tan; arXiv 2021 [paper](https://arxiv.org/pdf/2112.00071)
 
+- **Supervising Model Attention with Human Explanations for Robust Natural Language Inference**
+  Joe Stacey, Yonatan Belinkov, Marek Rei; AAAI 2022 [paper](https://arxiv.org/pdf/2104.08142.pdf) [code](https://github.com/joestacey/NLI_with_a_human_touch)
+
 ----
 
 
@@ -250,7 +253,7 @@ Approaches that combine supervision on the explanations with interactive machine
 ### [Reinforcement Learning](#content)
 
 - **Explanation Augmented Feedback in Human-in-the-Loop Reinforcement Learning**
-  Lin Guan, Mudit Verma, Sihang Guo, Ruohan Zhang, Subbarao Kambhampati; arXiv 2020 [paper](https://arxiv.org/pdf/2006.14804)
+  Lin Guan, Mudit Verma, Sihang Guo, Ruohan Zhang, Subbarao Kambhampati; Human And Machine in-the-Loop Evaluation and Learning Strategies [paper](https://arxiv.org/pdf/2006.14804)
 
 - **Learning from explanations and demonstrations: A pilot study**
   Silvia Tulli, Sebastian Wallkötter, Ana Paiva, Francisco Melo, Mohamed Chetouani; Workshop on Interactive Natural Language Technology for Explainable Artificial Intelligence 2020 [paper](https://aclanthology.org/2020.nl4xai-1.13.pdf)
