@@ -393,6 +393,9 @@ Dual label-feature feedback:
 - **Robust Learning from Discriminative Feature Feedback**
   Sanjoy Dasgupta, Sivan Sabato; AISTATS 2020 [paper](http://proceedings.mlr.press/v108/dasgupta20a/dasgupta20a-supp.pdf)
 
+- **Practical Benefits of Feature Feedback Under Distribution Shift**
+  Anurag Katakkar, Weiqin Wang, Clay Yoo, Zachary Lipton, Divyansh Kaushik; arXiv 2021 [paper](https://arxiv.org/pdf/2110.07566)
+
 
 Learning from rationales:
 
