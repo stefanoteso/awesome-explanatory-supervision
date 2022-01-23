@@ -493,6 +493,9 @@ A selection of general resources on Explainable AI focusing on overviews, survey
 - **Why Attention is Not Explanation: Surgical Intervention and Causal Reasoning about Neural Models**
   Christopher Grimsley, Elijah Mayfield, Julia Bursten;  Language Resources and Evaluation Conference 2020 [paper](https://aclanthology.org/2020.lrec-1.220.pdf)
 
+- **AI for radiographic COVID-19 detection selects shortcuts over signal**
+  Alex DeGrave, Joseph Janizek, Su-In Lee; Nature Machine Intelligence 2021 [paper](https://www.nature.com/articles/s42256-021-00338-7.pdf) [code](https://github.com/suinleelab/cxr_covid)
+
 - **How Well do Feature Visualizations Support Causal Understanding of CNN Activations?**
   Roland Zimmermann,Judy Borowski, Robert Geirhos, Matthias Bethge, Thomas Wallis, Wieland Brendel; arXiv 2021 [paper](https://arxiv.org/pdf/2106.12447)
 
