@@ -244,6 +244,9 @@ Approaches that combine supervision on the explanations with interactive machine
 - **An Investigation of the (In)effectiveness of Counterfactually-augmented Data**
   Nitish Joshi, He He; arXiv 2021 [paper](https://arxiv.org/pdf/2107.00753)
 
+- **Interactively Generating Explanations for Transformer Language Models**
+  Patrick Schramowski, Felix Friedrich, Christopher Tauchmann, Kristian Kersting; arXiv 2021 [paper](https://arxiv.org/pdf/2110.02058.pdf)
+
 - **Interaction with Explanations in the XAINES Project**
   Mareike Hartmann, Ivana Kruijff-Korbayová, Daniel Sonntag; 2021 [paper](https://dataninja.nrw/wp-content/uploads/2021/09/7_Hartmann_XAINES_Abstract.pdf)
 
