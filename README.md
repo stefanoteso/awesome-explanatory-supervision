@@ -138,9 +138,6 @@ Approaches that supervise the model's explanations.
 - **Influence Tuning: Demoting Spurious Correlations via Instance Attribution and Instance-Driven Updates**
   Xiaochuang Han, Yulia Tsvetkov; arXiv 2021 [paper](https://arxiv.org/pdf/2110.03212.pdf) [code](https://github.com/xhan77/influence-tuning)
 
-- **Natural Language Inference with a Human Touch: Using Human Explanations to Guide Model Attention**
-  Joe Stacey, Yonatan Belinkov, Marek Rei; arXiv 2021 [paper](https://arxiv.org/pdf/2104.08142.pdf)
-
 - **Saliency Guided Experience Packing for Replay in Continual Learning**
   Gobinda Saha, Kaushik Roy; arXiv 2021 [paper](https://arxiv.org/pdf/2109.04954)
   `Notes: leverages saliency for experience replay in continual learning.`
