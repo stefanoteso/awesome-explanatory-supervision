@@ -148,6 +148,9 @@ Approaches that supervise the model's explanations.
 - **Supervising Model Attention with Human Explanations for Robust Natural Language Inference**
   Joe Stacey, Yonatan Belinkov, Marek Rei; AAAI 2022 [paper](https://arxiv.org/pdf/2104.08142.pdf) [code](https://github.com/joestacey/NLI_with_a_human_touch)
 
+- **Toward Learning Human-aligned Cross-domain Robust Models by Countering Misaligned Features**
+  Haohan Wang, Zeyi Huang, Hanlin Zhang, Eric P. Xing; arXiV 2022 [paper](https://arxiv.org/pdf/2111.03740)
+
 ----
 
 
