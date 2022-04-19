@@ -241,6 +241,9 @@ Approaches that combine supervision on the explanations with interactive machine
 - **Interaction with Explanations in the XAINES Project**
   Mareike Hartmann, Ivana Kruijff-Korbayová, Daniel Sonntag; 2021 [paper](https://dataninja.nrw/wp-content/uploads/2021/09/7_Hartmann_XAINES_Abstract.pdf)
 
+- **A Typology to Explore and Guide Explanatory Interactive Machine Learning**
+  Felix Friedrich, Wolfgang Stammer, Patrick Schramowski, Kristian Kersting; 2022 [paper](https://arxiv.org/pdf/2203.03668)
+
 ----
 
 
