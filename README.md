@@ -16,6 +16,7 @@ Did we miss a relevant paper?  Please submit a new entry in the following format
 
 
 ### Table of Contents
+- [Online Resources](#online-resources)
 - [Passive Learning](#passive-learning)
 - [Interactive Learning](#interactive-learning)
 - [Reinforcement Learning](#reinforcement-learning)
@@ -25,6 +26,14 @@ Did we miss a relevant paper?  Please submit a new entry in the following format
 - [Applications](#applications)
 - [Related Works](#related-works)
 - [Resources](#resources)
+
+----
+
+
+### [Online Resources](#online-resources)
+
+- Tutorial on Explanations in Interactive Machine Learning at AAAI-22 [website](https://sites.google.com/view/aaai22-ximl-tutorial/home)
+  `Notes: includes recording`.
 
 ----
 
