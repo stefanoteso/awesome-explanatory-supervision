@@ -160,6 +160,9 @@ Approaches that supervise the model's explanations.
 - **Toward Learning Human-aligned Cross-domain Robust Models by Countering Misaligned Features**
   Haohan Wang, Zeyi Huang, Hanlin Zhang, Eric P. Xing; arXiV 2022 [paper](https://arxiv.org/pdf/2111.03740)
 
+- **A survey on improving NLP models with human explanations**
+  Mareike Hartmann, Daniel Sonntag; arXiV 2022 [paper](https://arxiv.org/pdf/2204.08892.pdf)
+
 ----
 
 
