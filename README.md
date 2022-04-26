@@ -158,10 +158,10 @@ Approaches that supervise the model's explanations.
   Joe Stacey, Yonatan Belinkov, Marek Rei; AAAI 2022 [paper](https://arxiv.org/pdf/2104.08142.pdf) [code](https://github.com/joestacey/NLI_with_a_human_touch)
 
 - **Toward Learning Human-aligned Cross-domain Robust Models by Countering Misaligned Features**
-  Haohan Wang, Zeyi Huang, Hanlin Zhang, Eric P. Xing; arXiV 2022 [paper](https://arxiv.org/pdf/2111.03740)
+  Haohan Wang, Zeyi Huang, Hanlin Zhang, Eric P. Xing; arXiv 2022 [paper](https://arxiv.org/pdf/2111.03740)
 
 - **A survey on improving NLP models with human explanations**
-  Mareike Hartmann, Daniel Sonntag; arXiV 2022 [paper](https://arxiv.org/pdf/2204.08892.pdf)
+  Mareike Hartmann, Daniel Sonntag; arXiv 2022 [paper](https://arxiv.org/pdf/2204.08892.pdf)
 
 ----
 
@@ -251,10 +251,10 @@ Approaches that combine supervision on the explanations with interactive machine
   Patrick Schramowski, Felix Friedrich, Christopher Tauchmann, Kristian Kersting; arXiv 2021 [paper](https://arxiv.org/pdf/2110.02058.pdf)
 
 - **Interaction with Explanations in the XAINES Project**
-  Mareike Hartmann, Ivana Kruijff-Korbayová, Daniel Sonntag; 2021 [paper](https://dataninja.nrw/wp-content/uploads/2021/09/7_Hartmann_XAINES_Abstract.pdf)
+  Mareike Hartmann, Ivana Kruijff-Korbayová, Daniel Sonntag; arXiv 2021 [paper](https://dataninja.nrw/wp-content/uploads/2021/09/7_Hartmann_XAINES_Abstract.pdf)
 
 - **A Typology to Explore and Guide Explanatory Interactive Machine Learning**
-  Felix Friedrich, Wolfgang Stammer, Patrick Schramowski, Kristian Kersting; 2022 [paper](https://arxiv.org/pdf/2203.03668)
+  Felix Friedrich, Wolfgang Stammer, Patrick Schramowski, Kristian Kersting; arXiv 2022 [paper](https://arxiv.org/pdf/2203.03668)
 
 ----
 
