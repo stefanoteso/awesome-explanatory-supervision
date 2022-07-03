@@ -151,6 +151,9 @@ Approaches that supervise the model's explanations.
   Gobinda Saha, Kaushik Roy; arXiv 2021 [paper](https://arxiv.org/pdf/2109.04954)
   `Notes: leverages saliency for experience replay in continual learning.`
 
+- **Global Explanations with Decision Rules: a Co-learning Approach**
+  Géraldin Nanfack, Paul Temple, Benoît Frénay1; UAI 2021 [paper](https://proceedings.mlr.press/v161/nanfack21a/nanfack21a.pdf) [code](https://github.com/gerald4/Co-learning_with_STruGMA)
+
 - **What to Learn, and How: Toward Effective Learning from Rationales**
   Samuel Carton, Surya Kanoria, Chenhao Tan; arXiv 2021 [paper](https://arxiv.org/pdf/2112.00071)
 
