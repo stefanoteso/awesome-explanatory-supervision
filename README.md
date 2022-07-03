@@ -117,6 +117,9 @@ Approaches that supervise the model's explanations.
   Mattia Setzu, Riccardo Guidotti, Anna Monreale, Franco Turini, Dino Pedreschi, and Fosca Giannotti; Artificial Intelligence 2021 [page](https://www.sciencedirect.com/science/article/pii/S0004370221000084) [code](https://github.com/msetzu/glocalx)
   `Notes: converts a set of local explanations to a global explanation / white-box model.`
 
+- **IAIA-BL: A Case-based Interpretable Deep Learning Model for Classification of Mass Lesions in Digital Mammography**
+  Alina Barnett, Fides Schwartz, Chaofan Tao, Chaofan Chen, Yinhao Ren, Joseph Lo, Cynthia Rudin; Nature Machine Intelligence 2021 [paper](https://arxiv.org/pdf/2103.12308) [code](https://github.com/alinajadebarnett/iaiabl)
+
 - **Debiasing Concept-based Explanations with Causal Analysis**
   Mohammad Taha Bahadori, and David E. Heckerman; ICLR 2021 [paper](https://openreview.net/pdf?id=6puUoArESGp)
 
@@ -129,6 +132,9 @@ Approaches that supervise the model's explanations.
 - **Towards Robust Classification Model by Counterfactual and Invariant Data Generation**
   Chun-Hao Chang, George Alexandru Adam, Anna Goldenberg; CVPR 2021 [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Chang_Towards_Robust_Classification_Model_by_Counterfactual_and_Invariant_Data_Generation_CVPR_2021_paper.pdf) [code](https://github.com/zzzace2000/robust_cls_model)
 
+- **Global Explanations with Decision Rules: a Co-learning Approach**
+  Géraldin Nanfack, Paul Temple, Benoît Frénay1; UAI 2021 [paper](https://proceedings.mlr.press/v161/nanfack21a/nanfack21a.pdf) [code](https://github.com/gerald4/Co-learning_with_STruGMA)
+
 - **Explain and Predict, and then Predict Again**
   Zijian Zhang, Koustav Rudra, Avishek Anand; WSDM 2021 [paper](https://arxiv.org/pdf/2101.04109) [code](https://github.com/JoshuaGhost/expred)
 
@@ -137,9 +143,6 @@ Approaches that supervise the model's explanations.
 
 - **When Can Models Learn From Explanations? A Formal Framework for Understanding the Roles of Explanation Data**
   Peter Hase, Mohit Bansal; arXiv 2021 [paper](https://arxiv.org/pdf/2102.02201.pdf) [code](https://github.com/peterbhase/ExplanationRoles)
-
-- **IAIA-BL: A Case-based Interpretable Deep Learning Model for Classification of Mass Lesions in Digital Mammography**
-  Alina Barnett, Fides Schwartz, Chaofan Tao, Chaofan Chen, Yinhao Ren, Joseph Lo, Cynthia Rudin; Nature Machine Intelligence 2021 [paper](https://arxiv.org/pdf/2103.12308) [code](https://github.com/alinajadebarnett/iaiabl)
 
 - **Enjoy the Salience: Towards Better Transformer-based Faithful Explanations with Word Salience**
   George Chrysostomou, Nikolaos Aletras; arXiv 2021 [paper](https://arxiv.org/pdf/2108.13759) [code](https://github.com/GChrysostomou/saloss)
@@ -150,9 +153,6 @@ Approaches that supervise the model's explanations.
 - **Saliency Guided Experience Packing for Replay in Continual Learning**
   Gobinda Saha, Kaushik Roy; arXiv 2021 [paper](https://arxiv.org/pdf/2109.04954)
   `Notes: leverages saliency for experience replay in continual learning.`
-
-- **Global Explanations with Decision Rules: a Co-learning Approach**
-  Géraldin Nanfack, Paul Temple, Benoît Frénay1; UAI 2021 [paper](https://proceedings.mlr.press/v161/nanfack21a/nanfack21a.pdf) [code](https://github.com/gerald4/Co-learning_with_STruGMA)
 
 - **What to Learn, and How: Toward Effective Learning from Rationales**
   Samuel Carton, Surya Kanoria, Chenhao Tan; arXiv 2021 [paper](https://arxiv.org/pdf/2112.00071)
@@ -249,6 +249,9 @@ Approaches that combine supervision on the explanations with interactive machine
 
 - **Toward a Unified Framework for Debugging Gray-box Models**
   Andrea Bontempelli, Fausto Giunchiglia, Andrea Passerini, Stefano Teso; AAAI-22 Workshop on Interactive Machine Learning [paper](https://arxiv.org/pdf/2109.11160)
+
+- **Active Learning by Acquiring Contrastive Examples**
+  Katerina Margatina, Giorgos Vernikos, Loïc Barrault, Nikolaos Aletras; EMNLP 2021 [paper](https://aclanthology.org/2021.emnlp-main.51.pdf) [code](https://github.com/mourga/contrastive-active-learning)
 
 - **Finding and Fixing Spurious Patterns with Explanations**
   Gregory Plumb, Marco Tulio Ribeiro, Ameet Talwalkar; arXiv 2021 [paper](https://arxiv.org/pdf/2106.02112)
