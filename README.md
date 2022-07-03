@@ -262,6 +262,9 @@ Approaches that combine supervision on the explanations with interactive machine
 - **Interaction with Explanations in the XAINES Project**
   Mareike Hartmann, Ivana Kruijff-Korbayová, Daniel Sonntag; arXiv 2021 [paper](https://dataninja.nrw/wp-content/uploads/2021/09/7_Hartmann_XAINES_Abstract.pdf)
 
+- **A Rationale-Centric Framework for Human-in-the-loop Machine Learning**
+  Jinghui Lu, Linyi Yang, Brian Mac Namee, Yue Zhang; ACL 2022 [paper](https://aclanthology.org/2022.acl-long.481.pdf) [code](https://github.com/GeorgeLuImmortal/RDL-Rationales-centric-Double-robustness-Learning/)
+
 - **A Typology to Explore and Guide Explanatory Interactive Machine Learning**
   Felix Friedrich, Wolfgang Stammer, Patrick Schramowski, Kristian Kersting; arXiv 2022 [paper](https://arxiv.org/pdf/2203.03668)
 
