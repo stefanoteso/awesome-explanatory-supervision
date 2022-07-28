@@ -166,6 +166,9 @@ Approaches that supervise the model's explanations.
 - **A survey on improving NLP models with human explanations**
   Mareike Hartmann, Daniel Sonntag; arXiv 2022 [paper](https://arxiv.org/pdf/2204.08892.pdf)
 
+- **VisFIS: Visual Feature Importance Supervision with Right-for-the-Right-Reason Objectives**
+  Zhuofan Ying, Peter Hase, and Mohit Bansal; arXiv 2022 [paper](https://arxiv.org/pdf/2206.11212) [code](https://github.com/zfying/visfis)
+
 ----
 
 
