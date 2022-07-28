@@ -166,9 +166,6 @@ Approaches that supervise the model's explanations.
 - **A survey on improving NLP models with human explanations**
   Mareike Hartmann, Daniel Sonntag; arXiv 2022 [paper](https://arxiv.org/pdf/2204.08892.pdf)
 
-- **CAIPI in Practice: Towards Explainable Interactive Medical Image Classification**
-  Emanuel Slany, Yannik Ott, Stephan Scheele, Jan Paulus, Ute Schmid; arXiV 2022 [paper](https://arxiv.org/pdf/2204.02661)
-
 ----
 
 
@@ -267,6 +264,9 @@ Approaches that combine supervision on the explanations with interactive machine
 
 - **A Typology to Explore and Guide Explanatory Interactive Machine Learning**
   Felix Friedrich, Wolfgang Stammer, Patrick Schramowski, Kristian Kersting; arXiv 2022 [paper](https://arxiv.org/pdf/2203.03668)
+
+- **CAIPI in Practice: Towards Explainable Interactive Medical Image Classification**
+  Emanuel Slany, Yannik Ott, Stephan Scheele, Jan Paulus, Ute Schmid; arXiV 2022 [paper](https://arxiv.org/pdf/2204.02661)
 
 ----
 
