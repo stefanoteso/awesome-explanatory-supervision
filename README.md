@@ -535,6 +535,9 @@ A selection of general resources on Explainable AI focusing on overviews, survey
 - **How Well do Feature Visualizations Support Causal Understanding of CNN Activations?**
   Roland Zimmermann,Judy Borowski, Robert Geirhos, Matthias Bethge, Thomas Wallis, Wieland Brendel; arXiv 2021 [paper](https://arxiv.org/pdf/2106.12447)
 
+- **Post hoc explanations may be ineffective for detecting unknown spurious correlation**
+  Julius Adebayo, Michael Muelly, Harold Abelson, and Been Kim; ICLR 2022 [paper](https://openreview.net/pdf?id=xNOVfCCvDpM) [code](https://github.com/adebayoj/posthocspurious)
+
 ----
 
 
