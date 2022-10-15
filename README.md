@@ -269,7 +269,10 @@ Approaches that combine supervision on the explanations with interactive machine
   Felix Friedrich, Wolfgang Stammer, Patrick Schramowski, Kristian Kersting; arXiv 2022 [paper](https://arxiv.org/pdf/2203.03668)
 
 - **CAIPI in Practice: Towards Explainable Interactive Medical Image Classification**
-  Emanuel Slany, Yannik Ott, Stephan Scheele, Jan Paulus, Ute Schmid; arXiV 2022 [paper](https://arxiv.org/pdf/2204.02661)
+  Emanuel Slany, Yannik Ott, Stephan Scheele, Jan Paulus, Ute Schmid; arXiv 2022 [paper](https://arxiv.org/pdf/2204.02661)
+
+- **Leveraging Explanations in Interactive Machine Learning: An Overview**
+  Stefano Teso, Öznur Alkan, Wolfgang Stammer, Elizabeth Daly; arXiv 2022 [paper](https://arxiv.org/pdf/2207.14526)
 
 ----
 
