@@ -160,6 +160,9 @@ Approaches that supervise the model's explanations.
 - **Supervising Model Attention with Human Explanations for Robust Natural Language Inference**
   Joe Stacey, Yonatan Belinkov, Marek Rei; AAAI 2022 [paper](https://arxiv.org/pdf/2104.08142.pdf) [code](https://github.com/joestacey/NLI_with_a_human_touch)
 
+- **Finding and removing Clever Hans: Using explanation methods to debug and improve deep models**
+  Christopher Anders, Leander Weber, David Neumann, Wojciech Samek, Klaus-Robert Müller, Klaus-Robert, Sebastian Lapuschkin; Information Fusion 2022 [paper](https://www.sciencedirect.com/science/article/pii/S1566253521001573) [code](https://github.com/virelay/virelay) [code](https://github.com/virelay/corelay)
+
 - **Toward Learning Human-aligned Cross-domain Robust Models by Countering Misaligned Features**
   Haohan Wang, Zeyi Huang, Hanlin Zhang, Eric P. Xing; arXiv 2022 [paper](https://arxiv.org/pdf/2111.03740)
 
