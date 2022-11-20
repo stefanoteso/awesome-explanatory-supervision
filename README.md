@@ -221,6 +221,9 @@ Approaches that combine supervision on the explanations with interactive machine
   Teodora Popordanoska, Mohit Kumar, Stefano Teso; arXiv 2020 [paper](https://arxiv.org/pdf/2009.09723.pdf) [code](https://github.com/tpopordanoska/explanatory-guided-learning)
   `Notes: introduces narrative bias and explanatory guided learning, focuses on human-initiated interaction and global explanations.`
 
+- **Teaching an Active Learner with Contrastive Examples**
+  Chaoqi Wang, Adish Singla, Yuxin Chen. NeurIPS 2021. [paper](https://proceedings.neurips.cc/paper/2021/file/958adb57686c2fdec5796398de5f317a-Paper.pdf)
+
 - **Right for the Right Concept: Revising Neuro-Symbolic Concepts by Interacting with their Explanations**
   Wolfgang Stammer, Patrick Schramowski, and Kristian Kersting; CVPR 2021 [paper](https://arxiv.org/pdf/2011.12854) [code](https://github.com/ml-research/NeSyXIL)
   `Notes: first-order logic, attention.`
