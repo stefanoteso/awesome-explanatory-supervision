@@ -172,6 +172,9 @@ Approaches that supervise the model's explanations.
 - **VisFIS: Visual Feature Importance Supervision with Right-for-the-Right-Reason Objectives**
   Zhuofan Ying, Peter Hase, and Mohit Bansal; arXiv 2022 [paper](https://arxiv.org/pdf/2206.11212) [code](https://github.com/zfying/visfis)
 
+- **Identifying Spurious Correlations and Correcting them with an Explanation-based Learning**
+  Misgina Tsighe Hagos, Kathleen Curran, Brian Mac Namee; arXiv 2022 [paper](https://arxiv.org/pdf/2211.08285)
+
 ----
 
 
@@ -279,6 +282,9 @@ Approaches that combine supervision on the explanations with interactive machine
 
 - **Leveraging Explanations in Interactive Machine Learning: An Overview**
   Stefano Teso, Öznur Alkan, Wolfgang Stammer, Elizabeth Daly; arXiv 2022 [paper](https://arxiv.org/pdf/2207.14526)
+
+- **Impact of Feedback Type on Explanatory Interactive Learning**
+  Misgina Tsighe Hagos, Kathleen Curran, Brian Mac Namee; ISMIS 2022 [paper](https://arxiv.org/pdf/2209.12476)
 
 ----
 
