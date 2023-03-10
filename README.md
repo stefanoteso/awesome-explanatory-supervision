@@ -164,7 +164,7 @@ Approaches that supervise the model's explanations.
   Christopher Anders, Leander Weber, David Neumann, Wojciech Samek, Klaus-Robert Müller, Klaus-Robert, Sebastian Lapuschkin; Information Fusion 2022 [paper](https://www.sciencedirect.com/science/article/pii/S1566253521001573) [code](https://github.com/virelay/virelay) [code](https://github.com/virelay/corelay)
 
 - **Toward Learning Human-aligned Cross-domain Robust Models by Countering Misaligned Features**
-  Haohan Wang, Zeyi Huang, Hanlin Zhang, Eric P. Xing; arXiv 2022 [paper](https://arxiv.org/pdf/2111.03740)
+  Haohan Wang, Zeyi Huang, Hanlin Zhang, Eric P. Xing; UAI 2022 [paper](https://arxiv.org/pdf/2111.03740) [code](https://github.com/OoDBag/WR)
 
 - **A survey on improving NLP models with human explanations**
   Mareike Hartmann, Daniel Sonntag; arXiv 2022 [paper](https://arxiv.org/pdf/2204.08892.pdf)
