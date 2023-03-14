@@ -286,6 +286,9 @@ Approaches that combine supervision on the explanations with interactive machine
 - **Leveraging Explanations in Interactive Machine Learning: An Overview**
   Stefano Teso, Öznur Alkan, Wolfgang Stammer, Elizabeth Daly; Frontiers in AI 2023 [paper](https://www.frontiersin.org/articles/10.3389/frai.2023.1066049/full) [preprint](https://arxiv.org/pdf/2207.14526)
 
+- **Concept-level Debugging of Part-prototype Networks**
+  Andrea Bontempelli, Stefano Teso, Fausto Giunchiglia, Andrea Passerini; ICLR 2023 [paper](https://openreview.net/pdf?id=oiwXWPDTyNk) [code](https://github.com/abonte/protopdebug)
+
 ----
 
 
