@@ -280,11 +280,11 @@ Approaches that combine supervision on the explanations with interactive machine
 - **CAIPI in Practice: Towards Explainable Interactive Medical Image Classification**
   Emanuel Slany, Yannik Ott, Stephan Scheele, Jan Paulus, Ute Schmid; arXiv 2022 [paper](https://arxiv.org/pdf/2204.02661)
 
-- **Leveraging Explanations in Interactive Machine Learning: An Overview**
-  Stefano Teso, Öznur Alkan, Wolfgang Stammer, Elizabeth Daly; arXiv 2022 [paper](https://arxiv.org/pdf/2207.14526)
-
 - **Impact of Feedback Type on Explanatory Interactive Learning**
   Misgina Tsighe Hagos, Kathleen Curran, Brian Mac Namee; ISMIS 2022 [paper](https://arxiv.org/pdf/2209.12476)
+
+- **Leveraging Explanations in Interactive Machine Learning: An Overview**
+  Stefano Teso, Öznur Alkan, Wolfgang Stammer, Elizabeth Daly; Frontiers in AI 2023 [paper](https://www.frontiersin.org/articles/10.3389/frai.2023.1066049/full) [preprint](https://arxiv.org/pdf/2207.14526)
 
 ----
 
