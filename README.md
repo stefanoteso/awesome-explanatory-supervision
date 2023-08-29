@@ -287,7 +287,10 @@ Approaches that combine supervision on the explanations with interactive machine
   Felix Friedrich, Wolfgang Stammer, Patrick Schramowski, Kristian Kersting; arXiv 2022 [paper](https://arxiv.org/pdf/2203.03668)
 
 - **CAIPI in Practice: Towards Explainable Interactive Medical Image Classification**
-  Emanuel Slany, Yannik Ott, Stephan Scheele, Jan Paulus, Ute Schmid; arXiv 2022 [paper](https://arxiv.org/pdf/2204.02661)
+  Emanuel Slany, Yannik Ott, Stephan Scheele, Jan Paulus, Ute Schmid; IFIP International Conference on Artificial Intelligence Applications and Innovations, 2022 [paper](https://arxiv.org/pdf/2204.02661)
+
+- **Semantic Interactive Learning for Text Classification: A Constructive Approach for Contextual Interactions**
+  Semastian Kieger, Mareike Hoffmann, Ute Schmid; Machine Learning and Knowledge Extraction, 2022 [paper](https://www.mdpi.com/2504-4990/4/4/50/pdf)
 
 - **Impact of Feedback Type on Explanatory Interactive Learning**
   Misgina Tsighe Hagos, Kathleen Curran, Brian Mac Namee; ISMIS 2022 [paper](https://arxiv.org/pdf/2209.12476)
