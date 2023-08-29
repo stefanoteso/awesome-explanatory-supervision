@@ -181,6 +181,8 @@ Approaches that supervise the model's explanations.
 - **Using Explanations to Guide Models**
   Sukrut Rao, Moritz Böhle, Amin Parchami-Araghi, Bernt Schiele; arXiv 2023 [paper](https://arxiv.org/pdf/2303.11932)
 
+- **Spuriosity Didn't Kill the Classifier: Using Invariant Predictions to Harness Spurious Features**
+  Cian Eastwood, Shashank Singh, Andrei Liviu Nicolicioiu, Marin Vlastelica, Julius von K{\"u}gelgen, Benrnhard Sch{\"o}lkopf; arXiv 2023 [paper](https://arxiv.org/pdf/2307.09933)
 ----
 
 
