@@ -301,6 +301,9 @@ Approaches that combine supervision on the explanations with interactive machine
 - **Concept-level Debugging of Part-prototype Networks**
   Andrea Bontempelli, Stefano Teso, Fausto Giunchiglia, Andrea Passerini; ICLR 2023 [paper](https://openreview.net/pdf?id=oiwXWPDTyNk) [code](https://github.com/abonte/protopdebug)
 
+- **Learning to Intervene on Concept Bottlenecks**
+  David Steinmann, Wolfgang Stammer, Felix Friedrich, Kristian Kersting; arXiv 2023 [paper](https://arxiv.org/pdf/2308.13453)
+
 ----
 
 
