@@ -74,6 +74,9 @@ Approaches that supervise the model's explanations.
 - **TED: Teaching AI to explain its decisions**
   Michael Hind, Dennis Wei, Murray Campbell, Noel Codella, Amit Dhurandhar, Aleksandra Mojsilović, Karthikeyan Ramamurthy, Kush Varshney; AIES 2019 [paper](https://arxiv.org/pdf/1811.04896.pdf)
 
+- **Incorporating Priors with Feature Attribution on Text Classification**
+  Frederick Liu, Besim Avci; ACL 2019 [paper](https://aclanthology.org/P19-1631.pdf)
+
 - **Saliency Learning: Teaching the Model Where to Pay Attention**
   Reza Ghaeini, Xiaoli Fern, Hamed Shahbazi, Prasad Tadepalli; NAACL 2019 [paper](https://aclanthology.org/N19-1404.pdf)
 
