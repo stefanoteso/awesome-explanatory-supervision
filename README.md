@@ -187,6 +187,9 @@ Approaches that supervise the model's explanations.
 - **Spuriosity Didn't Kill the Classifier: Using Invariant Predictions to Harness Spurious Features**
   Cian Eastwood, Shashank Singh, Andrei Liviu Nicolicioiu, Marin Vlastelica, Julius von Kügelgen, Benrnhard Schölkopf; arXiv 2023 [paper](https://arxiv.org/pdf/2307.09933)
 
+- **Learning by Self-Explaining**
+  Wolfgang Stammer, Felix Friedrich, David Steinmann, Hikaru Shindo, Kristian Kersting; arXiv 2023 [paper](https://arxiv.org/pdf/2309.08395)
+
 ----
 
 
