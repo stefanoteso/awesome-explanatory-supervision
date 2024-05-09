@@ -178,7 +178,6 @@ Approaches that supervise the model's explanations.
 - **Identifying Spurious Correlations and Correcting them with an Explanation-based Learning**
   Misgina Tsighe Hagos, Kathleen Curran, Brian Mac Namee; arXiv 2022 [paper](https://arxiv.org/pdf/2211.08285)
 
-<<<<<<< HEAD
 - **Using Explanations to Guide Models**
   Sukrut Rao, Moritz Böhle, Amin Parchami-Araghi, Bernt Schiele; ICCV 2023 [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Rao_Studying_How_to_Efficiently_and_Effectively_Guide_Models_with_Explanations_ICCV_2023_paper.pdf) [code](https://github.com/sukrutrao/Model-Guidance)
 
