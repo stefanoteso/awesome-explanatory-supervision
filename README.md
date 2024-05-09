@@ -178,6 +178,7 @@ Approaches that supervise the model's explanations.
 - **Identifying Spurious Correlations and Correcting them with an Explanation-based Learning**
   Misgina Tsighe Hagos, Kathleen Curran, Brian Mac Namee; arXiv 2022 [paper](https://arxiv.org/pdf/2211.08285)
 
+<<<<<<< HEAD
 - **Using Explanations to Guide Models**
   Sukrut Rao, Moritz Böhle, Amin Parchami-Araghi, Bernt Schiele; ICCV 2023 [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Rao_Studying_How_to_Efficiently_and_Effectively_Guide_Models_with_Explanations_ICCV_2023_paper.pdf) [code](https://github.com/sukrutrao/Model-Guidance)
 
@@ -189,6 +190,9 @@ Approaches that supervise the model's explanations.
 
 - **Learning by Self-Explaining**
   Wolfgang Stammer, Felix Friedrich, David Steinmann, Hikaru Shindo, Kristian Kersting; arXiv 2023 [paper](https://arxiv.org/pdf/2309.08395)
+
+- **Spurious features everywhere-large-scale detection of harmful spurious features in imagenet**
+  Yannic Neuhaus, Maximilian Augustin, Valentyn Boreiko, Matthias Hein; ICCV 2023 [paper](http://openaccess.thecvf.com/content/ICCV2023/papers/Neuhaus_Spurious_Features_Everywhere_-_Large-Scale_Detection_of_Harmful_Spurious_Features_ICCV_2023_paper.pdf) [code](https://github.com/YanNeu/spurious_imagenet)
 
 ----
 
