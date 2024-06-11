@@ -190,9 +190,6 @@ Approaches that supervise the model's explanations.
 - **Spuriosity Didn't Kill the Classifier: Using Invariant Predictions to Harness Spurious Features**
   Cian Eastwood, Shashank Singh, Andrei Liviu Nicolicioiu, Marin Vlastelica, Julius von Kügelgen, Benrnhard Schölkopf; arXiv 2023 [paper](https://arxiv.org/pdf/2307.09933)
 
-- **Learning by Self-Explaining**
-  Wolfgang Stammer, Felix Friedrich, David Steinmann, Hikaru Shindo, Kristian Kersting; arXiv 2023 [paper](https://arxiv.org/pdf/2309.08395)
-
 - **Spurious features everywhere-large-scale detection of harmful spurious features in imagenet**
   Yannic Neuhaus, Maximilian Augustin, Valentyn Boreiko, Matthias Hein; ICCV 2023 [paper](http://openaccess.thecvf.com/content/ICCV2023/papers/Neuhaus_Spurious_Features_Everywhere_-_Large-Scale_Detection_of_Harmful_Spurious_Features_ICCV_2023_paper.pdf) [code](https://github.com/YanNeu/spurious_imagenet)
 
@@ -382,6 +379,9 @@ Approaches that regularize the model's explanations in an unsupervised manner, o
 - **Generating Deep Networks Explanations with Robust Attribution Alignment**
   Guohang Zeng, Yousef Kowsar, Sarah Erfani, James Bailey; ACML 2021 [paper](https://proceedings.mlr.press/v157/zeng21b/zeng21b.pdf)
 
+- **Learning by Self-Explaining**
+  Wolfgang Stammer, Felix Friedrich, David Steinmann, Hikaru Shindo, Kristian Kersting; arXiv 2023 [paper](https://arxiv.org/pdf/2309.08395)
+
 
 ----
 
@@ -525,6 +525,9 @@ A selection of general resources on Explainable AI focusing on overviews, survey
 
 - **Sanity checks for saliency maps**
   Julius Adebayo, Justin Gilmer, Michael Muelly, Ian Goodfellow, Moritz Hardt, Been Kim; NeurIPS 2018 [paper](http://papers.neurips.cc/paper/8160-sanity-checks-for-saliency-maps.pdf) [code](https://github.com/adebayoj/sanity_checks_saliency)
+
+- **Recognition in terra incognita**
+  Sara Beery, Grant Van Horn, Pietro Perona; ECCV 2018 [paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Beery_Recognition_in_Terra_ECCV_2018_paper.pdf)
 
 - **Explanation in Artificial Intelligence: Insights from the Social Sciences**
   Tim Miller; Artificial Intelligence, 2019 [paper](https://www.sciencedirect.com/science/article/abs/pii/S0004370218305988)
