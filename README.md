@@ -586,6 +586,9 @@ A selection of general resources on Explainable AI focusing on overviews, survey
 - **Post hoc explanations may be ineffective for detecting unknown spurious correlation**
   Julius Adebayo, Michael Muelly, Harold Abelson, and Been Kim; ICLR 2022 [paper](https://openreview.net/pdf?id=xNOVfCCvDpM) [code](https://github.com/adebayoj/posthocspurious)
 
+- **Where is the Truth? The Risk of Getting Confounded in a Continual World**
+  Florian Peter Busch, Roshni Kamath, Rupert Mitchell, Wolfgang Stammer, Kristian Kersting, Martin Mundt
+
 ----
 
 
