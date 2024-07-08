@@ -193,6 +193,8 @@ Approaches that supervise the model's explanations.
 - **Spurious features everywhere-large-scale detection of harmful spurious features in imagenet**
   Yannic Neuhaus, Maximilian Augustin, Valentyn Boreiko, Matthias Hein; ICCV 2023 [paper](http://openaccess.thecvf.com/content/ICCV2023/papers/Neuhaus_Spurious_Features_Everywhere_-_Large-Scale_Detection_of_Harmful_Spurious_Features_ICCV_2023_paper.pdf) [code](https://github.com/YanNeu/spurious_imagenet)
 
+- **Targeted Activation Penalties Help CNNs Ignore Spurious Signals** Dekai Zhang, Matt Williams, and Francesca Toni; AAAI 2024 [paper](https://ojs.aaai.org/index.php/AAAI/article/view/29610) [code](https://github.com/dkaizhang/tap)
+
 ----
 
 
