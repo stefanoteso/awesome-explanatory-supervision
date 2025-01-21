@@ -384,6 +384,9 @@ Approaches that regularize the model's explanations in an unsupervised manner, o
 - **Learning by Self-Explaining**
   Wolfgang Stammer, Felix Friedrich, David Steinmann, Hikaru Shindo, Kristian Kersting; arXiv 2023 [paper](https://arxiv.org/pdf/2309.08395)
 
+- **Spurious Correlations in Concept Drift: Can Explanatory Interaction Help?**
+  Cristiana Lalletti, Stefano Teso; arXiv 2024 [paper](https://arxiv.org/pdf/2407.16515)
+
 
 ----
 
@@ -589,7 +592,10 @@ A selection of general resources on Explainable AI focusing on overviews, survey
   Julius Adebayo, Michael Muelly, Harold Abelson, and Been Kim; ICLR 2022 [paper](https://openreview.net/pdf?id=xNOVfCCvDpM) [code](https://github.com/adebayoj/posthocspurious)
 
 - **Where is the Truth? The Risk of Getting Confounded in a Continual World**
-  Florian Peter Busch, Roshni Kamath, Rupert Mitchell, Wolfgang Stammer, Kristian Kersting, Martin Mundt
+  Florian Peter Busch, Roshni Kamath, Rupert Mitchell, Wolfgang Stammer, Kristian Kersting, Martin Mundt; arXiv 2024 [paper](https://arxiv.org/pdf/2402.06434)
+
+- **Navigating Shortcuts, Spurious Correlations, and Confounders: From Origins via Detection to Mitigation**
+  David Steinmann, Felix Divo, Maurice Kraus, Antonia Wüst, Lukas Struppek, Felix Friedrich, and Kristian Kersting; arXiv 2024 [paper](https://arxiv.org/pdf/2412.05152?)
 
 ----
 
