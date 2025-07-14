@@ -163,6 +163,9 @@ Approaches that supervise the model's explanations.
 - **What to Learn, and How: Toward Effective Learning from Rationales**
   Samuel Carton, Surya Kanoria, Chenhao Tan; arXiv 2021 [paper](https://arxiv.org/pdf/2112.00071)
 
+- **Improving deep learning performance by using Explainable Artificial Intelligence (XAI) approaches**
+  Vitor Bento, Manoela Kohler, Pedro Diaz, Leonardo Mendoza, Marco Aurelio Pacheco; Discover Artificial Intelligence 2021 [paper](https://link.springer.com/content/pdf/10.1007/s44163-021-00008-y.pdf)
+
 - **Supervising Model Attention with Human Explanations for Robust Natural Language Inference**
   Joe Stacey, Yonatan Belinkov, Marek Rei; AAAI 2022 [paper](https://arxiv.org/pdf/2104.08142.pdf) [code](https://github.com/joestacey/NLI_with_a_human_touch)
 
